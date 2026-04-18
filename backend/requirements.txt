@@ -1,0 +1,13 @@
+fastapi[standard]
+uvicorn[standard]
+pydantic-settings
+python-multipart
+openai
+PyMuPDF
+openpyxl
+supabase
+httpx
+beautifulsoup4
+lxml
+trafilatura
+playwright

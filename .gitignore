@@ -1,0 +1,67 @@
+# ========================
+# Python / Backend
+# ========================
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.mypy_cache/
+.pytest_cache/
+
+# ========================
+# Node / Frontend
+# ========================
+node_modules/
+frontend/node_modules/
+
+# ========================
+# Environment & Secrets
+# ========================
+.env
+.env.local
+.env.*.local
+backend/.env
+
+# ========================
+# IDE & OS
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ========================
+# Large / Binary Files
+# ========================
+*.pdf
+*.xlsm
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.zip
+*.tar.gz
+
+# ========================
+# Debug & Temp Files
+# ========================
+debug_screenshot.png
+*.log
+
+# ========================
+# Agent Config (optional)
+# ========================
+.agent/
+.gemini/

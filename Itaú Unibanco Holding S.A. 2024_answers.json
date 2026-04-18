@@ -1,0 +1,4638 @@
+{
+  "Controvérsias": [
+    {
+      "row": 5,
+      "question_id": null,
+      "question_text": "Ranking do Banco Central atualiza líderes de reclamações no setor bancário: Pagseguro, Inter, Itaú e Bradesco se destacam negativamente.",
+      "answer": "2025-01-22 00:00:00",
+      "source": "Baixa"
+    },
+    {
+      "row": 6,
+      "question_id": null,
+      "question_text": "Ex-diretor do Itaú é acusado de infringir normas por conflito de interesses e Banco Central é acionado\n\n",
+      "answer": "2024-12-07 00:00:00",
+      "source": "Baixa"
+    },
+    {
+      "row": 7,
+      "question_id": null,
+      "question_text": "Banco Central divulga ranking de reclamações do terceiro trimestre de 2024.\n\n",
+      "answer": "2024-10-24 00:00:00",
+      "source": "Baixa"
+    },
+    {
+      "row": 8,
+      "question_id": null,
+      "question_text": "Nubank, Itaú, Santander, Banco do Brasil e Banco Pan apresentam instabilidade em seus serviços.\n\n",
+      "answer": "2024-09-06 00:00:00",
+      "source": "Severa"
+    },
+    {
+      "row": 9,
+      "question_id": null,
+      "question_text": "Financiamento de gigantes bancários alimenta a exploração de petróleo e gás na Amazônia, revela relatório.\n\n",
+      "answer": "2024-06-11 00:00:00",
+      "source": "Moderada"
+    },
+    {
+      "row": 10,
+      "question_id": null,
+      "question_text": "Bancos brasileiros lideram financiamentos de atividades que ameaçam florestas com quase US$ 130 bilhões. ",
+      "answer": "2023-12-06 00:00:00",
+      "source": "Severa"
+    },
+    {
+      "row": 11,
+      "question_id": null,
+      "question_text": "Sistemas de Itaú e Nubank sofrem instabilidade e clientes relatam problemas com Pix.",
+      "answer": "2023-09-27 00:00:00",
+      "source": "Severa"
+    },
+    {
+      "row": 12,
+      "question_id": null,
+      "question_text": "O Banco Itaú foi condenado a indenizar uma correntista em R$ 32,8 mil após ela ser vítima de um golpe que envolveu o vazamento de seus dados bancários.",
+      "answer": "2023-09-19 00:00:00",
+      "source": "Severa"
+    },
+    {
+      "row": 13,
+      "question_id": null,
+      "question_text": "O vazamento de dados sensíveis do Banco Itaú representa um risco significativo para os clientes afetados. Cerca de 700 mil linhas de informações, incluindo CPF, nomes e dados bancários, foram expostas.",
+      "answer": "2023-07-24 00:00:00",
+      "source": "Severa"
+    },
+    {
+      "row": 14,
+      "question_id": null,
+      "question_text": "Itaucard do Itaú Unibanco Holding SA entre várias instituições financeiras investigadas pelo governo brasileiro por suposta fraude de cartão de crédito.",
+      "answer": "2022-08-25 00:00:00",
+      "source": "Baixa"
+    },
+    {
+      "row": 15,
+      "question_id": null,
+      "question_text": "Após clientes do Itaú apontarem erros em seus extratos bancários, site e aplicativo ficam fora do ar e banco é notificado pelo Procon.",
+      "answer": "2022-03-08 00:00:00",
+      "source": "Baixa"
+    },
+    {
+      "row": 16,
+      "question_id": null,
+      "question_text": "Itaú é condenado a pagar multa no valor de R$ 500 mil por erro que culminou na prisão do deputado André Corrêa, envolvido na operação “lava jato.”",
+      "answer": "2022-02-07 00:00:00",
+      "source": "Moderada"
+    }
+  ],
+  "Materialidade": [
+    {
+      "row": 34,
+      "question_id": "0.9615384615384616",
+      "question_text": null,
+      "answer": "0.8472222222222222",
+      "source": "0.9871794871794872"
+    },
+    {
+      "row": 37,
+      "question_id": "0.35",
+      "question_text": null,
+      "answer": "0.3",
+      "source": "0.3"
+    },
+    {
+      "row": 38,
+      "question_id": "0.3",
+      "question_text": null,
+      "answer": "0.35",
+      "source": "0.35"
+    },
+    {
+      "row": 39,
+      "question_id": "0.35",
+      "question_text": null,
+      "answer": "0.35",
+      "source": "0.35"
+    }
+  ],
+  "Recursos Hídricos": [
+    {
+      "row": 5,
+      "question_id": "1.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "10"
+    },
+    {
+      "row": 6,
+      "question_id": "1.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "8.571428571428571"
+    },
+    {
+      "row": 7,
+      "question_id": "1.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 8,
+      "question_id": "1.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "5.454545454545454"
+    },
+    {
+      "row": 13,
+      "question_id": "1.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional envolvendo o tema gestão de recursos hídricos?",
+      "answer": "Sim",
+      "source": "Buscar reduzir os impactos ambientais negativos das operações diretas, ao lado da promoção de práticas sustentáveis, por meio da eficiência no consumo e uso dos recursos naturais, da gestão e destinação adequada dos resíduos e efluentes gerados nas atividades do banco e da eficiência no uso de energia."
+    },
+    {
+      "row": 14,
+      "question_id": "1.1.1.1",
+      "question_text": "A política aborda os seguintes temas: \n- Redução e uso eficiente de recursos hídricos?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 15,
+      "question_id": "1.1.1.2",
+      "question_text": "A política aborda os seguintes temas: \n- Aumento na captação de fontes alternativas e aumento no reuso da água (ex: condensação do sistema de ar condicionado e captação de água das chuvas)?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 16,
+      "question_id": "1.2.1",
+      "question_text": "A empresa monitora dados de consumo ou retirada de água?",
+      "answer": "Sim",
+      "source": "O consumo de água foi de 1.139.714 m3 em 2024."
+    },
+    {
+      "row": 17,
+      "question_id": "1.2.1.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 18,
+      "question_id": "1.2.1.2",
+      "question_text": "O indicador corresponde a mais de 50% das operações da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 19,
+      "question_id": "1.2.1.3",
+      "question_text": "O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer": "Sim",
+      "source": "Em 2022, o indicador foi de 688.811 m3 e em 2024 foi de 1.139.714 m3. Analisando a razão do consumo pela receita, houve redução de 21% no último triênio."
+    },
+    {
+      "row": 20,
+      "question_id": "1.2.2",
+      "question_text": "A empresa possui metas quantitativas relacionadas ao consumo e retirada de água?",
+      "answer": "Sim",
+      "source": "A empresa possui as metas de reduzir o consumo, no Brasil, em 21,6% até 2030, considerando a base de 1.093.486 m³ em 2023; Consumir até 1.034.869 m³ de água em 2025, e em 2024 a meta foi de consumir até  750.361 m3, que não foi atingida pois a empresa consumiu 1.139.714 m3."
+    },
+    {
+      "row": 21,
+      "question_id": "1.2.2.1",
+      "question_text": "As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer": "Não",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 22,
+      "question_id": "1.2.2.2",
+      "question_text": "As metas e/ou indicadores são disponibilizadas para o público?",
+      "answer": "Sim",
+      "source": "Sim, no Relatório ESG."
+    },
+    {
+      "row": 23,
+      "question_id": "1.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 24,
+      "question_id": "1.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "1.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 26,
+      "question_id": "1.4.1",
+      "question_text": "A empresa possui ações de captação de fontes alternativas de água (dessalinização, água de chuva, condensação do sistema de ar condicionado)?",
+      "answer": "Sim",
+      "source": " A empresa informa consumir água da chuva, vide tabela \"Consumo de água no Brasil.\""
+    },
+    {
+      "row": 27,
+      "question_id": "1.4.1.1",
+      "question_text": "A ação representa mais de 25% do consumo de água da empresa?",
+      "answer": "Não",
+      "source": "Representa 0,8% do total do consumo de água."
+    },
+    {
+      "row": 28,
+      "question_id": "1.4.1.2",
+      "question_text": "A ação representa mais de 50% do consumo de água da empresa?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 29,
+      "question_id": "1.4.2",
+      "question_text": "A empresa possui ações para tratamento de água para reuso?",
+      "answer": "Sim",
+      "source": "A empresa utiliza água de reúso, vide tabela \"Consumo de água no Brasil.\""
+    },
+    {
+      "row": 30,
+      "question_id": "1.4.2.1",
+      "question_text": "A ação representa mais de 25% do consumo de água da empresa?",
+      "answer": "Não",
+      "source": "Representa 2,9% do total."
+    },
+    {
+      "row": 31,
+      "question_id": "1.4.2.2",
+      "question_text": "A ação representa mais de 50% do consumo de água da empresa?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 32,
+      "question_id": "1.4.3",
+      "question_text": "A empresa faz parte de grupos de trabalho ou iniciativas voluntárias voltadas a melhorar a gestão de recursos hídricos (ex. comitê de bacias hidrográficas)?",
+      "answer": "Sim",
+      "source": "\"Os indicadores de consumo e captação de água são monitorados em comitê multidisciplinar composto por equipes operacionais e de gestão ambiental. \""
+    },
+    {
+      "row": 33,
+      "question_id": "1.4.4",
+      "question_text": "A empresa monitora o risco hídrico presente ou futuro nas unidades em que opera?",
+      "answer": "Sim",
+      "source": "\"Para garantir e manter a disponibilidade hídrica em nossos prédios e operações, atualizamos periodicamente nosso plano de contingência de abastecimento e consumo de água.\""
+    },
+    {
+      "row": 34,
+      "question_id": "1.4.5",
+      "question_text": "A empresa realiza treinamento de colaboradores acerca da melhoria da eficiência no consumo de água?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 35,
+      "question_id": "1.4.6",
+      "question_text": "A empresa investe em soluções para apoiar o controle confiável e preciso dos dados de coleta de água como telemetria e sistemas inteligentes que identificam vazamentos?",
+      "answer": "Sim",
+      "source": "\"Também realizamos o controle das faturas de consumo de água nos prédios administrativos e agências bancárias, através de um sistema que auxilia na identificação de picos não eventuais de consumo, nos permitindo buscar melhorias de maneira direcionada.Todos os dados são monitorados internamente pela área de Riscos.\""
+    },
+    {
+      "row": 36,
+      "question_id": "1.4.7",
+      "question_text": "A empresa possui ações para monitoramento de risco hídrico presente e futuro nas bacias em que opera?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 37,
+      "question_id": "1.4.8",
+      "question_text": "A empresa possui certificações ISO 46001 para mais de 10% de suas operações?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 38,
+      "question_id": "1.4.8.1",
+      "question_text": "A empresa possui certificações ISO 46001 para mais de 50% de suas operações?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 39,
+      "question_id": "1.4.9",
+      "question_text": "Outras ações relacionadas a gestão eficiente de recursos hídricos (Ex: Certificação LEED CI)?",
+      "answer": "Sim",
+      "source": "\"Certificação AQUA (Alta Qualidade Ambiental): emitido pela Fundação Vanzolini que, além das eficiências em consumo de água, energia e materiais, também avalia todo o sistema de gestão do empreendimento e qualidade ambiental do edifício.\""
+    }
+  ],
+  "Recursos Energéticos": [
+    {
+      "row": 5,
+      "question_id": "2.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "10"
+    },
+    {
+      "row": 6,
+      "question_id": "2.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "10"
+    },
+    {
+      "row": 7,
+      "question_id": "2.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 8,
+      "question_id": "2.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "6.25"
+    },
+    {
+      "row": 13,
+      "question_id": "2.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional envolvendo o tema gestão de recursos energéticos?",
+      "answer": "Sim",
+      "source": "Buscar reduzir os impactos ambientais negativos das operações diretas, ao lado da promoção de práticas sustentáveis, por meio da eficiência no consumo e uso dos recursos naturais, da gestão e destinação adequada dos resíduos e efluentes gerados nas atividades do banco e da eficiência no uso de energia."
+    },
+    {
+      "row": 14,
+      "question_id": "2.1.1.1",
+      "question_text": "A política aborda os seguintes temas: \n- Redução e uso eficiente de recursos energéticos?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 15,
+      "question_id": "2.1.1.2",
+      "question_text": "A política aborda os seguintes temas: \n- Aumento na participação de fontes renováveis?",
+      "answer": "Sim",
+      "source": "Buscar reduzir os impactos ambientais negativos das operações diretas, ao lado da promoção de práticas sustentáveis, por meio da eficiência no consumo e uso dos recursos naturais, da gestão e destinação adequada dos resíduos e efluentes gerados nas atividades do banco e da eficiência no uso de energia."
+    },
+    {
+      "row": 16,
+      "question_id": "2.2.1",
+      "question_text": "A empresa monitora dados de consumo de energia elétrica?",
+      "answer": "Sim",
+      "source": "A empresa consumiu 366.773 MWh/ 1.320.383 GJ em 2024."
+    },
+    {
+      "row": 17,
+      "question_id": "2.2.1.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 18,
+      "question_id": "2.2.1.2",
+      "question_text": "O indicador corresponde a mais de 50% das operações da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 19,
+      "question_id": "2.2.1.3",
+      "question_text": "O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer": "Sim",
+      "source": "Em 2022 o indicador foi de 1.444.716 GJ e em 2024 foi de 1.320.383 GJ. Analisando a razão do consumo pela receita, houve redução de 56% no último triênio."
+    },
+    {
+      "row": 20,
+      "question_id": "2.2.2",
+      "question_text": "A empresa possui metas quantitativas relacionadas ao consumo ou intensidade do consumo de energia elétrica?",
+      "answer": "Sim",
+      "source": "A empresa possui o objetivo de reduzir 16,6% o consumo de energia no Brasil em 2030, com base de 384.762 MWh em 2023; Para 2025, a meta é consumir até 360.983 MWh de energia elétrica no Brasil e certificar que 100% da energia consumida no Brasil seja de fonte renovável; Para 2024, as metas foram consumir até 390.302 MWh de energia elétrica no Brasil, a empresa alcançou 366.772,8 MWh, e certificar, pela compra de RECs, que 100% da energia consumida no Brasil seja de fonte renovável, a empresa alcançou 100% em 2024."
+    },
+    {
+      "row": 21,
+      "question_id": "2.2.2.1",
+      "question_text": "As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 22,
+      "question_id": "2.2.2.2",
+      "question_text": "As metas e/ou indicadores acima são disponibilizados para o público?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 23,
+      "question_id": "2.2.3",
+      "question_text": "A empresa monitora e possui a participação de fontes renováveis no consumo de energia elétrica?",
+      "answer": "Sim",
+      "source": "\"Energia consumida proveniente de fontes renováveis: 100%\"\n"
+    },
+    {
+      "row": 24,
+      "question_id": "2.2.3.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 25,
+      "question_id": "2.2.3.2",
+      "question_text": "A empresa possui metas quantitativas relacionadas a participação de fontes renováveis de energia elétrica?",
+      "answer": "Sim",
+      "source": "Meta 2024: Certificar, pela compra de RECs, que 100% da energia consumida no Brasil seja de fonte renovável, a empresa alcançou 100% em 2024."
+    },
+    {
+      "row": 26,
+      "question_id": "2.2.3.3",
+      "question_text": "As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 27,
+      "question_id": "2.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 28,
+      "question_id": "2.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 29,
+      "question_id": "2.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 30,
+      "question_id": "2.4.1",
+      "question_text": "Adoção de frota ecoeficiente ou frota de híbridos e elétricos?",
+      "answer": "Sim",
+      "source": "\"A frota executiva é composta pelos carros executivos, que ficam estacionados no centro empresarial e realizam o transporte de colaboradores de cargos executivos. No início de 2024, concluímos a alteração da frota executiva para veículos híbridos com uso de etanol.\""
+    },
+    {
+      "row": 31,
+      "question_id": "2.4.2",
+      "question_text": "Investimentos em geração de energia renovável (solar, eólica, biomassa, etc.)?",
+      "answer": "Sim",
+      "source": "\"Pela abordagem de escolha de compra, investimos continuamente em energia limpa, renovável e zero emissão. Temos painéis fotovoltaicos em prédios administrativos, geração distribuída em agências e estamos no Mercado Livre de Energia.\""
+    },
+    {
+      "row": 32,
+      "question_id": "2.4.3",
+      "question_text": "Aquisição de energia de fontes renováveis não convencionais (solar, eólica, biomassa, etc.)?",
+      "answer": "Sim",
+      "source": "\"Portanto, investimos na compra de Certificados de Energia Renovável (RECs), para 100% da energia elétrica que consumimos no Brasil. Dessa forma, pela abordagem de escolha de compra (market based), nossas emissões são zeradas.\""
+    },
+    {
+      "row": 33,
+      "question_id": "2.4.4",
+      "question_text": "Prédios ecoeficientes ou no padrão green building?",
+      "answer": "Sim",
+      "source": "\"Nossa nova torre administrativa, inaugurada em 2023 em nossa sede, foi projetada integralmente de acordo com os critérios da certificação LEED (Leadership in Energy and Environmental Design) para construções sustentáveis (eficiência energética, uso racional de recursos, qualidade do ambiente interno, entre outros).\""
+    },
+    {
+      "row": 34,
+      "question_id": "2.4.5",
+      "question_text": "Recuperação de calor em processos térmicos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 35,
+      "question_id": "2.4.5.1",
+      "question_text": "A ação representa mais de 50% do consumo energia da empresa?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 36,
+      "question_id": "2.4.6",
+      "question_text": "Investimentos em P&D para tecnologias que reduzam o consumo de energia?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 37,
+      "question_id": "2.4.7",
+      "question_text": "Participa de grupos de trabalho ou iniciativas voluntárias relacionadas a eficiência energética?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 38,
+      "question_id": "2.4.8",
+      "question_text": "Possui certificação ISO 50001 ou análogas para mais de 10% de suas operações?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 39,
+      "question_id": "2.4.8.1",
+      "question_text": "Possui certificação ISO 50001 ou análogas para mais de 50% de suas operações?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 40,
+      "question_id": "2.4.9",
+      "question_text": "Outras ações relacionadas a eficiência energética e uso de energia renovável?",
+      "answer": "Sim",
+      "source": "\"O Fundo Itaú index ESG energia limpa (IS) busca representar o tema de Energia Limpa no mundo, oferecendo acesso a mais de 30 empresas globais que produzem energia de fontes renováveis, como biocombustíveis, energia solar e energia eólica, apoiando a transição para um sistema econômico mais eficiente em emissões de carbono.\""
+    }
+  ],
+  "Sistema Gestão Socioambiental": [
+    {
+      "row": 5,
+      "question_id": "4.1",
+      "question_text": "Políticas e Responsabilidade",
+      "answer": "0.3",
+      "source": null
+    },
+    {
+      "row": 6,
+      "question_id": "4.2",
+      "question_text": "Boas práticas",
+      "answer": "0.7",
+      "source": null
+    },
+    {
+      "row": 11,
+      "question_id": "4.1.1",
+      "question_text": "A empresa possui uma política que defina diretrizes e princípios ambientais e sociais que orientam sua gestão de projetos?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 12,
+      "question_id": "4.1.2",
+      "question_text": "O Sistema de Gestão Ambiental incorpora os seguintes elementos: (i) política; (ii) identificação de aspectos e impactos; (iii) programas de gestão; (iv) capacidade e competência organizacional; (v) preparação e resposta a emergência; (vi) engajamento das partes interessadas; e (vii) monitoramento e análise.",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 13,
+      "question_id": "4.1.3",
+      "question_text": "Qual o nível de responsabilidade mais alto pelo Sistema de Gestão Ambiental dentro da empresa?\n- Diretoria ou conselho (10)\n- Gerências (5)\n- Outros (0)",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 14,
+      "question_id": "4.2.1",
+      "question_text": "O processo de identificação de riscos e impactos abrange riscos e impactos presentes e futuros?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 18,
+      "question_id": "4.2.2",
+      "question_text": "O processo de identificação de riscos aspectos e impactos está baseado em dados de referência socioambientais recentes com um nível apropriado de detalhes?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "4.2.3",
+      "question_text": "O processo de identificação de riscos e impactos leva em consideração os riscos e impactos associados às principais cadeias de abastecimento? (possui indicadores para análise dos riscos sociais e ambientais da cadeia de fornecedores",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 21,
+      "question_id": "4.2.4",
+      "question_text": "O processo de identificação de riscos e impactos leva em conta o resultado do processo de engajamento com as Comunidades Afetadas, quando apropriado?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 22,
+      "question_id": "4.2.5",
+      "question_text": "O Sistema de Gestão Ambiental estabelece e mantem um sistema de preparo e resposta a emergência?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 23,
+      "question_id": "4.2.6",
+      "question_text": "A empresa documenta suas atividades de preparo e resposta a emergência, bem como seus recursos e responsabilidades?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 24,
+      "question_id": "4.2.7",
+      "question_text": "A empresa fornece informações apropriadas às Comunidades potencialmente afetadas e aos órgãos governamentais competentes relacionadas as suas atividades de preparo e resposta a emergência?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "4.2.7",
+      "question_text": "A empresa estabeleceu procedimentos para monitorar e medir a eficácia do programa de gestão, bem como o cumprimento de quaisquer obrigações legais e/ou contratuais e requisitos reguladores?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 26,
+      "question_id": "4.2.8",
+      "question_text": "A empresa conta com uma Estrutura de Engajamento de Partes Interessadas como parte de seu programa de gestão?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 27,
+      "question_id": "4.2.9",
+      "question_text": "A empresa divulga informações relevantes do projeto, ajuda as Comunidades Afetadas e outras partes interessadas a compreenderem os riscos, os impactos e as oportunidades do projeto?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 28,
+      "question_id": "4.2.10",
+      "question_text": "Quando necessário, a empresa estabelece um mecanismo de reclamação para receber e facilitar a solução de preocupações e reclamações das Comunidades Afetadas sobre o desempenho socioambiental da empresa?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 29,
+      "question_id": "4.2.9",
+      "question_text": "A empresa possui Certificação ISO 14001?",
+      "answer": null,
+      "source": null
+    }
+  ],
+  "Materiais básicos": [
+    {
+      "row": 5,
+      "question_id": "3.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 6,
+      "question_id": "3.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 7,
+      "question_id": "3.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 8,
+      "question_id": "3.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 13,
+      "question_id": "3.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional sobre o uso sustentável de recursos naturais e materiais básicos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 14,
+      "question_id": "3.1.1.1",
+      "question_text": "A política aborda os seguintes temas: \n- Redução no uso de insumos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 15,
+      "question_id": "3.1.1.2",
+      "question_text": "A política aborda os seguintes temas: \n- Substituição de insumos básicos por alternativas sustentáveis?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 16,
+      "question_id": "3.2.1",
+      "question_text": "A empresa monitora indicadores de consumo de materiais básicos, insumos e recursos naturais?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 17,
+      "question_id": "3.2.1.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 18,
+      "question_id": "3.2.1.2",
+      "question_text": "Os indicadores compreendem mais de 50% das operações da empresa?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "3.2.1.3",
+      "question_text": "O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "3.2.2",
+      "question_text": "A empresa possui metas associadas a redução no consumo de materiais e recursos naturais?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 21,
+      "question_id": "3.2.2.1",
+      "question_text": "As metas acima vêm sendo atingidas nos últimos 3 anos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 22,
+      "question_id": "3.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 23,
+      "question_id": "3.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema ?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 24,
+      "question_id": "3.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "3.4.1",
+      "question_text": "Ações de substituição de materiais básicos não renováveis por opções renováveis?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 26,
+      "question_id": "3.4.2",
+      "question_text": "Investimentos em P&D?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 27,
+      "question_id": "3.4.3",
+      "question_text": "Outras?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 28,
+      "question_id": "3.4.3",
+      "question_text": "Outras?",
+      "answer": null,
+      "source": null
+    }
+  ],
+  "Resíduos Sólidos": [
+    {
+      "row": 5,
+      "question_id": "4.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "6.666666666666667"
+    },
+    {
+      "row": 6,
+      "question_id": "4.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "10"
+    },
+    {
+      "row": 7,
+      "question_id": "4.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 8,
+      "question_id": "4.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "8"
+    },
+    {
+      "row": 13,
+      "question_id": "4.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional sobre o tema gestão de resíduos sólidos?",
+      "answer": "Sim",
+      "source": "Buscar reduzir os impactos ambientais negativos das operações diretas, ao lado da promoção de práticas sustentáveis, por meio da eficiência no consumo e uso dos recursos naturais, da gestão e destinação adequada dos resíduos e efluentes gerados nas atividades do banco e da eficiência no uso de energia."
+    },
+    {
+      "row": 14,
+      "question_id": "4.1.1.1",
+      "question_text": "A política aborda os seguintes temas: \n- Redução na geração de resíduos sólidos na produção?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 15,
+      "question_id": "4.1.1.2",
+      "question_text": "A política aborda os seguintes temas: \n- Reciclagem e reutilização de resíduos sólidos?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 16,
+      "question_id": "4.2.1",
+      "question_text": "A empresa monitora indicadores de geração de resíduos?",
+      "answer": "Sim",
+      "source": "A empresa gerou 10.461 toneladas de resíduos em 2024."
+    },
+    {
+      "row": 17,
+      "question_id": "4.2.1.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 18,
+      "question_id": "4.2.2",
+      "question_text": "Os indicadores de geração de resíduos são monitorados e divulgados por classe (perigoso e não perigoso)?",
+      "answer": "Sim",
+      "source": "Sim, a empresa monitora e divulga por classe, em que 1.103 toneladas foram de resíduos perigosos, 5.903 toneladas de não perigosos e 3.456 toneladas de resíduos de obras."
+    },
+    {
+      "row": 19,
+      "question_id": "4.2.2.1",
+      "question_text": "Os indicadores acima compreende mais de 50% das operações da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 20,
+      "question_id": "4.2.2.2",
+      "question_text": "O indicador vem apresentando uma tendência de redução nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer": "Sim",
+      "source": "Em 2022 o indicador foi de 7.083 toneladas e em 2024 foi de 10.461 toneladas. Analisando a razão da geração de resíduos pela receita, houve uma redução de 29% no último triênio."
+    },
+    {
+      "row": 21,
+      "question_id": "4.2.3",
+      "question_text": "A empresa possui metas associadas a geração de resíduos?",
+      "answer": "Sim",
+      "source": "A empresa dispõe de diversas metas relacionadas ao tema. Para 2030, Reduzir em 50% os resíduos gerados e destinados para aterro no Brasil, com base de 2.401 ton em 2023. Dentre as 6 metas de 2024, 5 foram cumpridas e a de \"Destinar até 2.935 ton de resíduos gerados no Brasil para aterro. Realizado: 2.157 ton em 2024.\" não foi cumprida."
+    },
+    {
+      "row": 22,
+      "question_id": "4.2.3.1",
+      "question_text": "As metas acima vêm sendo atingidas nos últimos 3 anos?",
+      "answer": "Sim",
+      "source": "Considerou-se que sim devido a maior realização de metas do que o não cumprimento delas."
+    },
+    {
+      "row": 23,
+      "question_id": "4.2.4",
+      "question_text": "A empresa monitora o percentual de resíduos reciclados e o percentual de disposição adequada de resíduos?",
+      "answer": "Sim",
+      "source": "Sim, vide tópico \"Total de resíduos destinados a descarte no Brasil\". Em 2024, 7.015 toneladas de resíduos foram reciclados, 2.157 toneladas foram destinadas a aterro, 839 toneladas foram para incineração e coprocessamento com geração de energia e 450 foram para compostagem."
+    },
+    {
+      "row": 24,
+      "question_id": "4.2.4.1",
+      "question_text": "Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 25,
+      "question_id": "4.2.4.2",
+      "question_text": "O indicador vem apresentando uma tendência de melhoria nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer": "Sim",
+      "source": "Em 2022, 4.034 toneladas de resíduos foram reciclados, e em 2024, esse indicador foi de 7.015. Analisando a razão da reciclagem pela receita, houve um aumento de 36% nos resíduos reciclados."
+    },
+    {
+      "row": 26,
+      "question_id": "4.2.4.3",
+      "question_text": "A empresa possui metas de reciclagem e disposição adequada de resíduos?",
+      "answer": "Sim",
+      "source": "\"Destinar 100% dos resíduos eletrônicos gerados no Brasil para reciclagem. Realizado: 100% em 2024; Destinar 100% dos resíduos de papel gerados no Brasil para reciclagem. Realizado: 100% em 2024; Destinar 5.647 ton de outros materiais gerados no Brasil para reciclagem. Realizado: 100% em 2024."
+    },
+    {
+      "row": 27,
+      "question_id": "4.2.4.4",
+      "question_text": "As metas acima vêm sendo atingidas nos últimos 3 anos?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 28,
+      "question_id": "4.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos (ex. Penalização pela Política Nacional de Resíduos Sólidos) relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 29,
+      "question_id": "4.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 30,
+      "question_id": "4.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 31,
+      "question_id": "4.4.1",
+      "question_text": "Engajamento com distribuidores e consumidores buscando minimizar a geração de resíduos?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 32,
+      "question_id": "4.4.2",
+      "question_text": "A empresa promove treinamento para os colaboradores acerca de melhores práticas de destinação, tratamento, reciclagem e disposição de resíduos?",
+      "answer": "Sim",
+      "source": "\"Oferecemos aos nossos colaboradores, incluindo executivos e times comerciais, capacitações específicas sobre a agenda ESG e Climática. Nossa trilha “Descomplicando a Sustentabilidade e ESG”, aberta a todos os colaboradores, possui conteúdos relacionados a conceitos, desafios globais, responsabilidade social, ambiental e climática e nossa atuação em temas estratégicos da agenda climática, oferecendo uma introdução ao tema para nossos colaboradores.\""
+    },
+    {
+      "row": 33,
+      "question_id": "4.4.3",
+      "question_text": "A empresa oferece mecanismos de logística reversa para o reuso, reciclagem ou destinação adequada dos produtos ao fim de sua vida útil?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 34,
+      "question_id": "4.4.4",
+      "question_text": "Uso de embalagens de material reutilizável nos produtos vendidos/produzidos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 35,
+      "question_id": "4.4.5",
+      "question_text": "Participação em acordos setoriais de logística reversa no âmbito da PNRS?",
+      "answer": "Sim",
+      "source": "\"Seguimos as diretrizes da Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010).\""
+    },
+    {
+      "row": 36,
+      "question_id": "4.4.6",
+      "question_text": "Reaproveitamento de resíduos para produção de adubo (compostagem, biodigestores) ou coprocessamento?",
+      "answer": "Sim",
+      "source": "\"Os resíduos orgânicos, incluindo restos de alimentos dos restaurantes nos centros empresariais e de aparas e varreduras de folhas e jardins, são enviados para compostagem, enquanto as toalhas de papel dos banheiros são recicladas, reduzindo a quantidade de resíduos desviados dos aterros.\""
+    },
+    {
+      "row": 37,
+      "question_id": "4.4.7",
+      "question_text": "Outras?",
+      "answer": "Sim",
+      "source": "\"Para garantir a melhoria contínua dos processos de destinação de resíduos, contamos com serviços de coleta seletiva nas agências não atendidas pela rede pública e homologamos tecnicamente os fornecedores dos prédios certificados pela ISO 14001.\""
+    }
+  ],
+  "Efluentes líquidos": [
+    {
+      "row": 5,
+      "question_id": "5.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 6,
+      "question_id": "5.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 7,
+      "question_id": "5.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 8,
+      "question_id": "5.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 13,
+      "question_id": "5.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional sobre o tema gestão de efluentes líquidos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 14,
+      "question_id": "5.1.1.1",
+      "question_text": "A política aborda os seguintes temas: \n- Redução na geração ou tratamento adequado de efluentes líquidos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 15,
+      "question_id": "5.2.1",
+      "question_text": "A empresa monitora indicadores de tratamento e disposição adequada de efluentes líquidos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 16,
+      "question_id": "5.2.1.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 17,
+      "question_id": "5.2.1.2",
+      "question_text": "Os indicadores acima compreende mais de 50% das operações da empresa?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 18,
+      "question_id": "5.2.1.3",
+      "question_text": "O indicador vem apresentando uma tendência de melhoria nos últimos 3 anos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "5.2.2",
+      "question_text": "A empresa monitora indicadores de geração de efluentes líquidos (volume de descarte de água)?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "5.2.2.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 21,
+      "question_id": "5.2.2.2",
+      "question_text": "Os indicadores acima compreende mais de 50% das operações da empresa?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 22,
+      "question_id": "5.2.2.3",
+      "question_text": "O indicador vem apresentando uma tendência de melhoria nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 23,
+      "question_id": "5.2.3",
+      "question_text": "A empresa possui metas quantitativas relacionadas ao descarte de água/geração de efluentes?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 24,
+      "question_id": "5.2.3.1",
+      "question_text": "As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "5.2.3.2",
+      "question_text": "As metas e/ou indicadores são disponibilizadas para o público?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 26,
+      "question_id": "5.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 27,
+      "question_id": "5.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema ?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 28,
+      "question_id": "5.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 29,
+      "question_id": "5.4.1",
+      "question_text": "Investimentos em P&D  para tecnologias de redução na geração de efluentes (industriais e sanitários) ou reaproveitamento?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 30,
+      "question_id": "5.4.2",
+      "question_text": "Investimentos em P&D para ganhos de eficiência no tratamento de efluentes?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 31,
+      "question_id": "5.4.3",
+      "question_text": "Geração de energia renovável através de efluentes líquidos e resíduos orgânicos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 32,
+      "question_id": "5.4.4",
+      "question_text": "Reaproveitamento de resíduos orgânicos de efluentes líquidos para produção de adubo?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 33,
+      "question_id": "5.4.5",
+      "question_text": "Outras?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 34,
+      "question_id": "4.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 5 anos?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 35,
+      "question_id": "4.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 36,
+      "question_id": "4.4.1",
+      "question_text": "Engajamento com distribuidores e consumidores buscando minimizar a geração de resíduos?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 37,
+      "question_id": "4.4.2",
+      "question_text": "A empresa promove treinamento para os colaboradores acerca de melhores práticas de destinação, tratamento, reciclagem e disposição de resíduos?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 38,
+      "question_id": "4.4.3",
+      "question_text": "A empresa oferece mecanismos de logística reversa para o reuso, reciclagem ou destinação adequada dos produtos ao fim de sua vida útil?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 39,
+      "question_id": "4.4.4",
+      "question_text": "Uso de embalagens de material reutilizável nos produtos vendidos/produzidos?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 40,
+      "question_id": "4.4.5",
+      "question_text": "Participação em acordos setoriais de logística reversa no âmbito da PNRS?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 41,
+      "question_id": "4.4.6",
+      "question_text": "Reaproveitamento de resíduos para produção de adubo (compostagem, biodigestores) ou coprocessamento?",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 42,
+      "question_id": "4.4.7",
+      "question_text": "Outras?",
+      "answer": null,
+      "source": null
+    }
+  ],
+  "Emissões atmosféricas": [
+    {
+      "row": 5,
+      "question_id": "6.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 6,
+      "question_id": "6.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 7,
+      "question_id": "6.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 8,
+      "question_id": "6.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 13,
+      "question_id": "6.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional sobre controle e redução das emissões atmosféricas?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 14,
+      "question_id": "6.1.1.1",
+      "question_text": "A política aborda os seguintes temas: \n- Emissão de material particulado, SOx e NOx?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 15,
+      "question_id": "6.2.1",
+      "question_text": "A empresa monitora indicadores de emissão de material particulado?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 16,
+      "question_id": "6.2.1.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 17,
+      "question_id": "6.2.1.2",
+      "question_text": "Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 18,
+      "question_id": "6.2.1.3",
+      "question_text": "Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "6.2.1.4",
+      "question_text": "A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "6.2.1.5",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 21,
+      "question_id": "6.2.2",
+      "question_text": "A empresa monitora indicadores de emissão de NOx, SOx e compostos orgânicos voláteis?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 22,
+      "question_id": "6.2.2.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 23,
+      "question_id": "6.2.2.2",
+      "question_text": "Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 24,
+      "question_id": "6.2.2.3",
+      "question_text": "Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "6.2.2.4",
+      "question_text": "A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 26,
+      "question_id": "6.2.2.5",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 27,
+      "question_id": "6.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 28,
+      "question_id": "6.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 29,
+      "question_id": "6.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 30,
+      "question_id": "6.4.1",
+      "question_text": "Investimentos em P&D para tecnologias de redução das emissões atmosféricas?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 31,
+      "question_id": "6.4.2",
+      "question_text": "Investimentos em tecnologias de redução de emissões como filtros de manga e fluidização?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 32,
+      "question_id": "6.4.3",
+      "question_text": "Realiza controle dos níveis de poluição próximo a chaminés e áreas onde são gerados esses compostos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 33,
+      "question_id": "6.4.4",
+      "question_text": "Outras?",
+      "answer": "N/A",
+      "source": null
+    }
+  ],
+  "Mudanças Climáticas Mitigação": [
+    {
+      "row": 5,
+      "question_id": "7.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "6.666666666666667"
+    },
+    {
+      "row": 6,
+      "question_id": "7.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "10"
+    },
+    {
+      "row": 7,
+      "question_id": "7.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 8,
+      "question_id": "7.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "7.5"
+    },
+    {
+      "row": 13,
+      "question_id": "7.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional com a redução das emissões de gases de efeito estufa (GEE)?",
+      "answer": "Sim",
+      "source": "\"Definição de estratégia de mensuração de emissões financiadas (escopo 3) e implementação de plano de descarbonização para apoio à transição dos negócios para uma economia neutra em carbono.\""
+    },
+    {
+      "row": 14,
+      "question_id": "7.1.1.1",
+      "question_text": "A política ou compromisso aborda: \n- Redução das emissões de GEE diretas (escopo 1)?",
+      "answer": "Sim",
+      "source": "\"Até 2050 temos o compromisso de nos tornar carbono neutro.\""
+    },
+    {
+      "row": 15,
+      "question_id": "7.1.1.2",
+      "question_text": "A política ou compromisso aborda: \n- Redução das emissões de GEE indiretas (escopo 2 e 3)?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 16,
+      "question_id": "7.2.1",
+      "question_text": "A empresa monitora indicadores de emissão de GEE diretas (escopo 1)?",
+      "answer": "Sim",
+      "source": "\"Total de emissões absolutas de Escopo 1 no Brasil.\" Em 2024, o indicador foi de 17.997 tCO2e."
+    },
+    {
+      "row": 17,
+      "question_id": "7.2.1.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 18,
+      "question_id": "7.2.1.2",
+      "question_text": "Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 19,
+      "question_id": "7.2.1.3",
+      "question_text": "O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer": "Sim",
+      "source": "Em 2022 o indicador foi de 22.925 tCO2e e em 2024 foi de 17.997 tCO2e. Analisando a razão das emissões pela receita, houve redução de 62% no último triênio."
+    },
+    {
+      "row": 20,
+      "question_id": "7.2.1.4",
+      "question_text": "A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer": "Sim",
+      "source": "Objetivo 2030: Atingir a redução de 50% das emissões de Escopo 1 e 2 (combinadas) e de 50% de Escopo 3 no Brasil\"; \"Objetivo 2025: Escopo 1: até 16.061 tCO2e de emissões absolutas no Brasil_x000D_\"; \"Escopo 1: compensar 100% das emissões de Escopo 1 do ano anterior. Realizado: 100% em 2024\""
+    },
+    {
+      "row": 21,
+      "question_id": "7.2.1.5",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 22,
+      "question_id": "7.2.2",
+      "question_text": "A empresa monitora indicadores de emissão de gases de efeito estufa indiretas (escopo 2)?",
+      "answer": "Sim",
+      "source": "\"Total de emissões absolutas de Escopo 2 no Brasil.\" O indicador foi de 18.422 tCO2e em 2024."
+    },
+    {
+      "row": 23,
+      "question_id": "7.2.2.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 24,
+      "question_id": "7.2.2.2",
+      "question_text": "Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 25,
+      "question_id": "7.2.2.3",
+      "question_text": "O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer": "Sim",
+      "source": "Em 2022 o indicador foi de 16.773 tCO2e e em 2024 foi de 18.422 tCO2e. Analisando a razão das emissões pela receita, houve redução de 55% no último triênio."
+    },
+    {
+      "row": 26,
+      "question_id": "7.2.1.4",
+      "question_text": "A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer": "Sim",
+      "source": "\"Escopo 2 por localização: Até 21.271 tCO2e de emissões absolutas no Brasil. Realizado: 18.422 tCO2e em 2024.\""
+    },
+    {
+      "row": 27,
+      "question_id": "7.2.2.5",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 28,
+      "question_id": "7.2.3",
+      "question_text": "A empresa monitora indicadores de emissão de gases de efeito estufa indiretas (escopo 3)?",
+      "answer": "Sim",
+      "source": "\"Outras emissões absolutas de Escopo 3 no Brasil.\" O indicador foi de 76.953 tCO2e em 2024."
+    },
+    {
+      "row": 29,
+      "question_id": "7.2.3.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 30,
+      "question_id": "7.2.3.2",
+      "question_text": "Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 31,
+      "question_id": "7.2.3.3",
+      "question_text": "O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer": "Sim",
+      "source": "Em 2022 o indicador foi de 40.525 tCO2e e em 2024 foi de 76.953 tCO2e. Analisando a razão das emissões pela receita, houve redução de 11% no último triênio."
+    },
+    {
+      "row": 32,
+      "question_id": "7.2.3.4",
+      "question_text": "A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer": "Sim",
+      "source": "\"Objetivo 2030: Atingir a redução de 50% das emissões de Escopo 1 e 2 (combinadas) e de 50% de Escopo 3 no Brasil.\""
+    },
+    {
+      "row": 33,
+      "question_id": "7.2.3.5",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 34,
+      "question_id": "7.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 35,
+      "question_id": "7.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 36,
+      "question_id": "7.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 37,
+      "question_id": "7.4.1",
+      "question_text": "A empresa responde ao questionário da Carbon Disclosure Project (CDP)?",
+      "answer": "Sim",
+      "source": "\"Para dar mais transparência aos nossos stakeholders e aprimorar nossa capacidade de identificar potenciais riscos e oportunidades relacionadas ao clima, adotamos boas práticas de mercado e reportamos anualmente nossas principais práticas de gestão climática, indicadores e dados de emissões de GEE ao CDP, ao Corporate Sustainability Assessment (S&P) e ao Índice Carbono Eficiente da B3 (ICO2).\""
+    },
+    {
+      "row": 38,
+      "question_id": "7.4.1.1",
+      "question_text": "A empresa publica suas respostas ao CDP?",
+      "answer": "Não",
+      "source": "CDP: divulgamos informações no CDP, principal índice global sobre impacto climático."
+    },
+    {
+      "row": 39,
+      "question_id": "7.4.2",
+      "question_text": "A empresa compensa até 50% das suas emissões de gases de efeito estufa diretas?",
+      "answer": "Sim",
+      "source": "\"em 2024, compensamos 100% das emissões residuais do execício anterior: Escopo 1, para Brasil, Paraguai e Uruguai.\""
+    },
+    {
+      "row": 40,
+      "question_id": "7.4.2.1",
+      "question_text": "A empresa compensa >50% das suas emissões de gases de efeito estufa diretas?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 41,
+      "question_id": "7.4.3",
+      "question_text": "A empresa compensa >50% das suas emissões de gases de efeito estufa indiretas?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 42,
+      "question_id": "7.4.4",
+      "question_text": "A empresa possui ações para encorajar sua cadeia (upstream e downstream) a reduzir suas emissões de GEE?",
+      "answer": "Sim",
+      "source": "\"Temos uma administração contínua das frotas de veículos facilitadores (ônibus) e solicitamos reportes padronizados dos fornecedores sobre dados relevantes, como quilômetros rodados, trajetos e horários, contribuindo para que a gestão possa capturar sinergias e aprimorar as estratégias buscando otimização. Continuamos a incentivar a utilização de combustíveis mais limpos, a encorajar o uso de transporte público e a administrar de forma consciente a maior utilização das ferramentas de trabalho online.\""
+    },
+    {
+      "row": 43,
+      "question_id": "7.4.5",
+      "question_text": "A empresa adota um preço interno de carbono e o considera em sua tomada de decisão de investimentos?",
+      "answer": "Sim",
+      "source": "O preço interno de carbono foi de R$ 27,76, R$ 55,00 e R$ 81,56 em 2022, 2023 e 2024, respectivamente."
+    },
+    {
+      "row": 44,
+      "question_id": "7.4.6",
+      "question_text": "Outras ações de mitigação?",
+      "answer": "Sim",
+      "source": "\"Em um cenário em que as mudanças climáticas e seus impactos na sociedade já são uma realidade, nos posicionamos na agenda de mudanças climáticas e transição justa utilizando capital filantrópico para apoiar negócios e ações de impacto ambiental. Esse apoio se baseia em dois pilares: o de reparação e o de prevenção.\""
+    }
+  ],
+  "Mudanças Climáticas Adaptação": [
+    {
+      "row": 5,
+      "question_id": "8.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.35",
+      "source": "10"
+    },
+    {
+      "row": 6,
+      "question_id": "8.2",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 7,
+      "question_id": "8.3",
+      "question_text": "Boas práticas",
+      "answer": "0.4",
+      "source": "10"
+    },
+    {
+      "row": 13,
+      "question_id": "8.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional relacionado a adaptação aos efeitos das mudanças climáticas?",
+      "answer": "Sim",
+      "source": "O compromisso do Itaú com o desenvolvimento sustentável nos países em que atua está na essência de sua atividade e é traduzido em sua estratégia de sustentabilidade, que orienta a integração de aspectos de natureza social, ambiental e climática em seus negócios, e na forma como gera valor para a sociedade, por meio dos Compromissos de Impacto Positivo (estratégia de sustentabilidade com metas públicas no site da instituição), que permeiam toda a organização e norteiam a tomada de decisões seus negócios, atividades e processos."
+    },
+    {
+      "row": 14,
+      "question_id": "8.1.1.1",
+      "question_text": "A política aborda os seguintes temas: \n- Adaptação a riscos climáticos em sua operação direta?",
+      "answer": "Sim",
+      "source": "Idem ao anterior."
+    },
+    {
+      "row": 15,
+      "question_id": "8.1.1.2",
+      "question_text": "A política aborda os seguintes temas: \n- Adaptação a riscos climáticos em sua cadeia de produção/fornecimento?",
+      "answer": "Sim",
+      "source": "Gerenciamento e minimização de impactos ambientais negativos decorrentes das atividades e cadeia de valor, por meio de processos de melhoria contínua, considerando as boas práticas de gestão ambiental e requisitos legais."
+    },
+    {
+      "row": 16,
+      "question_id": "8.2.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 17,
+      "question_id": "8.2.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 18,
+      "question_id": "8.2.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "8.3.1",
+      "question_text": "A empresa possui processo para monitoramento de eventos climáticos extremos em sua operação?",
+      "answer": "Sim",
+      "source": "Gerenciar risco social, ambiental e climático identificado como uma das diversas modalidades de risco a que o Itaú está exposto em operações, produtos e serviços."
+    },
+    {
+      "row": 20,
+      "question_id": "8.3.2",
+      "question_text": "A empresa estima o potencial impacto financeiro das mudanças climáticas sobre seus resultados?",
+      "answer": "Sim",
+      "source": "\"Nosso planejamento financeiro é impactado pelos riscos e as oportunidades decorrentes das mudanças climáticas em termos de receitas, custos, provisionamento e alocação de capital. Realizamos uma revisão do planejamento financeiro para incorporar práticas sustentáveis que mitiguem riscos, capturem novas oportunidades de mercado e atendam às crescentes expectativas de investidores e reguladores.\""
+    },
+    {
+      "row": 21,
+      "question_id": "8.3.3",
+      "question_text": "A empresa está alinhada às diretrizes da Task Force on Climate Related Financial Disclosures (TCFD)?",
+      "answer": "Sim",
+      "source": "\"Desde 2010, desenvolvemos nossos modelos ESG para avaliação de empresas, em linha com iniciativas internacionais, como Sustainability Accounting Standards Board (SASB) e Task Force on Climate Related Financial Disclosures (TCFD\""
+    },
+    {
+      "row": 22,
+      "question_id": "8.3.4",
+      "question_text": "A empresa realiza investimentos voltados a mitigar o risco das mudanças climáticas em suas operações?",
+      "answer": "Sim",
+      "source": "\"Em termos de alocação de capital, visando tanto a mitigação de riscos climáticos, quanto a oportunidade de estarmos posicionados de forma competitiva para atrair investidores, prevemos um aumento significativo em finanças sustentáveis até 2030, visando mobilizar R$ 1 trilhão.\""
+    },
+    {
+      "row": 23,
+      "question_id": "8.3.5",
+      "question_text": "Outras ações de adaptação climática?",
+      "answer": "Sim",
+      "source": "\"Para mapear os riscos físicos, consideramos as conclusões do IPCC (painel intergovernamental de mudanças climáticas), por meio dos cenários RCP (Representative Concentration Pathways), RCP 4,5 e RCP 8,5, e a adaptação dos cenários às características da região na qual operamos, com base nas projeções apresentadas por ferramentas amplamente utilizadas e reconhecidas, como a Adapta Brasil, desenvolvida pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) e o Climate Change Knowledge Portal.\""
+    }
+  ],
+  "Ecossistemas": [
+    {
+      "row": 5,
+      "question_id": "9.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "6.666666666666667"
+    },
+    {
+      "row": 6,
+      "question_id": "9.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "10"
+    },
+    {
+      "row": 7,
+      "question_id": "9.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": null
+    },
+    {
+      "row": 8,
+      "question_id": "9.4",
+      "question_text": "Boas Práticas",
+      "answer": "0.275",
+      "source": "8.571428571428571"
+    },
+    {
+      "row": 13,
+      "question_id": "9.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional relacionado a preservação da biodiversidade?",
+      "answer": "Sim",
+      "source": "Adoção de processos de gerenciamento de riscos e oportunidades socioambientais que contribuam para a conservação e o uso sustentável dos recursos e proteção da biodiversidade brasileira."
+    },
+    {
+      "row": 14,
+      "question_id": "9.1.1.1",
+      "question_text": "A política descreve as questões relacionadas a biodiversidade que são particularmente relevantes para a empresa?",
+      "answer": "Sim",
+      "source": "\"O setor financeiro exerce um papel relevante nesse contexto, por meio da adoção de medidas de verificação e monitoramento dos riscos das operações financeiras e do fomento às boas práticas que visam a redução do desmatamento e a proteção da biodiversidade.\""
+    },
+    {
+      "row": 15,
+      "question_id": "9.1.1.2",
+      "question_text": "A política aborda os seguintes temas: \n- Áreas nas quais a empresa causa impactos negativos sobre a biodiversidade?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 16,
+      "question_id": "9.1.1.3",
+      "question_text": "A política aborda os seguintes temas: \n- Áreas nas quais a empresa causa impactos positivos sobre a biodiversidade?",
+      "answer": "Sim",
+      "source": "\"Apoiamos diversos projetos e iniciativas que geram impacto socioambiental positivo. Neles, incentivamos ações como a implementação de boas práticas nas cadeias produtivas, a contribuição para a agropecuária de baixo carbono, o fomento a um ecossistema de negócios favorável ao desenvolvimento da bioeconomia florestal e a inclusão de comunidades tradicionais, por meio de sistemas de produção sustentável, além do acesso aos serviços públicos.\""
+    },
+    {
+      "row": 17,
+      "question_id": "9.1.1.4",
+      "question_text": "A política aborda os seguintes temas: \n- Minimização dos impactos sobre a biodiversidade?",
+      "answer": "Sim",
+      "source": "\"Para monitorar riscos e engajar clientes a desenvolverem boas práticas relacionadas à preservação da biodiversidade em nossa carteira de crédito, incorporamos a gestão do risco de desmatamento e da proximidade e/ou intersecção com áreas sensíveis em nossas metodologias de avaliação e governança de riscos sociais, ambientais e climáticos de clientes e operações.\""
+    },
+    {
+      "row": 18,
+      "question_id": "9.1.1.5",
+      "question_text": "A política aborda os seguintes temas: \n- Monitoramento das espécies em perigo/ameaçadas de extinção?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "9.2.1",
+      "question_text": "A empresa monitora indicadores voltados a preservação da biodiversidade?",
+      "answer": "Sim",
+      "source": "\"Até 2024, foram restaurados 127 hectares, em 7 propriedades, com uma estimativa de 509 mil árvores plantadas, ultrapassando a meta inicial de 379 mil árvores.\""
+    },
+    {
+      "row": 20,
+      "question_id": "9.2.2",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 21,
+      "question_id": "9.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Sim",
+      "source": "Bancos brasileiros, incluindo o Itaú, lideram financiamentos de atividades que ameaçam florestas com quase US$ 130 bilhões. "
+    },
+    {
+      "row": 22,
+      "question_id": "9.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "Sim",
+      "source": "Financiamento de gigantes bancários alimenta a exploração de petróleo e gás na Amazônia, revela relatório."
+    },
+    {
+      "row": 23,
+      "question_id": "9.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 24,
+      "question_id": "9.4.1",
+      "question_text": "A empresa investe na conservação da biodiversidade para criar valor, garantir cadeias produtivas e aprimorar seus modelos de negócios?",
+      "answer": "Sim",
+      "source": "\"Apoiamos diversos projetos e iniciativas que geram impacto socioambiental positivo. Neles, incentivamos ações como a implementação de boas práticas nas cadeias produtivas, a contribuição para a agropecuária de baixo carbono, o fomento a um ecossistema de negócios favorável ao desenvolvimento da bioeconomia florestal e a inclusão de comunidades tradicionais, por meio de sistemas de produção sustentável, além do acesso aos serviços públicos.\""
+    },
+    {
+      "row": 25,
+      "question_id": "9.4.2",
+      "question_text": "A empresa investe no manejo de APAs (áreas de proteção ambiental)?",
+      "answer": "Sim",
+      "source": "\"Somos membro fundador da Biomas, empresa dedicada à atividade de restauração ecológica em larga escala em diferentes biomas, como Amazônia e Mata Atlântica.\""
+    },
+    {
+      "row": 26,
+      "question_id": "9.4.3",
+      "question_text": "A empresa investe na preservação de animais silvestres?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 27,
+      "question_id": "9.4.4",
+      "question_text": "A empresa investe em biossegurança (manipulação de material genético, etc.)?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 28,
+      "question_id": "9.4.5",
+      "question_text": "A empresa investe no uso sustentável de recursos biológicos?",
+      "answer": "Sim",
+      "source": "\"Em 2024, ocorreu o segundo ano de operação da Plataforma Jornada Amazônia, projeto coordenado e executado pela Fundação Certi e do qual somos membros apoiadores, em parceria com outras instituições. A iniciativa estimula o ambiente de inovação e empreendedorismo na Amazônia, com foco em soluções de bioeconomia que visem a conservação da floresta.\""
+    },
+    {
+      "row": 29,
+      "question_id": "9.4.6",
+      "question_text": "A empresa investe no fortalecimento dos sistemas de gestão, monitoramento, avaliação e identificação de oportunidades relacionadas à biodiversidade?",
+      "answer": "Sim",
+      "source": "\"A partir de setembro de 2023, com a publicação oficial das recomendações da Força-Tarefa sobre Divulgações Financeiras Relacionadas à Natureza (TNFD, na sigla em inglês), nos juntamos a um grupo de empresas associadas ao Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável (CEBDS) para a realização de um piloto da etapa Localizar, da metodologia LEAP nos negócios Ambiental Social Governança (Localizar, Estimar, Avaliar, Preparar), apresentada pela TNFD.\""
+    },
+    {
+      "row": 30,
+      "question_id": "9.4.7",
+      "question_text": "A empresa desenvolve planos de ações e políticas de conservação da biodiversidade integradas às suas atividades?",
+      "answer": "Sim",
+      "source": "\"Para monitorar riscos e engajar clientes a desenvolverem boas práticas relacionadas à preservação da biodiversidade em nossa carteira de crédito, incorporamos a gestão do risco de desmatamento e da proximidade e/ou intersecção com áreas sensíveis em nossas metodologias de avaliação e governança de riscos sociais, ambientais e climáticos de clientes e operações.\""
+    },
+    {
+      "row": 31,
+      "question_id": "9.4.8",
+      "question_text": "Outras?",
+      "answer": "Sim",
+      "source": "\"Com o objetivo de impulsionar o ecossistema de negócios de impacto socioambiental no Brasil, em 2024, desenvolvemos o projeto Itaú BioFuturo, uma iniciativa que, através da abordagem de Venture Philanthropy, direciona o capital filantrópico de forma estruturada para fortalecer três negócios ambientais em fase de crescimento que atuam na conservação da biodiversidade nos biomas Cerrado e Amazônia.\""
+    },
+    {
+      "row": 32,
+      "question_id": "9.4.8",
+      "question_text": "Outras",
+      "answer": null,
+      "source": "\"Instalação de 40 passagens para jabutis com o uso de materiais descartados (borracha proveniente da troca de esteiras transportadoras).\""
+    },
+    {
+      "row": 33,
+      "question_id": "9.4.8",
+      "question_text": "Outras",
+      "answer": null,
+      "source": "\"1.409 animais e 61 ninhos preservados no Programa de Resgate e Afugentamento de Fauna em 2021.\""
+    }
+  ],
+  "Saúde e segurança": [
+    {
+      "row": 5,
+      "question_id": "10.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "10"
+    },
+    {
+      "row": 6,
+      "question_id": "10.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "6"
+    },
+    {
+      "row": 7,
+      "question_id": "10.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 8,
+      "question_id": "10.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "8.75"
+    },
+    {
+      "row": 13,
+      "question_id": "10.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional relacionada a Saúde e segurança de seus colaboradores?",
+      "answer": "Sim",
+      "source": "Este documento tem como objetivo reforçar o compromisso do Itaú Unibanco Holding S.A com a Saúde e Segurança do Trabalho nas relações com nossos colaboradores, clientes, fornecedores, parceiros e a  sociedade. "
+    },
+    {
+      "row": 14,
+      "question_id": "10.1.1.1",
+      "question_text": "A política aborda os seguintes temas: \n- Trabalhadores indiretos e terceirizados?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 15,
+      "question_id": "10.2.1",
+      "question_text": "A empresa monitora indicadores de acidentes ou doenças trabalhistas?",
+      "answer": "Sim",
+      "source": "\"Em 2024, ocorreram 323 comunicados de acidente de trabalho, sendo 120 por acidentes típicos, 168 acidentes de trajeto e 35 por doenças ocupacionais.\""
+    },
+    {
+      "row": 16,
+      "question_id": "10.2.1.1",
+      "question_text": "A empresa divulga para o público em geral esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 17,
+      "question_id": "10.2.1.2",
+      "question_text": "Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 18,
+      "question_id": "10.2.1.3",
+      "question_text": "Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer": "Não",
+      "source": "A taxa de doenças ocupacionais aumentou de 1,44 para 1,86 e a taxa de colaboradores afastados aumentou de 3,6% para 5,2%."
+    },
+    {
+      "row": 19,
+      "question_id": "10.2.1.4",
+      "question_text": "A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "10.2.1.5",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 21,
+      "question_id": "10.2.2",
+      "question_text": "A empresa monitora indicadores de acidentes graves ou com afastamento?",
+      "answer": "Sim",
+      "source": "\"Taxa de colaboradores afastados.\" A taxa foi de 5,2% em 2024."
+    },
+    {
+      "row": 22,
+      "question_id": "10.2.2.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 23,
+      "question_id": "10.2.2.2",
+      "question_text": "Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 24,
+      "question_id": "10.2.2.3",
+      "question_text": "Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer": "Não",
+      "source": "Em 2022 o indicador foi de 3,6% e em 2024 foi de 5,2%."
+    },
+    {
+      "row": 25,
+      "question_id": "10.2.2.4",
+      "question_text": "A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 26,
+      "question_id": "10.2.2.5",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 27,
+      "question_id": "10.2.3",
+      "question_text": "A empresa monitora indicadores de óbitos ocupacionais?",
+      "answer": "Sim",
+      "source": "\"Total de óbitos.\" Em 2024 o indicador foi de 2 óbitos."
+    },
+    {
+      "row": 28,
+      "question_id": "10.2.3.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 29,
+      "question_id": "10.2.3.2",
+      "question_text": "Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 30,
+      "question_id": "10.2.3.3",
+      "question_text": "Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer": "Não",
+      "source": "Em 2022 o indicador foi de 0 óbitos, e em 2024 foi de 2 óbitos."
+    },
+    {
+      "row": 31,
+      "question_id": "10.2.3.4",
+      "question_text": "A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 32,
+      "question_id": "10.2.3.5",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 33,
+      "question_id": "10.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada a Saúde e segurança relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 34,
+      "question_id": "10.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 35,
+      "question_id": "10.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 36,
+      "question_id": "10.4.1",
+      "question_text": "A empresa possui OHSAS 18000 ou ISO 45000 em mais de 50% das suas unidades?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 37,
+      "question_id": "10.4.2",
+      "question_text": "A empresa possui área dedicada a Saúde e segurança (comitês; coordenação; gerência; diretoria)?",
+      "answer": "Sim",
+      "source": "\"A Gestão de Saúde, Segurança do Trabalho e Bem-Estar é composta por analistas, coordenadores, gerentes, superintendente, Diretor, equipe técnica especializada e componentes do Serviço Especializado em Segurança e Medicina do Trabalho (SESMT).\""
+    },
+    {
+      "row": 38,
+      "question_id": "10.4.3",
+      "question_text": "A empresa promove a avaliação periódica de perigos e riscos para a Saúde e segurança no trabalho (SST)?",
+      "answer": "Sim",
+      "source": "\"Visando garantir a saúde e segurança dos nossos empregados, contamos com um sólido programa de Gerenciamento de Saúde, Segurança e Bem-estar para que a nossa atuação esteja sempre alinhada aos padrões normativos vigentes.\""
+    },
+    {
+      "row": 39,
+      "question_id": "10.4.4",
+      "question_text": "Temas relacionados a Saúde e segurança afetam a remuneração de colaboradores?",
+      "answer": "Sim",
+      "source": "\"A Gerência de Saúde, Segurança do Trabalho e Bem-Estar é a área responsável por um olhar dedicado ao tema, buscando sempre a melhoria contínua. A avaliação de desempenho de seus integrantes está atrelada ao cumprimento de metas em SST estipuladas anualmente.\""
+    },
+    {
+      "row": 40,
+      "question_id": "10.4.5",
+      "question_text": "A empresa realiza auditorias internas de Saúde e segurança?",
+      "answer": "Sim",
+      "source": "\"Temos uma área focada em auditoria interna, com monitoramento de leis e procedimentos com potencial de impacto para a Organização, incluindo os temas de SST.\""
+    },
+    {
+      "row": 41,
+      "question_id": "10.4.6",
+      "question_text": "Empresa possui treinamento obrigatório para colaboradores expostos a riscos de Saúde e segurança?",
+      "answer": "Sim",
+      "source": "Para as ações de prevenção primária, além da identificação dos riscos e das análises de notificações de acidentes, seguiremos com treinamentos específicos sobre saúde e segurança do trabalho para todos os colaboradores."
+    },
+    {
+      "row": 42,
+      "question_id": "10.4.7",
+      "question_text": "Empresa possui treinamento obrigatório para terceirizados expostos a riscos de Saúde e segurança?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 43,
+      "question_id": "10.4.8",
+      "question_text": "Outras práticas de Saúde e segurança?",
+      "answer": "Sim",
+      "source": "\"São realizadas manutenções em mais de nove mil equipamentos e sistemas de combate a incêndio, garantindo sua operacionalidade, e todas as unidades seguem rigorosos critérios de acompanhamento e verificação desses equipamentos, auditados periodicamente pela equipe interna de segurança e Compliance.\""
+    }
+  ],
+  "Condições de trabalho": [
+    {
+      "row": 5,
+      "question_id": "11.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.35",
+      "source": "10"
+    },
+    {
+      "row": 6,
+      "question_id": "11.2",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 7,
+      "question_id": "11.3",
+      "question_text": "Boas práticas",
+      "answer": "0.4",
+      "source": "8"
+    },
+    {
+      "row": 13,
+      "question_id": "11.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional com o tema?",
+      "answer": "Sim",
+      "source": "Oferecer aos colaboradores um ambiente de trabalho saudável, acessível, inclusivo, próspero e gerador de bem-estar, a partir da adoção de boas práticas de desenvolvimento, capacitação, saúde e segurança. "
+    },
+    {
+      "row": 14,
+      "question_id": "11.1.1.1",
+      "question_text": "A política aborda os seguintes temas: \n- Trabalhadores indiretos e terceirizados?",
+      "answer": "Sim",
+      "source": "Esta política é aplicável a atividades do Itaú Unibanco e suas controladas."
+    },
+    {
+      "row": 15,
+      "question_id": "11.2.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 16,
+      "question_id": "11.2.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 17,
+      "question_id": "11.2.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 18,
+      "question_id": "11.3.1",
+      "question_text": "Realização de avaliação de clima organizacional?",
+      "answer": "Sim",
+      "source": "\"Realizamos anualmente a pesquisa Pulso, que examina o clima e o engajamento do Itaú Unibanco. A pesquisa explora aspectos sobre o clima e ambiente de trabalho.\""
+    },
+    {
+      "row": 19,
+      "question_id": "11.3.2",
+      "question_text": "Reconhecimento externo (ex. GPTW)?",
+      "answer": "Sim",
+      "source": "\"Great Place to Work 2024: 5º lugar na categoria +10.000 colaboradores.\""
+    },
+    {
+      "row": 20,
+      "question_id": "11.3.3",
+      "question_text": "Benefícios para colaboradores além do exigido pela regulação (ex. educação continuada, plano de saúde, previdência, curso de idiomas, saúde mental)?",
+      "answer": "Sim",
+      "source": "Oferece diversos benefícios, como plano de saúde e odontológico, seguro de vida, auxílio farmácia, entro outros."
+    },
+    {
+      "row": 21,
+      "question_id": "11.3.4",
+      "question_text": "Benefícios para terceirizados (ex. previdência e curso de idiomas, incentivo ao esporte, saúde mental)?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 22,
+      "question_id": "11.3.5",
+      "question_text": "Com relação ao trabalho remoto, a empresa promove análise ergonômica do ambiente, para verificar e assegurar as condições de trabalho?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 23,
+      "question_id": "11.3.6",
+      "question_text": "Com relação ao trabalho remoto, a empresa adota controle de jornada, garantindo o equilíbrio entre o tempo de trabalho e descanso?",
+      "answer": "Sim",
+      "source": "\"Sistema alternativo de controle de jornada: permite utilizar nosso próprio sistema próprio para controle de jornada dos trabalhadores, seguindo os parâmetros exigidos pela legislação.\""
+    },
+    {
+      "row": 24,
+      "question_id": "11.3.7",
+      "question_text": "A empresa concede auxílio/licença maternidade acima do exigido por lei?",
+      "answer": "Sim",
+      "source": "\"Somos signatários do programa Empresa Cidadã, programa facultativo que proporciona a todas as pessoas colaboradoras períodos adicionais de licenças maternidade, paternidade e adoção, que vão além do período previsto na legislação – de 120 dias para a licença maternidade e 5 dias para a licença paternidade.\""
+    },
+    {
+      "row": 25,
+      "question_id": "11.3.8",
+      "question_text": "A empresa concede auxílio/licença paternidade acima do exigido por lei?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 26,
+      "question_id": "11.3.9",
+      "question_text": "A empresa possui flexibilização do horário de trabalho?",
+      "answer": "Sim",
+      "source": "\"Compensação de horas mensal/semestral, que abrange os trabalhadores com jornada de 8 horas, bem como, os funcionários “part-time”, como os de centrais de atendimento e caixas, que são igualmente amparados pela Consolidação das Leis do Trabalho, convenções e acordos coletivos.\""
+    },
+    {
+      "row": 27,
+      "question_id": "11.3.10",
+      "question_text": "A empresa possui ações que promovam equilíbrio entre a vida profissional e pessoal?",
+      "answer": "Sim",
+      "source": "\"Realização de pesquisa diagnóstica específica sobre saúde mental e conforto psicológico no trabalho.\""
+    }
+  ],
+  "Gestão de carreira": [
+    {
+      "row": 5,
+      "question_id": "12.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "10"
+    },
+    {
+      "row": 6,
+      "question_id": "12.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.4",
+      "source": "4.285714285714286"
+    },
+    {
+      "row": 7,
+      "question_id": "12.3",
+      "question_text": "Boas práticas",
+      "answer": "0.4",
+      "source": "6.666666666666667"
+    },
+    {
+      "row": 13,
+      "question_id": "12.1.1",
+      "question_text": "A empresa possui política ou comprometimento com a geração de empregos de qualidade, respeitando em acordo com a legislação trabalhista?",
+      "answer": "Sim",
+      "source": "Respeito e proteção aos direitos humanos, por meio da promoção da diversidade, equidade e inclusão, prevenção do assédio moral e sexual, da discriminação de qualquer natureza e do trabalho degradante em desacordo com a legislação (infantil, forçado ou análogo ao escravo)."
+    },
+    {
+      "row": 14,
+      "question_id": "12.1.1.1",
+      "question_text": "A política ou compromisso público da empresa aborda funcionários terceirizados?",
+      "answer": "Sim",
+      "source": "Esta política é aplicável a atividades do Itaú Unibanco e suas controladas."
+    },
+    {
+      "row": 15,
+      "question_id": "12.2.1",
+      "question_text": "A empresa monitora indicadores de treinamento para colaboradores?",
+      "answer": "Sim",
+      "source": "\"Total de participações em treinamento.\" Em 2024, 1.993.667 colaboradores foram treinados."
+    },
+    {
+      "row": 16,
+      "question_id": "12.2.1.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 17,
+      "question_id": "12.2.1.2",
+      "question_text": "Os indicadores acima compreendem mais de 50% das unidades operacionais da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 18,
+      "question_id": "12.2.1.3",
+      "question_text": "Os indicadores acima possuem uma trajetória de melhoria nos últimos 3 anos?",
+      "answer": "Não",
+      "source": "Em 2022, 2.419.298 colaboradores foram treinados e em 2024, 1.993.667 colaboradores foram treinados.\n"
+    },
+    {
+      "row": 19,
+      "question_id": "12.2.1.4",
+      "question_text": "A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "12.2.1.5",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 21,
+      "question_id": "12.2.2",
+      "question_text": "A empresa monitora indicadores de treinamento para terceirizados?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 22,
+      "question_id": "12.2.2.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 23,
+      "question_id": "12.2.2.2",
+      "question_text": "Os indicadores acima possuem uma trajetória de melhoria nos últimos 3 anos?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 24,
+      "question_id": "12.2.2.3",
+      "question_text": "A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "12.2.2.4",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 26,
+      "question_id": "12.3.1",
+      "question_text": "A empresa adota processos de avaliação de desempenho e feedbacks periódicos?",
+      "answer": "Sim",
+      "source": "\"Realizamos anualmente a pesquisa Pulso, que examina o clima e o engajamento do Itaú Unibanco. A pesquisa explora aspectos sobre o clima e ambiente de trabalho, a partir de 22 afirmativas, divididas em seis temas: engajamento, equipe, saúde e segurança psicológica, liderança, meritocracia e carreira e políticas e processos.\""
+    },
+    {
+      "row": 27,
+      "question_id": "12.3.2",
+      "question_text": "A empresa adota processos estruturados para retenção de talentos, com redução nas taxas de turnover?",
+      "answer": "Não",
+      "source": "\"Por isso, buscamos fortalecer nossa marca empregadora nos aproximando dos profissionais do mercado oferecendo oportunidades relevantes de emprego, desenvolvimento de carreira e remuneração competitiva. Tudo isso, alinhado ao cuidado com a experiência do colaborador, para que ele queira ficar e crescer com o nosso time.\"; A taxa de turnover passou de 14,6% para 14%."
+    },
+    {
+      "row": 28,
+      "question_id": "12.3.3",
+      "question_text": "A empresa possui programas para promover o primeiro emprego?",
+      "answer": "Sim",
+      "source": "\"O programa Aprendiz tem o objetivo de desenvolver jovens talentos, oferecendo não apenas a primeira experiência profissional, mas também um plano estruturado de capacitação e crescimento.\""
+    },
+    {
+      "row": 29,
+      "question_id": "12.3.4",
+      "question_text": "A empresa cumpre a cota de contratação de jovens aprendizes (ref. CNPJ matriz)?",
+      "answer": "Sim",
+      "source": "\"Conforme os registros administrativos do Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial), certifica-se que o empregador acima identificado empregava, em 05/05/2025, aprendizes em número SUPERIOR ao percentual mínimo previsto no art. 429, caput, da CLT.\""
+    },
+    {
+      "row": 30,
+      "question_id": "12.3.5",
+      "question_text": "A empresa possui programas para contratação de mão de obra local?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 31,
+      "question_id": "12.3.6",
+      "question_text": "A empresa possui outras iniciativas de geração de emprego e gestão de carreira?",
+      "answer": "Sim",
+      "source": "\"Pessoas-Chave: programa de reconhecimento para pessoas-chaves, cuja atividade é essencial, e colaboradores que atuem em projetos estratégicos, selecionados pelo Comitê Executivo. É atribuído um valor adicional à PLR em ações, a ser determinado conforme o Regulamento do Programa de Participação nos Lucros ou Resultados, cujo pagamento é realizado no terceiro ano após a outorga, com nossas ações preferenciais (ITUB4).\""
+    }
+  ],
+  "Diversidade": [
+    {
+      "row": 5,
+      "question_id": "13.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "10"
+    },
+    {
+      "row": 6,
+      "question_id": "13.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "8.5"
+    },
+    {
+      "row": 7,
+      "question_id": "13.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 8,
+      "question_id": "13.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "10"
+    },
+    {
+      "row": 13,
+      "question_id": "13.1.1",
+      "question_text": "A empresa possui políticas que promovam a diversidade e/ou a proibição de qualquer tipo de discriminação?",
+      "answer": "Sim",
+      "source": "Respeito e proteção aos direitos humanos, por meio da promoção da diversidade, equidade e inclusão, prevenção do assédio moral e sexual, da discriminação de qualquer natureza e do trabalho degradante em desacordo com a legislação (infantil, forçado ou análogo ao escravo)."
+    },
+    {
+      "row": 14,
+      "question_id": "13.1.1.1",
+      "question_text": "A política ou comprometimento público aborda o tema  \"Gênero\"?",
+      "answer": "Sim",
+      "source": "Contribuição para a redução das desigualdades sociais, por meio do suporte a grupos historicamente vulneráveis na sociedade por gênero, raça, idade, orientação sexual, deficiência ou regionalidade."
+    },
+    {
+      "row": 15,
+      "question_id": "13.1.1.2",
+      "question_text": "A política ou comprometimento público aborda o tema  \"Raça\"?",
+      "answer": "Sim",
+      "source": "Idem ao anterior."
+    },
+    {
+      "row": 16,
+      "question_id": "13.1.1.3",
+      "question_text": "A política ou comprometimento público aborda o tema  \"Religião\"?",
+      "answer": "Sim",
+      "source": "Além disso, no âmbito dos Direitos Humanos, o Código de Ética e Conduta norteia nossas relações de trabalho, que garantem, dentre outros aspectos, os direitos de negociação coletiva e de livre associação partidária, religiosa e sindical, pautados na Política de Relações Sindicais."
+    },
+    {
+      "row": 17,
+      "question_id": "13.1.1.4",
+      "question_text": "A política ou comprometimento público aborda o tema  \"Orientação sexual\"?",
+      "answer": "Sim",
+      "source": "Contribuição para a redução das desigualdades sociais, por meio do suporte a grupos historicamente vulneráveis na sociedade por gênero, raça, idade, orientação sexual, deficiência ou regionalidade."
+    },
+    {
+      "row": 18,
+      "question_id": "13.1.1.5",
+      "question_text": "A política ou comprometimento público aborda o tema  \"Pessoas com deficiência\"?",
+      "answer": "Sim",
+      "source": "Idem ao anterior."
+    },
+    {
+      "row": 19,
+      "question_id": "13.1.1.6",
+      "question_text": "A política ou comprometimento público aborda os seguintes itens:\n- Diversidade etária ou geracional (50+ por exemplo)?",
+      "answer": "Sim",
+      "source": "Idem ao anterior."
+    },
+    {
+      "row": 20,
+      "question_id": "13.1.1.7",
+      "question_text": "A política ou comprometimento público aborda os temas  \"Opinião política, outras\"?",
+      "answer": "Sim",
+      "source": "Além disso, no âmbito dos Direitos Humanos, o Código de Ética e Conduta norteia nossas relações de trabalho, que garantem, dentre outros aspectos, os direitos de negociação coletiva e de livre associação partidária, religiosa e sindical, pautados na Política de Relações Sindicais."
+    },
+    {
+      "row": 21,
+      "question_id": "13.2.1",
+      "question_text": "A empresa monitora indicadores de participação de mulheres por cargo e/ou diferença salarial média?",
+      "answer": "Sim",
+      "source": "\"Mulheres em cargos de gestão.\" O indicador foi de 52,1% em 2024."
+    },
+    {
+      "row": 22,
+      "question_id": "13.2.2",
+      "question_text": "A empresa divulga indicadores de diversidade de gênero para o público em geral?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 23,
+      "question_id": "13.2.2.1",
+      "question_text": "A empresa vem aumentando o número de mulheres em posições de liderança nos últimos 3 anos?",
+      "answer": "Sim",
+      "source": "Em 2022 o indicador foi de 51,7% e em 2024 foi de 52,1%."
+    },
+    {
+      "row": 24,
+      "question_id": "13.2.2.2",
+      "question_text": "A empresa conta com metas relacionadas a promoção da diversidade de gênero?",
+      "answer": "Sim",
+      "source": "\"Nosso objetivo até 2025 é ter de 35% a 40% de mulheres em cargos de média e alta liderança, o que inclui cargos de nível executivo, diretoria, superintendência, gerência e especialista. Partimos do cenário de 32,6% em 2019, atingindo 35,7% em 2024 já dentro da faixa projetada para o desafio.\""
+    },
+    {
+      "row": 25,
+      "question_id": "13.2.2.3",
+      "question_text": "A empresa vem atingindo as metas relacionadas ao indicador diversidade de gênero?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 26,
+      "question_id": "13.2.2.4",
+      "question_text": "A empresa conta com compromisso relacionado à equivalência salarial entre homens e mulheres?",
+      "answer": "Sim",
+      "source": "\"Além disso, a equidade salarial é uma das premissas nas quais o Itaú Unibanco tem investido tempo e esforços, especialmente nos últimos anos. O Banco conduz estudos contínuos que permitem realizar, sempre que necessário, ajustes para garantir a equidade salarial de gênero e de raça em todas as suas áreas e níveis hierárquicos, utilizando os critérios estabelecidos pela legislação brasileira para comparar pessoas que realizam as mesmas funções e têm o mesmo nível de senioridade, tempo de empresa e na função.\""
+    },
+    {
+      "row": 27,
+      "question_id": "13.2.3",
+      "question_text": "A empresa monitora indicadores de diversidade de raça?",
+      "answer": "Sim",
+      "source": "\"Colaboradores negros em cargo de gestão.\" Em 2024 o indicador foi de 18,9%."
+    },
+    {
+      "row": 28,
+      "question_id": "13.2.3.1",
+      "question_text": "A empresa divulga indicadores de diversidade de raça para o público em geral?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 29,
+      "question_id": "13.2.3.2",
+      "question_text": "A empresa vem aumentando o número de diversidade racial em posições de liderança nos últimos 3 anos?",
+      "answer": "Sim",
+      "source": "O indicador de colaboradores negros na gestão foi de 16,6% em 2022 e 18,9% em 2024."
+    },
+    {
+      "row": 30,
+      "question_id": "13.2.3.3",
+      "question_text": "Os indicadores de diversidade de raça incluem breakdown por cargo e/ou diferença salarial média?",
+      "answer": "Sim",
+      "source": "A empresa monitora colaboradores negros na gestão e na força de trabalho."
+    },
+    {
+      "row": 31,
+      "question_id": "13.2.3.4",
+      "question_text": "A empresa conta com metas relacionadas a promoção da diversidade racial?",
+      "answer": "Sim",
+      "source": "\"O objetivo é ter de 27% a 30% de representatividade negra no Itaú Unibanco até 2025, com evolução em todos os níveis de cargos efetivos, incluindo a liderança. Partimos do cenário de 22,2% em 2019, entrando no intervalo proposto para o objetivo em 2023, quando fechamos o ano com 27,5% de colaboradores negros (exceto aprendizes e estagiários).\""
+    },
+    {
+      "row": 32,
+      "question_id": "13.2.3.5",
+      "question_text": "A empresa vem atingindo as metas relacionadas ao indicador diversidade de raça?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 33,
+      "question_id": "13.2.4",
+      "question_text": "A empresa monitora indicadores de minorias étnicas?",
+      "answer": "Sim",
+      "source": "\"Colaboradores indígenas em cargo de gestão.\" O indicador foi de 0,1% no último triênio.\n"
+    },
+    {
+      "row": 34,
+      "question_id": "13.2.4.1",
+      "question_text": "A empresa divulga indicadores de minorias étnicas para o público em geral?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 35,
+      "question_id": "13.2.4.2",
+      "question_text": "A empresa vem aumentando o número de minorias étnicas em posição de liderança nos últimos 3 anos?",
+      "answer": "Não",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 36,
+      "question_id": "13.2.4.3",
+      "question_text": "empresa conta com metas relacionadas a promoção de minorias étnicas?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 37,
+      "question_id": "13.2.3.4",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 38,
+      "question_id": "13.2.5",
+      "question_text": "A empresa monitora e divulga indicadores de outras diversidades?",
+      "answer": "Sim",
+      "source": "\"Colaboradores asiáticos em cargo de gestão.\""
+    },
+    {
+      "row": 39,
+      "question_id": "13.2.5.1",
+      "question_text": "Os indicadores de outras diversidades indicam breakdown por cargo e/ou diferença salarial média?",
+      "answer": "Sim",
+      "source": "A empresa monitora colaboradores asiáticos na gestão e na força de trabalho."
+    },
+    {
+      "row": 40,
+      "question_id": "13.2.5.3",
+      "question_text": "A empresa vem aumentando o número de outras minorias no mercado de trabalho em posições de liderança nos últimos 3 anos?",
+      "answer": "Sim",
+      "source": "O indicador de colaboradores asiáticos foi de 3,2% em 2022 e 3,4% em 2024."
+    },
+    {
+      "row": 41,
+      "question_id": "13.2.5.2",
+      "question_text": "A empresa conta com metas relacionadas a promoção de outras diversidade?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 42,
+      "question_id": "13.2.5.4",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 43,
+      "question_id": "13.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 44,
+      "question_id": "13.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 45,
+      "question_id": "13.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 46,
+      "question_id": "13.4.1",
+      "question_text": "O modelo de licença parental inclui benefício para casais homoafetivos e famílias monoparentais?",
+      "answer": "Sim",
+      "source": "\"Somos signatários do programa Empresa Cidadã, programa facultativo que proporciona a todas as pessoas colaboradoras períodos adicionais de licenças maternidade, paternidade e adoção, que vão além do período previsto na legislação – de 120 dias para a licença maternidade e 5 dias para a licença paternidade.\""
+    },
+    {
+      "row": 47,
+      "question_id": "13.4.2",
+      "question_text": "A empresa promove treinamentos específicos e divulgação constante sobre o tema diversidade e combate a práticas discriminatórias para colaboradores diretos, terceirizados e lideranças?",
+      "answer": "Sim",
+      "source": "\"Treinamento em diversidade e direitos humanos Trilha de conceitos básicos de diversidade e inclusão disponível a todos, bem como treinamentos específicos a Liderança, Colaboradores, Times de atendimento, Fornecedores e Equipes de segurança.\""
+    },
+    {
+      "row": 48,
+      "question_id": "13.4.3",
+      "question_text": "A empresa possui mecanismos de reclamação anônimos sobre o tema diversidade para funcionários?",
+      "answer": "Sim",
+      "source": "Todos os colaboradores, administradores, clientes, parceiros, fornecedores ou qualquer outra pessoa podem reportar, sem a necessidade de identificação, suspeitas ou violações ao Código de Ética e Conduta Itaú Unibanco.\""
+    },
+    {
+      "row": 49,
+      "question_id": "13.4.4",
+      "question_text": "A empresa possui programas de ação afirmativa para recrutamento, seleção e carreira?",
+      "answer": "Sim",
+      "source": "\"Com o fortalecimento das ações afirmativas, ampliamos e expandimos a criação de vagas afirmativas para públicos diversos: “+ituber + oportunidades”, compostas pelas frentes “+black + oportunidades” (pessoas negras), “+mulheres + liderança” (mulheres), e “+inclui + oportunidades” (pessoas com deficiência). As oportunidades abrangem diferentes níveis hierárquicos e os candidatos passam a integrar o nosso banco de talentos para os perfis mencionados.\""
+    },
+    {
+      "row": 50,
+      "question_id": "13.4.5",
+      "question_text": "A empresa adota medidas para promover a empregabilidade de pessoas com deficiência?",
+      "answer": "Sim",
+      "source": "\"Incluir colaboradores com deficiência. Promover os seis tipos de acessibilidade: comunicacional, instrumental, metodológica, atitudinal, programática e arquitetônica.\""
+    },
+    {
+      "row": 51,
+      "question_id": "13.4.6",
+      "question_text": "A empresa possui Child care?",
+      "answer": "Sim",
+      "source": "\"Auxílio creche ou babá: auxílio financeiro para apoiar os colaboradores no custeio de escolas ou babá para os filhos de até 5 anos e 11 meses, ou por prazo indeterminado para filhos com deficiência.\""
+    },
+    {
+      "row": 52,
+      "question_id": "13.4.7",
+      "question_text": "A empresa participa de projetos e/ou promove ações sobre o tema diversidade na comunidade do entorno/principais públicos alvo/stakeholders?",
+      "answer": "Sim",
+      "source": "\"Itaú Social: Atuamos na melhoria da aprendizagem e trajetória escolar, reduzindo desigualdades por raça/cor, gênero, deficiência e nível socioeconômico, com foco na Educação Infantil e Anos Finais do Ensino Fundamental.\""
+    },
+    {
+      "row": 53,
+      "question_id": "13.4.8",
+      "question_text": "Outras boas práticas de diversidade?",
+      "answer": "Sim",
+      "source": "\"Por meio do programa Cadeia de Valor Itaú, iniciativa conjunta com o Pacto Global da ONU e o Instituto Mais Diversidade, também apoiamos 150 fornecedores em suas jornadas internas de Direitos Humanos e Diversidade e Inclusão, com ações de capacitação e mentorias exclusivas.\""
+    }
+  ],
+  "Segurança de dados": [
+    {
+      "row": 5,
+      "question_id": "14.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.35",
+      "source": "10"
+    },
+    {
+      "row": 6,
+      "question_id": "14.2",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "3.3333333333333335"
+    },
+    {
+      "row": 7,
+      "question_id": "14.3",
+      "question_text": "Boas práticas",
+      "answer": "0.4",
+      "source": "7.5"
+    },
+    {
+      "row": 13,
+      "question_id": "14.1.1",
+      "question_text": "A empresa possui políticas e compromissos relacionados a segurança de dados sensíveis?",
+      "answer": "Sim",
+      "source": "Estabelecer os princípios, diretrizes e atribuições relacionadas à segurança da informação, protegendo as informações da instituição, dos clientes e do público em geral, observando as melhores práticas de mercado e regulamentações aplicáveis."
+    },
+    {
+      "row": 14,
+      "question_id": "14.2.1",
+      "question_text": "A empresa teve ao menos um caso relacionado a segurança de dados nos últimos cinco anos relacionada ao tema?",
+      "answer": "Sim",
+      "source": "No banco Itaú, cerca de 700 mil linhas de informações, incluindo CPF, nomes e dados bancários, foram expostas. Suspeita-se que esses dados possam ter sido reutilizados para fins maliciosos."
+    },
+    {
+      "row": 15,
+      "question_id": "14.2.2",
+      "question_text": "A empresa já foi condenada pela Lei Geral de Proteção de Dados (LGPD) ou similares?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 16,
+      "question_id": "14.2.3",
+      "question_text": "A empresa deu respostas satisfatórias para os casos acima?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 17,
+      "question_id": "14.3.1",
+      "question_text": "A empresa possui área especializada dedicada a segurança de dados?",
+      "answer": "Sim",
+      "source": "A área de Cyber Security monitora a segurança do ambiente tecnológico do Itaú Unibanco no Brasil, analisando os eventos e alertas para identificar possíveis incidentes."
+    },
+    {
+      "row": 18,
+      "question_id": "14.3.2",
+      "question_text": "A empresa está aderente a Lei Geral de Proteção de Dados (LGPD) ou similares?",
+      "answer": "Sim",
+      "source": "Lei Geral de Proteção de Dados Pessoais (LGPD) - Lei nº 13.709/2018."
+    },
+    {
+      "row": 19,
+      "question_id": "14.3.3",
+      "question_text": "A empresa possui proteções e aplicação de políticas consistentes para o trabalho híbrido (remoto)?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "14.3.4",
+      "question_text": "Outras práticas de segurança de dados e privacidade?",
+      "answer": "Sim",
+      "source": "\"Contamos com as principais certificações do mundo sobre o tema, a ISO 27001 e a ISO 27701, que dispõem sobre os requisitos de gestão da segurança da informação e gestão de privacidade, respectivamente.\""
+    }
+  ],
+  "Qualidade e segurança produtos": [
+    {
+      "row": 5,
+      "question_id": "15.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "10"
+    },
+    {
+      "row": 6,
+      "question_id": "15.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "6"
+    },
+    {
+      "row": 7,
+      "question_id": "15.2",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "3.3333333333333335"
+    },
+    {
+      "row": 8,
+      "question_id": "15.3",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "10"
+    },
+    {
+      "row": 13,
+      "question_id": "15.1.1",
+      "question_text": "A empresa possui uma política formalizada ou compromisso acerca de qualidade e segurança de produtos e serviços?",
+      "answer": "Sim",
+      "source": "Aplicamos os padrões brasileiros e internacio_x0002_nais de controle de qualidade estabelecidos na NBC PA 01, emitida pelo CFC, e, dessa forma, mantemos um apropriado sistema de controle de qualidade que inclui políticas e procedimen_x0002_tos relacionados ao cumprimento dos requeri_x0002_mentos de ética, padrões profissionais, exigên_x0002_cias legais e requerimentos regulatórios."
+    },
+    {
+      "row": 14,
+      "question_id": "15.2.1",
+      "question_text": "A empresa monitora indicadores de qualidade do produto (satisfação de clientes, taxa de retorno de clientes, reclamação de clientes, avaliações de padrões de qualidade - INMETRO, agências regulamentadoras)?",
+      "answer": "Sim",
+      "source": "\"Resultado da pesquisa eNPS.\" Em 2024, o NPS foi de 83. \n"
+    },
+    {
+      "row": 15,
+      "question_id": "15.2.1.1",
+      "question_text": "A empresa divulga para o público esses indicadores?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 16,
+      "question_id": "15.2.1.2",
+      "question_text": "Os indicadores acima compreendem mais de 50% das dos produtos / serviços da empresa?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 17,
+      "question_id": "15.2.1.3",
+      "question_text": "Os indicadores acima possuem uma trajetória de melhoria nos últimos 3 anos?",
+      "answer": "Não",
+      "source": "Em 2022 o indicador foi de 88 e em 2024 foi de 83."
+    },
+    {
+      "row": 18,
+      "question_id": "15.2.2",
+      "question_text": "A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "15.2.2.1",
+      "question_text": "A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "15.2.1",
+      "question_text": "A empresa incorreu em alguma controvérsia severa ou muito severa nos últimos 3 anos (ex. recalls/multas procon) relacionada ao tema?",
+      "answer": "Sim",
+      "source": "\"Sistemas de Itaú e Nubank sofrem instabilidade e clientes relatam problemas com Pix.\""
+    },
+    {
+      "row": 21,
+      "question_id": "13.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "Sim",
+      "source": "\"Nubank, Itaú, Santander, Banco do Brasil e Banco Pan apresentam instabilidade em seus serviços.\""
+    },
+    {
+      "row": 22,
+      "question_id": "15.2.2",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para o caso?",
+      "answer": "Sim",
+      "source": "Sobre a instabilidade com o pix, a empresa informou que o processo foi reestabelecido."
+    },
+    {
+      "row": 23,
+      "question_id": "15.3.1",
+      "question_text": "A empresa oferece treinamento sobre segurança do produto para funcionários e clientes?",
+      "answer": "Sim",
+      "source": "\"Todos os colaboradores e administradores devem realizar os treinamentos mandatórios do Programa de Integridade e Ética. Com validade de dois anos, considerando a data de conclusão no ciclo anterior, os treinamentos são revisados e atualizados no mínimo a cada dois anos.\""
+    },
+    {
+      "row": 24,
+      "question_id": "15.3.2",
+      "question_text": "A empresa faz uso de alternativas mais sustentáveis?",
+      "answer": "Sim",
+      "source": "\"Seguimos com a utilização de copos de papel nos polos administrativos e de insumos biodegradáveis nas operações prediais de alimentação, como copos, pratos e talheres.\""
+    },
+    {
+      "row": 25,
+      "question_id": "15.3.3",
+      "question_text": "A empresa promove avaliações da qualidade dos serviços perante seus clientes?",
+      "answer": "Sim",
+      "source": "\"Possuímos atualmente 69% dos nossos negócios com o NPS na zona de excelência e 75% se encontram nas suas máximas históricas.\""
+    },
+    {
+      "row": 26,
+      "question_id": "15.3.4",
+      "question_text": "A empresa possui programa de P&D para desenvolvimento de alternativas sustentáveis?",
+      "answer": "Sim",
+      "source": "\"Apoio à inovação por meio do Cubo ESG, que tem por objetivo apoiar a jornada de descarbonização dos clientes, conectando-os a startups com soluções para os seus principais desafios.\""
+    },
+    {
+      "row": 27,
+      "question_id": "15.3.5",
+      "question_text": "A empresa possui um sistema de gestão de crises?",
+      "answer": "Sim",
+      "source": "\"Para os incidentes considerados críticos, acionamos a área de Gestão de Crises, que atua conforme procedimentos internos, com mobilização dos Executivos para tomada de decisão e das demais áreas de suporte para avaliação dos riscos.\""
+    },
+    {
+      "row": 28,
+      "question_id": "15.3.6",
+      "question_text": "A empresa conta com certificações externas da qualidade e segurança dos produtos e serviços?",
+      "answer": "Sim",
+      "source": "\"Contamos com as principais certificações do mundo sobre o tema, a ISO 27001 e a ISO 27701, que dispõem sobre os requisitos de gestão da segurança da informação e gestão de privacidade, respectivamente.\""
+    },
+    {
+      "row": 29,
+      "question_id": "15.3.7",
+      "question_text": "A empresa dispõe de processos para controle de qualidade dos produtos e serviços?",
+      "answer": "Sim",
+      "source": "\"Aplicamos os padrões brasileiros e internacionais de controle de qualidade estabelecidos na NBC PA 01, emitida pelo CFC, e, dessa forma, mantemos um apropriado sistema de controle de qualidade que inclui políticas e procedimentos relacionados ao cumprimento dos requerimentos de ética, padrões profissionais, exigências legais e requerimentos regulatórios.\""
+    },
+    {
+      "row": 30,
+      "question_id": "15.3.8",
+      "question_text": "Outras práticas de segurança ou qualidade de produtos e serviços?",
+      "answer": "Sim",
+      "source": "\"Um dos mecanismos de monitoramento da qualidade das vendas realizadas por colaboradores das áreas comerciais é o Programa Score de Qualidade de Vendas (SQV), que avalia cerca de 30 mil colaboradores da rede de agências.\""
+    }
+  ],
+  "Ecodesign": [
+    {
+      "row": 5,
+      "question_id": "16.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.35",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 6,
+      "question_id": "16.2",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 7,
+      "question_id": "16.3",
+      "question_text": "Boas práticas",
+      "answer": "0.4",
+      "source": "#DIV/0!"
+    },
+    {
+      "row": 13,
+      "question_id": "16.1.1",
+      "question_text": "A empresa possui política ou compromisso institucional com a produção de produtos e serviços sustentáveis, inclusivos, acessíveis ou com adicionalidade ambiental?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 14,
+      "question_id": "16.2.1",
+      "question_text": "A empresa incorreu em alguma controvérsia severa ou muito severa nos últimos 3 anos relacionadas ao tema(ex. intervenção após danos aos processos)?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 15,
+      "question_id": "16.2.2",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para o caso?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 16,
+      "question_id": "16.3.1",
+      "question_text": "A empresa conduz atividades ou gera produtos e serviços que estejam alinhados com as seguintes taxonomias de sustentabilidade?\n1.\tTaxonomia de Finanças Verdes da União Europeia\n2.\tClimate Bonds Initiative\n3.\tSocial Bond Principles\n4.\tGreen Bond Principles\n5.\tNão Perca Esse Bond\n6.\tOutros produtos e serviços sustentáveis?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 17,
+      "question_id": "16.3.1.1",
+      "question_text": "As atividades, produtos e serviços acima representam qual participação da receita da empresa:\n1.\tAté 10%?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 18,
+      "question_id": "16.3.1.2",
+      "question_text": "As atividades, produtos e serviços acima representam qual participação da receita da empresa:\n2.\tAté 50%?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "16.3.1.3",
+      "question_text": "As atividades, produtos e serviços acima representam qual participação da receita da empresa:\n3.\tMais de 50%?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "16.3.2",
+      "question_text": "Existe avaliação ou verificação externa sobre o benefício socioambiental gerado através de suas atividades?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 21,
+      "question_id": "16.3.3",
+      "question_text": "Outras práticas relacionadas a ecodesign e produtos sustentáveis?",
+      "answer": "N/A",
+      "source": null
+    }
+  ],
+  "Desenvolvimento": [
+    {
+      "row": 5,
+      "question_id": "17.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "10"
+    },
+    {
+      "row": 6,
+      "question_id": "17.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "5"
+    },
+    {
+      "row": 7,
+      "question_id": "17.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 8,
+      "question_id": "17.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "6.25"
+    },
+    {
+      "row": 13,
+      "question_id": "17.1.1",
+      "question_text": "A empresa possui uma política formalizada ou compromisso voltado a promover o desenvolvimento socioeconômico em comunidades próximas a sua atuação?",
+      "answer": "Sim",
+      "source": "\"Destinar patrocínios e doações ao desenvolvimento social, econômico, educacional, cultural e ambiental das comunidades com as quais nos relacionamos.\""
+    },
+    {
+      "row": 14,
+      "question_id": "17.1.1.1",
+      "question_text": "O compromisso abrange os seguintes aspectos?\n1.\tPromoção de emprego e renda nas regiões de atuação?",
+      "answer": "Sim",
+      "source": "\" (...) , cumprindo um papel protagonista no crescimento econômico, geração de empregos e bem-estar das famílias.\""
+    },
+    {
+      "row": 15,
+      "question_id": "17.1.1.2",
+      "question_text": "O compromisso abrange os seguintes aspectos?\n3.\tContribuir para ações sociais locais?",
+      "answer": "Sim",
+      "source": "\"O Investimento Social Privado (ISP) é um importante instrumento para promover o desenvolvimento social. Há décadas, direcionamos nossos investimentos de forma estratégica e intencional para promover o acesso e a ampliação de direitos, aprimorar a qualidade de vida e fortalecer o poder de transformação das pessoas.\""
+    },
+    {
+      "row": 16,
+      "question_id": "17.2.1",
+      "question_text": "A empresa investe até 1% de sua receita líquida em ações de desenvolvimento socioeconômico local (ISP)?",
+      "answer": "Sim",
+      "source": "\"Em 2024, investimos cerca de R$ 826 milhões em 1,7 mil projetos sociais, um aumento de 13,3% comparado aos projetos realizados no ano anterior, consolidando nossa posição como uma das empresas com maior investimento social privado na América Latina.\" Equivalente a 0,3% da receita líquida da empresa."
+    },
+    {
+      "row": 17,
+      "question_id": "17.2.2",
+      "question_text": "A empresa investe mais de 1% de sua receita líquida em ações de desenvolvimento socioeconômico local (ISP)?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 18,
+      "question_id": "17.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "17.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "17.3.4",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 21,
+      "question_id": "17.4.1",
+      "question_text": "Prioridade na contratação de mão de obra local?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 22,
+      "question_id": "17.4.2",
+      "question_text": "Desenvolvimento de cadeia de fornecedores locais?",
+      "answer": "Sim",
+      "source": "\"Incentivo a fornecedores para adoção de boas práticas, inclusive sociais, ambientais e climáticas, gerando confiança e boa reputação.\""
+    },
+    {
+      "row": 23,
+      "question_id": "17.4.3",
+      "question_text": "Engajamento com comunidades locais?",
+      "answer": "Sim",
+      "source": "\"Somos parceiros do projeto Conexão Povos da Floresta, que tem o objetivo de levar internet rápida a 1 milhão de pessoas em mais de 5 mil comunidades da floresta. Para isso, o projeto oferece a infraestrutura necessária, incluindo kits para geração de energia elétrica em sistemas fotovoltaicos e baterias, antenas, roteadores e equipamentos para conexão.\""
+    },
+    {
+      "row": 24,
+      "question_id": "17.4.4",
+      "question_text": "Assegura canais de diálogo com a comunidade?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "17.4.5",
+      "question_text": "A empresa participa de Conselhos, Comitês (ou similares) para debater o desenvolvimento social local?",
+      "answer": "Sim",
+      "source": "\"Colaboramos para o desenvolvimento de políticas públicas e de autorregulação e atuamos em advocacy – práticas realizadas pela Companhia para defender e obter apoio a uma causa ou proposta –, por meio do relacionamento com entidades setoriais. Em 2024, foram gastos R$ 1,3 milhão com Advocacy.\""
+    },
+    {
+      "row": 26,
+      "question_id": "17.4.6",
+      "question_text": "Define de forma clara a estratégia, indicadores e metas para a avaliação dos resultados das iniciativas apoiadas?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 27,
+      "question_id": "17.4.7",
+      "question_text": "Divulga em suas publicações anuais os investimentos sociais/ambientais realizados?",
+      "answer": "Sim",
+      "source": "\"Em 2024, investimos cerca de R$ 826 milhões em 1,7 mil projetos sociais, um aumento de 13,3% comparado aos projetos realizados no ano anterior, consolidando nossa posição como uma das empresas com maior investimento social privado na América Latina.\" Equivalente a 0,3% da receita líquida da empresa."
+    },
+    {
+      "row": 28,
+      "question_id": "17.4.8",
+      "question_text": "Outras ações?",
+      "answer": "Sim",
+      "source": "\"Apoiamos diversos projetos e iniciativas que geram impacto socioambiental positivo. Neles, incentivamos ações como a implementação de boas práticas nas cadeias produtivas, a contribuição para a agropecuária de baixo carbono, o fomento a um ecossistema de negócios favorável ao desenvolvimento da bioeconomia florestal e a inclusão de comunidades tradicionais, por meio de sistemas de produção sustentável, além do acesso aos serviços públicos.\""
+    }
+  ],
+  "Direitos Humanos": [
+    {
+      "row": 5,
+      "question_id": "18.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.35",
+      "source": "8"
+    },
+    {
+      "row": 6,
+      "question_id": "18.2",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "5"
+    },
+    {
+      "row": 7,
+      "question_id": "18.3",
+      "question_text": "Boas práticas",
+      "answer": "0.4",
+      "source": "8"
+    },
+    {
+      "row": 13,
+      "question_id": "18.1.1",
+      "question_text": "A empresa possui política ou compromisso acerca de respeito e promoção a direitos humanos?",
+      "answer": "Sim",
+      "source": "Este documento tem o objetivo de reforçar o compromisso do Itaú Unibanco Holding S.A com o respeito aos Direitos Humanos nas relações com nossos colaboradores, clientes, fornecedores, parceiros e a sociedade."
+    },
+    {
+      "row": 14,
+      "question_id": "18.1.1.1",
+      "question_text": "A política cobre os seguintes stakeholders?\n1.\tColaboradores indiretos ou terceirizados?",
+      "answer": "Sim",
+      "source": "Como parte desse compromisso, na contratação de terceiros são adotadas medidas para promoção de tais práticas, tais como a inclusão de cláusulas específicas em contrato para garantir o cumprimento às legislações trabalhistas, bem como adesão às recomendações de sustentabilidade."
+    },
+    {
+      "row": 15,
+      "question_id": "18.1.1.2",
+      "question_text": "A política cobre os seguintes stakeholders?\n2.\tComunidades tradicionais (indígenas, quilombolas, etc)",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 16,
+      "question_id": "18.1.1.3",
+      "question_text": "A política cobre os seguintes stakeholders?\n3.\tFornecedores",
+      "answer": "Sim",
+      "source": "Os fornecedores homologados são monitorados periodicamente, considerando os mesmos riscos observados na homologação, e, caso sejam identificadas não conformidades relevantes, podem ser bloqueados para novas contratações ou ter seus contratos rescindidos."
+    },
+    {
+      "row": 17,
+      "question_id": "18.1.1.4",
+      "question_text": "A política cobre os seguintes stakeholders?\n4.\tOutros",
+      "answer": "Sim",
+      "source": "Este documento tem o objetivo de reforçar o compromisso do Itaú Unibanco Holding S.A com o respeito aos Direitos Humanos nas relações com nossos colaboradores, clientes, fornecedores, parceiros e a sociedade."
+    },
+    {
+      "row": 18,
+      "question_id": "18.2.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Sim",
+      "source": "Em 2019, o Ministério Público acionou bancos por concederem crédito a empresas envolvidas em trabalho escravo. Essa ação visava responsabilizar as instituições financeiras por apoiarem negócios que exploravam mão de obra em condições desumanas. A iniciativa tinha como objetivo combater essa prática e promover a responsabilidade social das empresas e dos bancos. Banco do Brasil, Bradesco, BTG Pactual, Caixa Econômica, Itaú, Safra e Santander são citados em ação do MPT."
+    },
+    {
+      "row": 19,
+      "question_id": "18.2.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "18.2.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "Sim",
+      "source": "No caso citado da ação do MPT, o Itaú explica que encerrou o relacionamento com todas as empresas envolvidas e adotou as providências legais junto às autoridades \"de forma abrangente e tempestiva."
+    },
+    {
+      "row": 21,
+      "question_id": "18.3.1",
+      "question_text": "Treinamentos internos sobre direitos humanos?",
+      "answer": "Sim",
+      "source": "\"Disponibilizamos a todos uma trilha de conceitos básicos de diversidade e inclusão, em um formato prático, objetivo e acessível. Reforçamos continuamente os valores da nossa cultura com constantes ações afirmativas, promovendo e ampliando o conhecimento sobre os temas de diversidade e encorajando os colaboradores a se expressarem e não aceitarem situações de ameaça, perseguição, exclusão, constrangimento e importunação. Disponibilizamos a todas as pessoas o Guia de Orientações sobre Assédio e Discriminação no Trabalho, além de orientações para que os colaboradores possam aprender a reconhecer e denunciar casos suspeitos.\""
+    },
+    {
+      "row": 22,
+      "question_id": "18.3.2",
+      "question_text": "Auditorias externas sobre direitos humanos?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 23,
+      "question_id": "18.3.3",
+      "question_text": "Participação de grupos de trabalho como Pacto Global, em temas referentes a direitos humanos?",
+      "answer": "Sim",
+      "source": "Também aderimos ao Pacto Global das Nações Unidas, à Carta Empresarial pelos Direitos Humanos e pela Promoção do Trabalho Decente, do Instituto Ethos, gerido pelo Instituto de mesmo nome, e aos Padrões de Conduta para Empresas propostos pela ONU Livres & Iguais."
+    },
+    {
+      "row": 24,
+      "question_id": "18.3.4",
+      "question_text": "Mecanismos internos de reclamação para o tema?",
+      "answer": "Sim",
+      "source": "De acordo com o Código de Ética e Conduta, o Ombudsman é o canal que deve ser utilizado para encaminhamento de dúvidas, denúncias, reclamações e sugestões relativas a atos de assédio moral e sexual. Nas Unidades Internacionais, nossos colaboradores podem acionar os canais de denúncia disponibilizados localmente."
+    },
+    {
+      "row": 25,
+      "question_id": "18.3.5",
+      "question_text": "Outras ações de proteção e promoção de direitos humanos?",
+      "answer": "Sim",
+      "source": "Ainda em 2023, assumimos a liderança do Grupo de Trabalho de Direitos Humanos no Setor Financeiro, uma iniciativa inédita do Pacto Global da ONU no Brasil, ancorada na Aliança pelos Direitos Humanos e Empresas."
+    }
+  ],
+  "Temas sociais na cadeia": [
+    {
+      "row": 5,
+      "question_id": "19.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "10"
+    },
+    {
+      "row": 6,
+      "question_id": "19.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "6.25"
+    },
+    {
+      "row": 7,
+      "question_id": "19.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 8,
+      "question_id": "19.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "8.333333333333334"
+    },
+    {
+      "row": 13,
+      "question_id": "19.1.1",
+      "question_text": "A empresa possui compromissos relacionados a integração de fatores sociais na cadeia de produção?",
+      "answer": "Sim",
+      "source": "A “Política de Responsabilidade Social, Ambiental e Climática” (ou “PRSAC”) apresenta os princípios, estratégias e diretrizes de natureza social, ambiental e climática a serem observados na condução dos negócios, atividades e processos do Itaú Unibanco, bem como na sua relação com as partes interessadas."
+    },
+    {
+      "row": 14,
+      "question_id": "19.1.1.1",
+      "question_text": "Os compromissos abrangem temas relacionados a:\n1. Trabalho infantil?",
+      "answer": "Sim",
+      "source": "Respeito e proteção aos direitos humanos, por meio da promoção da diversidade, equidade e inclusão, prevenção do assédio moral e sexual, da discriminação de qualquer natureza e do trabalho degradante em desacordo com a legislação (infantil, forçado ou análogo ao escravo)."
+    },
+    {
+      "row": 15,
+      "question_id": "19.1.1.2",
+      "question_text": "Os compromissos abrangem temas relacionados a:\n2. Trabalho forçado?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 16,
+      "question_id": "19.1.1.3",
+      "question_text": "Os compromissos abrangem temas relacionados a:\n3. Discriminação?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 17,
+      "question_id": "19.1.1.4",
+      "question_text": "A empresa possui exigências de fornecedores relacionada à outros temas dessa natureza?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 18,
+      "question_id": "19.2.1",
+      "question_text": "A empresa audita seus fornecedores em relação a:\n1.\tTrabalho infantil?",
+      "answer": "Sim",
+      "source": "\"Avaliamos a nossa cadeia de fornecedores e monitoramos a adequação aos nossos princípios, valores e compromissos, buscando mitigar riscos e garantir uma cadeia alinhada para geração de impacto positivo.\"; \"Auditoria de fornecedores sensíveis.\""
+    },
+    {
+      "row": 19,
+      "question_id": "19.2.2",
+      "question_text": "A empresa audita seus fornecedores em relação a:\n2.\tTrabalho forçado?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 20,
+      "question_id": "19.2.3",
+      "question_text": "A empresa audita seus fornecedores em relação a:\n3.\tDiscriminação?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 21,
+      "question_id": "19.2.4",
+      "question_text": "A empresa audita seus fornecedores em relação a:\n4. Cumprimento da legislação trabalhista?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 22,
+      "question_id": "19.2.5",
+      "question_text": "A empresa audita seus fornecedores em relação a:\n5. Outros?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 23,
+      "question_id": "19.2.6",
+      "question_text": "A auditoria ocorre em mais de 50% de seus fornecedores diretos?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 24,
+      "question_id": "19.2.7",
+      "question_text": "A auditoria ocorre em mais de 50% de seus fornecedores indiretos?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "19.2.8",
+      "question_text": "As auditorias envolvem visita in-loco não planejadas?",
+      "answer": "Sim",
+      "source": "\"Dependendo da classificação, as exigências quanto à proteção da infraestrutura do terceiro vão desde o fornecimento de recomendações de segurança até a validação in loco dos controles informados, além do acompanhamento de eventuais correções e das melhorias implementadas pelos terceiros.\""
+    },
+    {
+      "row": 26,
+      "question_id": "19.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 27,
+      "question_id": "19.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 28,
+      "question_id": "19.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 29,
+      "question_id": "19.4.1",
+      "question_text": "Inclusão de cláusulas sociais nos contratos com fornecedores?",
+      "answer": "Sim",
+      "source": "\"Desde 2020, nossos contratos possuem cláusulas que exigem o cumprimento de normas e políticas sociais, ambientais e climáticas.\""
+    },
+    {
+      "row": 30,
+      "question_id": "19.4.2",
+      "question_text": "A empresa analisa os impactos financeiros, reputacionais e de conformidade dos riscos sociais de sua cadeia de fornecedores?",
+      "answer": "Sim",
+      "source": "O Compromisso de Direitos Humanos do Itaú Unibanco, é aprovado por um membro do Comitê Executivo, tem abrangência nacional e serve de referência para atuação das nossas Unidades Internacionais. É por meio das diretrizes e ações listadas que realizamos a prevenção aos riscos de Direitos Humanos diretos e indiretos, contemplando colaboradores, clientes, fornecedores, acionistas e investidores, setor público, terceiro setor e a sociedade em geral."
+    },
+    {
+      "row": 31,
+      "question_id": "19.4.3",
+      "question_text": "A empresa exige dos seus fornecedores certificações sociais emitidas por organismos independentes?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 32,
+      "question_id": "19.4.4",
+      "question_text": "Treinamento e apoio a fornecedores a melhorar qualidade de gestão de temas sociais?",
+      "answer": "Sim",
+      "source": "\"Em parceria com a Pacto Global da ONU e a Mais Diversidade, criamos o projeto Cadeia de Valor Itaú, iniciativa 100% gratuita e exclusiva para Pequenas e Médias Empresas, que busca apoiar os nossos fornecedores na definição de suas jornadas internas para temas como Direitos Humanos, Diversidade e Inclusão.\""
+    },
+    {
+      "row": 33,
+      "question_id": "19.4.5",
+      "question_text": "Avaliação de risco social em fornecedores?",
+      "answer": "Sim",
+      "source": "\"Incorporar avaliação de riscos em Direitos Humanos nos processos de homologação e monitoramento de fornecedores.\""
+    },
+    {
+      "row": 34,
+      "question_id": "19.4.6",
+      "question_text": "Outras práticas?",
+      "answer": "Sim",
+      "source": "\"Periodicamente, realizamos o Encontro Itaú + Fornecedores, uma reunião de engajamento onde são apresentados os temas mais relevantes para o alinhamento estratégico de nossa cadeia de fornecedores, incluindo temas como ética, prevenção à corrupção, prevenção à lavagem de dinheiro, combate ao financiamento do terrorismo, conflitos de relacionamento e canais de denúncia.\""
+    }
+  ],
+  "Temas ambientais na cadeia": [
+    {
+      "row": 5,
+      "question_id": "20.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.2",
+      "source": "8.333333333333334"
+    },
+    {
+      "row": 6,
+      "question_id": "20.2",
+      "question_text": "Resultados e metas",
+      "answer": "0.275",
+      "source": "2.857142857142857"
+    },
+    {
+      "row": 7,
+      "question_id": "20.3",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 8,
+      "question_id": "20.4",
+      "question_text": "Boas práticas",
+      "answer": "0.275",
+      "source": "8"
+    },
+    {
+      "row": 13,
+      "question_id": "20.1.1",
+      "question_text": "A empresa possui compromissos relacionados a integração de fatores ambientais na cadeia de produção?",
+      "answer": "Sim",
+      "source": "A “Política de Responsabilidade Social, Ambiental e Climática” (ou “PRSAC”) apresenta os princípios, estratégias e diretrizes de natureza social, ambiental e climática a serem observados na condução dos negócios, atividades e processos do Itaú Unibanco, bem como na sua relação com as partes interessadas."
+    },
+    {
+      "row": 14,
+      "question_id": "20.1.1.1",
+      "question_text": "Os compromissos abrangem temas relacionados a:\n1.\tDesmatamento?",
+      "answer": "Sim",
+      "source": "\"Para elegibilidade e manutenção das operações com classificação ESG, além dos critérios de cada modalidade, consideramos critérios socioambientais adicionais aos de operações convencionais, incluindo o compromisso de não desmatamento, ainda que legal, na área financiada. Vale ressaltar que todas as modalidades passam pela Governança de Aprovação de Produtos ESG.\""
+    },
+    {
+      "row": 15,
+      "question_id": "20.1.1.2",
+      "question_text": "Os compromissos abrangem temas relacionados a:\n2.\tBem-estar animal?",
+      "answer": "Sim",
+      "source": "\"A definição de conceitos e categorias elegíveis à criação de linhas ESG, em parceria com o Instituto de Manejo e Certificação Florestal e Agrícola (Imaflora), foi estabelecida logo no início da jornada e foi a base para a construção da estratégia de produtos ESG para o setor com foco em Agricultura de Baixa Emissão de Carbono (ABC), Energia, Recursos Hídricos, Biodiversidade e Bem-estar Animal (BEA).\""
+    },
+    {
+      "row": 16,
+      "question_id": "20.1.1.3",
+      "question_text": "Os compromissos abrangem temas relacionados a:\n3.\tCertificações (ex. ISO, Bonsucro, FSC)?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 17,
+      "question_id": "20.1.1.4",
+      "question_text": "Os compromissos abrangem temas relacionados a:\n4.\tEficiência no uso de recursos?",
+      "answer": "Sim",
+      "source": "Portanto, o banco privilegia a contratação de fornecedores que sejam responsáveis com o Meio Ambiente e com a Sociedade e que estejam engajados com práticas sustentáveis em toda a sua cadeia."
+    },
+    {
+      "row": 18,
+      "question_id": "20.1.1.5",
+      "question_text": "Os compromissos abrangem temas relacionados a:\n5.\tUso de defensivos agrícolas?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "20.1.1.6",
+      "question_text": "Os compromissos abrangem temas relacionados a:\n6.\tOutros?",
+      "answer": "Sim",
+      "source": "Planejamento da demanda: O planejamento eficaz da demanda reduz significativamente os custos e contribui para a continuidade das atividades. Portanto, deve ser um exercício constante entre os nossos colaboradores, por meio da previsão de demanda e antecipação do fluxo de produtos."
+    },
+    {
+      "row": 20,
+      "question_id": "20.2.1",
+      "question_text": "A empresa audita seus fornecedores em relação a:\n1.\tDesmatamento?",
+      "answer": "Sim",
+      "source": "\"Avaliamos a nossa cadeia de fornecedores e monitoramos a adequação aos nossos princípios, valores e compromissos, buscando mitigar riscos e garantir uma cadeia alinhada para geração de impacto positivo.\"; \"Auditoria de fornecedores sensíveis.\""
+    },
+    {
+      "row": 21,
+      "question_id": "20.2.2",
+      "question_text": "A empresa audita seus fornecedores em relação a:\n2.\tBem-estar animal?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 22,
+      "question_id": "20.2.3",
+      "question_text": "A empresa audita seus fornecedores em relação a:\n3.\tCertificações (ex. ISO, Bonsucro, FSC)?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 23,
+      "question_id": "20.2.4",
+      "question_text": "A empresa audita seus fornecedores em relação a:\n4.\tEficiência no uso de recursos?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 24,
+      "question_id": "20.2.5",
+      "question_text": "A empresa audita seus fornecedores em relação a:\n5.\tUso de defensivos agrícolas?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "20.2.6",
+      "question_text": "A empresa audita seus fornecedores em relação a:\n6.\tOutros?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 26,
+      "question_id": "20.2.7",
+      "question_text": "A auditoria ocorre em mais de 50% de seus fornecedores diretos?",
+      "answer": "Sim",
+      "source": "\"Avaliamos a nossa cadeia de fornecedores e monitoramos a adequação aos nossos princípios, valores e compromissos, buscando mitigar riscos e garantir uma cadeia alinhada para geração de impacto positivo.\"; \"Auditoria de fornecedores sensíveis.\""
+    },
+    {
+      "row": 27,
+      "question_id": "20.2.8",
+      "question_text": "A auditoria ocorre em mais de 50% de seus fornecedores indiretos?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 28,
+      "question_id": "20.3.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 29,
+      "question_id": "20.3.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 30,
+      "question_id": "20.3.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 31,
+      "question_id": "20.4.1",
+      "question_text": "Inclusão de cláusulas ambientais nos contratos com fornecedores?",
+      "answer": "Sim",
+      "source": "\"Desde 2020, nossos contratos possuem cláusulas que exigem o cumprimento de normas e políticas sociais, ambientais e climáticas.\""
+    },
+    {
+      "row": 32,
+      "question_id": "20.4.2",
+      "question_text": "A empresa analisa os impactos financeiros, reputacionais e de conformidade dos ambientais de sua cadeia de fornecedores?",
+      "answer": "Sim",
+      "source": "\"Adotamos processos robustos de gerenciamento de riscos, que contemplam os riscos relacionados à integridade, como os riscos: reputacional, regulatório, legal, ambiental, social e climático.\""
+    },
+    {
+      "row": 33,
+      "question_id": "20.4.3",
+      "question_text": "A empresa exige dos seus fornecedores certificações ambientais emitidas por organismos independentes?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 34,
+      "question_id": "20.4.4",
+      "question_text": "Treinamento e apoio a fornecedores a melhorar qualidade de gestão de temas ambientais?",
+      "answer": "Sim",
+      "source": "\"Letramento ESG dos fornecedores ativos : Até 2026, ter o questionário ESG respondido por 100% dos nossos fornecedores. Até 2030, atingir 75% dos fornecedores com as trilhas básicas concluídas.\""
+    },
+    {
+      "row": 35,
+      "question_id": "20.4.5",
+      "question_text": "Avaliação de risco ambiental em fornecedores?",
+      "answer": "Sim",
+      "source": "\"Com esses instrumentos, endereçamos os principais riscos e impactos sociais, ambientais e climáticos em nossa cadeia de fornecedores, garantindo que todos os fornecedores conheçam suas obrigações e responsabilidades no relacionamento com o Itaú Unibanco.\""
+    },
+    {
+      "row": 36,
+      "question_id": "20.4.6",
+      "question_text": "Outras práticas?",
+      "answer": "N/A",
+      "source": null
+    }
+  ],
+  "Remuneração executivos": [
+    {
+      "row": 5,
+      "question_id": "21.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.75",
+      "source": "8.333333333333334"
+    },
+    {
+      "row": 6,
+      "question_id": "21.2",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 13,
+      "question_id": "21.1.1",
+      "question_text": "A diretoria possui parte da remuneração em stock options e ações da empresa?",
+      "answer": "Sim",
+      "source": "The purpose of the Stock Option Plan is to make the executives parties to the medium and long_x0002_term development of the Company, thus allowing them to participate in the enhancement in value  which their work and dedication has brought to the shares of the Company."
+    },
+    {
+      "row": 14,
+      "question_id": "21.1.2",
+      "question_text": "A diretoria possui incentivos de remuneração atreladas ao desempenho financeiro de curto e longo prazo da empresa?",
+      "answer": "Sim",
+      "source": "\"Remuneração variável de diretores: além de considerar o desempenho, também reflete o resultado da área de negócios aplicável e resultados financeiros da Companhia compostos de: Resultado Geral Operacional (RGO) – Lucro Líquido Recorrente: mede o resultado alcançado pelo Banco no ano em comparação ao ano anterior e ao resultado esperado no orçamento aprovado pelo Conselho de Administração. Criação de Valor (CV) – Valor Econômico Adicionado (EVA): mede o valor adicionado pelo Banco ao acionista em excesso de seu custo de capital.\""
+    },
+    {
+      "row": 15,
+      "question_id": "21.1.3",
+      "question_text": "A remuneração de executivos é atrelada a desempenho ESG da empresa?",
+      "answer": "Sim",
+      "source": "\"De acordo com nossa Política de Remuneração dos Administradores, questões ambientais, sociais e de governança afetam a remuneração variável de Administradores e colaboradores envolvidos em atividades, negócios e compromissos relacionados à agenda ESG, por meio de indicadores de desempenho, projetos e iniciativas presentes no critério de desempenho individual em diversos níveis hierárquicos.\""
+    },
+    {
+      "row": 16,
+      "question_id": "21.1.4",
+      "question_text": "A empresa possui comitê de remuneração responsável por estabelecer remuneração da diretoria?",
+      "answer": "Sim",
+      "source": "\"A Política de Remuneração de Administradores, se aplica ao Conselho de Administração, à Diretoria, ao Conselho Fiscal e ao Comitê de Auditoria.\""
+    },
+    {
+      "row": 17,
+      "question_id": "21.1.5",
+      "question_text": "Comitê de remuneração é formado majoritariamente por membros independentes?",
+      "answer": "Não",
+      "source": "Apenas Candido Botelho Bracher é membro independente."
+    },
+    {
+      "row": 18,
+      "question_id": "21.1.6",
+      "question_text": "Os critérios de remuneração da diretoria são divulgados ao público?",
+      "answer": "Sim",
+      "source": "Vide tópico \"Política de Remuneração.\""
+    },
+    {
+      "row": 19,
+      "question_id": "21.2.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "21.2.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 21,
+      "question_id": "21.2.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    }
+  ],
+  "Conselho e Diretoria": [
+    {
+      "row": 5,
+      "question_id": "22.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.75",
+      "source": "7.894736842105263"
+    },
+    {
+      "row": 6,
+      "question_id": "22.2",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 13,
+      "question_id": "22.1.1",
+      "question_text": "CEO e presidente do conselho são a mesma pessoa?",
+      "answer": "Não",
+      "source": "Roberto Egydio Setubal é o presidente e Milton Maluhy Filho é o CEO."
+    },
+    {
+      "row": 14,
+      "question_id": "22.1.2",
+      "question_text": "CEO faz parte do conselho de administração?",
+      "answer": "Não",
+      "source": "Estrutura Administrativa - Itaú Unibanco | RI"
+    },
+    {
+      "row": 15,
+      "question_id": "22.1.3",
+      "question_text": "A empresa possui mais de um terço do conselho independente?",
+      "answer": "Sim",
+      "source": "Dos 13 membros, 6 são independentes."
+    },
+    {
+      "row": 16,
+      "question_id": "22.1.4",
+      "question_text": "Mais de 50% do conselho de administração possui background em outras indústrias?",
+      "answer": "Sim",
+      "source": "Sim, Pedro Moreira Salles, Ricardo Villela Marino, Ana Lúcia de Mattos Barretto Villela, Cesar Nivaldo Gon, Fabricio Bloisi Rocha, Marcos Marinho Lutz e Paulo Antunes Veras possuem background em outras indústrias."
+    },
+    {
+      "row": 17,
+      "question_id": "22.1.5",
+      "question_text": "A empresa possui mais de 20% de mulheres no conselho de administração?",
+      "answer": "Não",
+      "source": "Dos 13 membros, 2 são mulheres (Ana Lúcia de Mattos Barretto Villela e Maria Helena dos Santos Fernandes de Santana), equivalente a 15% do conselho."
+    },
+    {
+      "row": 18,
+      "question_id": "22.1.6",
+      "question_text": "A empresa possui mais de 20% de mulheres na diretoria executiva?",
+      "answer": "Não",
+      "source": "Não há mulheres na diretoria."
+    },
+    {
+      "row": 19,
+      "question_id": "22.1.7",
+      "question_text": "O conselho possui mandato unificado de, no máximo, 2 anos?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "22.1.8",
+      "question_text": "A empresa possui um comitê de sustentabilidade que presta serviços para diretoria e para o board?",
+      "answer": "Sim",
+      "source": "\"Comitê de Responsabilidade Social, Ambiental e Climática Define a estratégia de responsabilidade social, ambiental e climática, direciona e supervisiona a estratégia climática do banco.\""
+    },
+    {
+      "row": 21,
+      "question_id": "22.1.9",
+      "question_text": "Pelo menos um membro do conselho possui treinamento e experiência analisando questões ESG?",
+      "answer": "Sim",
+      "source": "Sim, Roberto Egydio Setubal, Pedro Moreira Salles, Alfredo Egydio Setuba, Ana Lúcia de Mattos Barretto Villela, Candido Botelho Bracher, Maria Helena dos Santos Fernandes de Santana e Pedro Luiz Bodin de Moraes."
+    },
+    {
+      "row": 22,
+      "question_id": "22.1.10",
+      "question_text": "A diretoria possui membros com background ESG?",
+      "answer": "Sim",
+      "source": "Sim, José Virgilio Vita Neto."
+    },
+    {
+      "row": 23,
+      "question_id": "22.1.11",
+      "question_text": "O conselho possui um plano de sucessão para seus membros?",
+      "answer": "Sim",
+      "source": "\"Comitê de Nomeação e Governança Corporativa Revisar periodicamente critérios de nomeação e sucessão; Apoiar metodologicamente a avaliação do CA e do CEO; Indicar conselheiros e diretores gerais; Analisar potenciais conflitos de interesse.\""
+    },
+    {
+      "row": 24,
+      "question_id": "22.1.12",
+      "question_text": "O conselho é responsável por estabelecer um comitê de auditoria?",
+      "answer": "Sim",
+      "source": "Comitê de Auditoria (CAud): Discute e supervisiona as ações realizadas pelas áreas responsáveis por riscos Sociais, Ambientais e Climáticos, e as oportunidades pelo olhar da área de Sustentabilidade. Nível: Conselho de Administração. Periodicidade: questões climáticas são discutidas conforme demanda."
+    },
+    {
+      "row": 25,
+      "question_id": "22.1.13",
+      "question_text": "A maioria dos membros do comitê de auditoria é independente?",
+      "answer": "Sim",
+      "source": "Somente Maria Helena dos Santos Fernandes Santana é membro do comitê de auditoria, e é independente."
+    },
+    {
+      "row": 26,
+      "question_id": "22.1.14",
+      "question_text": "Todos os membros do comitê de auditoria são independentes?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 27,
+      "question_id": "22.1.15",
+      "question_text": "Um comitê de conselheiros independentes é responsável por aprovar questões relacionadas a transação com partes interessadas?",
+      "answer": "Sim",
+      "source": "\"Comitê de Partes Relacionadas Gerir operações entre partes relacionadas; Assegurar a igualdade e transparência das operações.\""
+    },
+    {
+      "row": 28,
+      "question_id": "22.1.16",
+      "question_text": "O conselho estabeleceu um comitê de gestão de riscos com maioria dos membros independentes e com experiência em gestão de riscos?",
+      "answer": "Sim",
+      "source": "\"Gestão de Risco e Capital Definir o apetite de risco; Avaliar o custo de capital em relação ao retorno mínimo esperado; Alocar capital; Supervisionar a gestão e o controle de riscos; Aperfeiçoar a cultura de riscos; Atender às exigências regulatórias.\"; O Comitê possui 3 membros, sendo 2 indpendentes."
+    },
+    {
+      "row": 29,
+      "question_id": "22.1.17",
+      "question_text": "Conselho se reúne pelo menos uma vez por trimestre?",
+      "answer": "Sim",
+      "source": "\"É prevista em estatuto a realização de ao menos oito reuniões ordinárias anuais. Na prática, realizamos uma reunião por mês, totalizando 12 reuniões no ano. Reuniões extraordinárias são realizadas sob demanda.\""
+    },
+    {
+      "row": 30,
+      "question_id": "22.1.18",
+      "question_text": "Membros independentes do conselho se reúnem separadamente pelo menos uma vez por ano?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 31,
+      "question_id": "22.1.19",
+      "question_text": "Existe um processo periódico de avaliação do conselho, comitês e membros do conselho?",
+      "answer": "Sim",
+      "source": "\"As principais etapas da avaliação incluem: avaliação do Conselho de Administração por seus membros; avaliação cruzada; autoavaliação; avaliação do Conselho de Administração pelo CEO e avaliação do CEO pelo Conselho de Administração; avaliação dos Copresidentes do Conselho de Administração por seus membros; e avaliação dos comitês por seus membros.\""
+    },
+    {
+      "row": 32,
+      "question_id": "21.2.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 33,
+      "question_id": "21.2.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 34,
+      "question_id": "22.2.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    }
+  ],
+  "Minoritários": [
+    {
+      "row": 5,
+      "question_id": "23.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.75",
+      "source": "4.545454545454546"
+    },
+    {
+      "row": 6,
+      "question_id": "23.2",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 13,
+      "question_id": "23.1.1",
+      "question_text": "A empresa está no novo mercado ou segue suas diretrizes? (tag along, ações ON, etc.)",
+      "answer": "Não",
+      "source": "\"Nosso capital social é representado por ações ordinárias (ITUB3) e preferenciais (ITUB4), ambas negociadas na Bolsa de Valores de São Paulo (B3 - Brasil, Bolsa, Balcão).\""
+    },
+    {
+      "row": 14,
+      "question_id": "23.1.2",
+      "question_text": "A empresa tem sede em país com regulação menos rígida (ex. Empresa BVI)?",
+      "answer": "Sim",
+      "source": "\"We also have operations outside of Brazil, including, but not limited to, Bahamas, The Cayman Islands.\""
+    },
+    {
+      "row": 15,
+      "question_id": "23.1.3",
+      "question_text": "Acionistas são consultados em relação a remuneração da diretoria?",
+      "answer": "Sim",
+      "source": "\"Assembleia Geral Ordinária (AGO): Examinar, discutir e votar sobre as demonstrações contábeis; Deliberar sobre a destinação do lucro líquido, a distribuição de dividendos e a eleição dos membros do CA e do CF. Assembleia Geral Extraordinária (AGE): Deliberar matérias relevantes que não sejam da competência da AGO.\""
+    },
+    {
+      "row": 16,
+      "question_id": "23.1.4",
+      "question_text": "Remuneração da diretoria é sujeita a aprovação e voto de acionistas?",
+      "answer": "Sim",
+      "source": "Conforme acima."
+    },
+    {
+      "row": 17,
+      "question_id": "23.1.5",
+      "question_text": "Cada ação dá direito a um voto na AGM?",
+      "answer": "Sim",
+      "source": "\"A cada ação ordinária compete um voto nas deliberações das Assembleias Gerais.\""
+    },
+    {
+      "row": 18,
+      "question_id": "23.1.6",
+      "question_text": "Transações com partes relacionadas superiores a 2,5% do patrimônio líquido da empresa ou USD 150.000 são sujeitas a aprovação de acionistas?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "23.1.7",
+      "question_text": "Formulário de referência relata riscos materiais para acionistas minoritários relacionados a acionistas controladores, concentração de participação, cross-voting e desequilíbrios no poder de voto?",
+      "answer": "Sim",
+      "source": "Vide tópico \"Risk Factors.\""
+    },
+    {
+      "row": 20,
+      "question_id": "23.1.8",
+      "question_text": "A empresa possui histórico de conflitos com acionistas minoritários?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 21,
+      "question_id": "23.1.9",
+      "question_text": "A empresa possui pelo menos 25% das ações em circulação?",
+      "answer": "Não",
+      "source": "\"As of December 31, 2024, 979,087,895 ADSs (20.4% of the total outstanding shares of our preferred shares)\""
+    },
+    {
+      "row": 22,
+      "question_id": "23.1.10",
+      "question_text": "A empresa emite ações preferenciais?",
+      "answer": "Sim",
+      "source": "\"Nosso capital social é representado por ações ordinárias (ITUB3) e preferenciais (ITUB4), ambas negociadas na Bolsa de Valores de São Paulo (B3 - Brasil, Bolsa, Balcão).\""
+    },
+    {
+      "row": 23,
+      "question_id": "23.1.10.1",
+      "question_text": "Detentores de ações preferenciais da companhia têm o direito a voto em matérias relevantes?",
+      "answer": "Sim",
+      "source": "\"The preferred shares underlying our ADSs do not have voting rights, except in specific circumstances.\""
+    },
+    {
+      "row": 24,
+      "question_id": "21.2.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "21.2.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 26,
+      "question_id": "23.2.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    }
+  ],
+  "Integridade": [
+    {
+      "row": 5,
+      "question_id": "24.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.75",
+      "source": "9.333333333333334"
+    },
+    {
+      "row": 6,
+      "question_id": "24.2",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 13,
+      "question_id": "24.1.1",
+      "question_text": "A empresa possui código de ética que trata sobre a conduta a ser adotada por seus colaboradores?",
+      "answer": "Sim",
+      "source": "Estimulamos em nossos administradores e colaboradores a percepção de que leis, normas e regulamentos não esgotam as implicações éticas de todas as situações."
+    },
+    {
+      "row": 14,
+      "question_id": "24.1.2",
+      "question_text": "A empresa possui documento que aborde anticorrupção?",
+      "answer": "Sim",
+      "source": "(...)conforme a Lei Federal nº 12.846 de 01/08/2013 (Lei Anticorrupção) e outras leis internacionais, bem como contra lavagem de dinheiro e/ou financiamento ao terrorismo, fraudes e demais atos ilícitos ou criminosos, além de nos mantermos em dia com os treinamentos e as certificações obrigatórios que se aplicam à rotina de trabalho dos colaboradores."
+    },
+    {
+      "row": 15,
+      "question_id": "24.1.3",
+      "question_text": "A empresa possui documento que aborde lavagem de dinheiro?",
+      "answer": "Sim",
+      "source": "Idem ao anterior."
+    },
+    {
+      "row": 16,
+      "question_id": "24.1.4",
+      "question_text": "A empresa possui documento que aborde pagamentos de facilitação?",
+      "answer": "Sim",
+      "source": "Sugerir, oferecer, conceder, prometer ou receber cortesias, contribuições e favores de qualquer natureza a/de quaisquer terceiros, em troca ou a título de facilitação de negócios, operações ou atividades do Itaú Unibanco, ou visando obter vantagens indevidas para si mesmo ou para terceiros."
+    },
+    {
+      "row": 17,
+      "question_id": "21.1.5",
+      "question_text": "O documento é disponibilizado para o público em geral?",
+      "answer": "Sim",
+      "source": "O Código de Ética é disponibilizado no site da companhia."
+    },
+    {
+      "row": 18,
+      "question_id": "24.1.6",
+      "question_text": "O programa de integridade ou anticorrupção da empresa inclui treinamentos em todos os níveis?",
+      "answer": "Sim",
+      "source": "Também proporcionamos oportunidades iguais de acesso ao trabalho, ao desenvolvimento e ao crescimento profissional por meio de processos e treinamentos."
+    },
+    {
+      "row": 19,
+      "question_id": "24.1.7",
+      "question_text": "O programa de integridade ou anticorrupção da empresa é auditado por auditoria externa?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 20,
+      "question_id": "24.1.8",
+      "question_text": "A companhia disponibiliza canais de comunicação que possuem como objetivo a recepção de denúncias internas e externas?",
+      "answer": "Sim",
+      "source": "Vide: Canais competentes para tratamento de orientações e denúncias"
+    },
+    {
+      "row": 21,
+      "question_id": "24.1.9",
+      "question_text": "O Conselho de Administração monitora os resultados do canal de denúncias, presta contas aos públicos internos e externos em relação à efetividade do canal e as investigações são documentadas?",
+      "answer": "Sim",
+      "source": "\"O Comitê de Auditoria se reporta diretamente ao Conselho de Administração, sendo responsável pela supervisão dos processos de controles internos e de gestão de riscos, das atividades da auditoria interna e das atividades das empresas de auditoria independente da companhia.\""
+    },
+    {
+      "row": 22,
+      "question_id": "24.1.10",
+      "question_text": "A empresa faz parte do Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS)?",
+      "answer": "Não",
+      "source": "Consulta de Sanções | Portal da Transparência do Governo Federal"
+    },
+    {
+      "row": 23,
+      "question_id": "24.1.11",
+      "question_text": "A empresa faz parte do Cadastro Nacional de Empresas Punidas (CNEP)?",
+      "answer": "Não",
+      "source": "Consulta de Sanções | Portal da Transparência do Governo Federal"
+    },
+    {
+      "row": 24,
+      "question_id": "24.1.12",
+      "question_text": "A empresa possui em seus quadros algum gestor que tenha sido punido por órgãos de supervisão e controle ou mecanismo de auto regulação?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "24.1.13",
+      "question_text": "A empresa possui em seus quadros acionista relevante que tenha sido punido por órgãos de supervisão e controle ou mecanismo de auto regulação?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 26,
+      "question_id": "24.1.14",
+      "question_text": "A empresa realiza análise de risco de sua exposição a corrupção?",
+      "answer": "Sim",
+      "source": "\"Neste fórum são discutidos entendimentos legais dos assuntos relacionados ao Programa, inclusive com relação à prevenção à corrupção, bem como são definidos diretrizes e melhorias nos processos em decorrência de regulamentação, riscos identificados, denúncias, entre outros.\""
+    },
+    {
+      "row": 27,
+      "question_id": "24.1.15",
+      "question_text": "A auditoria interna da empresa possui total autonomia para avaliar e se posicionar sobre todas as operações da empresa?",
+      "answer": "Sim",
+      "source": "\"A Auditoria Interna promove a avaliação independente, periódica e obrigatória, para todas as unidades, da eficiência e eficácia dos processos e procedimentos estabelecidos nos sistemas de pessoal para controle e gestão dos riscos, podendo contratar recursos externos quando julgar necessário.\""
+    },
+    {
+      "row": 28,
+      "question_id": "21.2.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 29,
+      "question_id": "21.2.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 30,
+      "question_id": "24.2.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    }
+  ],
+  "Transparência": [
+    {
+      "row": 5,
+      "question_id": "25.1",
+      "question_text": ". Políticas e responsabilidade",
+      "answer": "0.75",
+      "source": "8"
+    },
+    {
+      "row": 6,
+      "question_id": "25.2",
+      "question_text": "Controvérsias",
+      "answer": "0.25",
+      "source": "10"
+    },
+    {
+      "row": 13,
+      "question_id": "25.1.1",
+      "question_text": "Demonstrações financeiras são auditadas por empresa de auditoria reconhecidas (preferencialmente Big4)?",
+      "answer": "Sim",
+      "source": "Auditadas pela PwC."
+    },
+    {
+      "row": 14,
+      "question_id": "25.1.3",
+      "question_text": "Comitê de auditoria é responsável por supervisionar as demonstrações financeiras e não financeiras e auditoria?",
+      "answer": "Sim",
+      "source": "\"Comitê de Auditoria: Garantir a integridade das demonstrações contábeis; Cumprir exigências legais e regulatórias; Assegurar a eficiência dos controles internos e gestão dos riscos.\""
+    },
+    {
+      "row": 15,
+      "question_id": "25.1.4",
+      "question_text": "A empresa divulga de forma clara quem é o Ultimate Beneficial Ownership?",
+      "answer": "Sim",
+      "source": "Sim, a família Moreira Salles."
+    },
+    {
+      "row": 16,
+      "question_id": "25.1.5",
+      "question_text": ". A política de pagamento de dividendos é divulgada publicamente?",
+      "answer": "Sim",
+      "source": "Disponível na política publicada no site da companhia."
+    },
+    {
+      "row": 17,
+      "question_id": "25.1.6",
+      "question_text": "Remuneração da diretoria é divulgada publicamente de forma consolidada?",
+      "answer": "Sim",
+      "source": "Vide tópico \"Compensation.\""
+    },
+    {
+      "row": 18,
+      "question_id": "25.1.7",
+      "question_text": "Remuneração da diretoria é divulgada publicamente de forma individualizada (para cada membro da diretoria)?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 19,
+      "question_id": "25.1.8",
+      "question_text": "Divulgação de informações ESG segue padrões reconhecidos na indústria (GRI, SASB, IIRC)?",
+      "answer": "Sim",
+      "source": "Segue os padrões SASB e GRI."
+    },
+    {
+      "row": 20,
+      "question_id": "25.1.9",
+      "question_text": "Divulgação de informações ESG é objetivo de auditoria externa?",
+      "answer": "Sim",
+      "source": "\"PricewaterhouseCoopers Auditores Independentes Ltda.\""
+    },
+    {
+      "row": 21,
+      "question_id": "25.1.10",
+      "question_text": "Divulgação de informações ESG ocorre anualmente?",
+      "answer": "Sim",
+      "source": "Sim, no site da companhia."
+    },
+    {
+      "row": 22,
+      "question_id": "25.1.11",
+      "question_text": "Divulgação de informações ESG ocorre mais de uma vez por ano?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 23,
+      "question_id": "25.1.12",
+      "question_text": "A empresa divulga suas atas de reunião de Acionistas?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 24,
+      "question_id": "25.1.13",
+      "question_text": "A empresa divulga suas atas de reunião do Conselho de Administração?",
+      "answer": "Sim",
+      "source": "Disponíveis no site da companhia."
+    },
+    {
+      "row": 25,
+      "question_id": "25.1.14",
+      "question_text": "A empresa divulga suas atas de reunião da Diretoria?",
+      "answer": "Sim",
+      "source": "Disponíveis no site da companhia."
+    },
+    {
+      "row": 26,
+      "question_id": "25.1.15",
+      "question_text": "A empresa conta com um órgão de governança corporativa (e.g. Secretaria de governança corporativa) ligado ao Conselho de Administração, responsável pela comunicação com partes interessadas?",
+      "answer": "Sim",
+      "source": "\"O princípio fundamental da nossa Política de Governança Corporativa é a busca de excelência em Governança Corporativa, fortalecendo e criando as melhores condições para o desenvolvimento do Itaú Unibanco e de suas subsidiárias.\""
+    },
+    {
+      "row": 27,
+      "question_id": "25.1.16",
+      "question_text": "A empresa conta com procedimentos de gestão da comunicação na crise, de forma a minimizar danos reputacionais?",
+      "answer": "Sim",
+      "source": "\"Para os incidentes considerados críticos, acionamos a área de Gestão de Crises, que atua conforme procedimentos internos, com mobilização dos Executivos para tomada de decisão e das demais áreas de suporte para avaliação dos riscos.\""
+    },
+    {
+      "row": 28,
+      "question_id": "21.2.1",
+      "question_text": "A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer": "Não",
+      "source": null
+    },
+    {
+      "row": 29,
+      "question_id": "21.2.2",
+      "question_text": "A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer": "N/A",
+      "source": null
+    },
+    {
+      "row": 30,
+      "question_id": "25.2.3",
+      "question_text": "A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer": "N/A",
+      "source": null
+    }
+  ],
+  "Resultado": [
+    {
+      "row": 7,
+      "question_id": "8.357142857142858",
+      "question_text": null,
+      "answer": "1",
+      "source": "8.532589285714286"
+    },
+    {
+      "row": 8,
+      "question_id": "8.96875",
+      "question_text": null,
+      "answer": "1",
+      "source": null
+    },
+    {
+      "row": 11,
+      "question_id": "8.783333333333335",
+      "question_text": null,
+      "answer": "1",
+      "source": null
+    },
+    {
+      "row": 14,
+      "question_id": "8.645833333333334",
+      "question_text": null,
+      "answer": "1",
+      "source": null
+    },
+    {
+      "row": 16,
+      "question_id": "6.440476190476192",
+      "question_text": null,
+      "answer": "1",
+      "source": null
+    },
+    {
+      "row": 17,
+      "question_id": "8.55625",
+      "question_text": null,
+      "answer": "3",
+      "source": "7.969600340136054"
+    },
+    {
+      "row": 18,
+      "question_id": "9.2",
+      "question_text": null,
+      "answer": "3",
+      "source": "Destaques positivos"
+    },
+    {
+      "row": 19,
+      "question_id": "6.380952380952381",
+      "question_text": null,
+      "answer": "3",
+      "source": "O Itaú monitora seus fornecedores em relação a temas ambientais e sociais. Também realiza o Encontro Itaú + Fornecedores para alinhar temas relevantes; e participa do CDP Supply Chain para identificar riscos e oportunidades em relação às práticas ambientais e climáticas dos fornecedores."
+    },
+    {
+      "row": 20,
+      "question_id": "9.5875",
+      "question_text": null,
+      "answer": "3",
+      "source": "Seu Sistema de Gestão Integrado (SGI) é certificado pela ISO 27001 e 27701, considerando os processos de governança de tratamento de dados pessoais."
+    },
+    {
+      "row": 21,
+      "question_id": "7.333333333333333",
+      "question_text": null,
+      "answer": "3",
+      "source": "Dispõe de compromissos com a preservação da biodiversidade, em que se destaca o Plano Amazônia. Para garantir a efetividade das medidas adotadas no plano, foi criada uma governança integrada entre os times de Sustentabilidade e um grupo de especialistas, além de uma estrutura de governança integrada aos negócios para gestão dos compromissos de impacto positivo. Ainda, tem implementado programas próprios e apoiado iniciativas de parceiros, como o projeto Biomas, uma joint venture dedicada a restauração, conservação e preservação de florestas no país. Também avalia o risco de impactos à biodiversidade na carteira de crédito. "
+    },
+    {
+      "row": 22,
+      "question_id": "7.233333333333333",
+      "question_text": null,
+      "answer": "2",
+      "source": "Todo o consumo de eletricidade já é proveniente de fontes renováveis. "
+    },
+    {
+      "row": 24,
+      "question_id": "7.59375",
+      "question_text": null,
+      "answer": "1",
+      "source": null
+    },
+    {
+      "row": 25,
+      "question_id": "7.25",
+      "question_text": null,
+      "answer": "1",
+      "source": null
+    },
+    {
+      "row": 26,
+      "question_id": "8.510416666666668",
+      "question_text": null,
+      "answer": "1",
+      "source": null
+    },
+    {
+      "row": 27,
+      "question_id": "6.366666666666667",
+      "question_text": null,
+      "answer": "1",
+      "source": null
+    },
+    {
+      "row": 28,
+      "question_id": "8.75",
+      "question_text": null,
+      "answer": "3",
+      "source": "8.21602870813397"
+    },
+    {
+      "row": 29,
+      "question_id": "8.421052631578947",
+      "question_text": null,
+      "answer": "3",
+      "source": null
+    },
+    {
+      "row": 30,
+      "question_id": "5.909090909090909",
+      "question_text": null,
+      "answer": "3",
+      "source": null
+    },
+    {
+      "row": 31,
+      "question_id": "9.5",
+      "question_text": null,
+      "answer": "3",
+      "source": null
+    },
+    {
+      "row": 32,
+      "question_id": "8.5",
+      "question_text": null,
+      "answer": "3",
+      "source": null
+    },
+    {
+      "row": 38,
+      "question_id": null,
+      "question_text": "Explicação sobre a nota",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 39,
+      "question_id": "1.99",
+      "question_text": "A empresa não apresenta evidências de seu desempenho na dimensão específica.",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 40,
+      "question_id": "3.99",
+      "question_text": "A empresa não cumpre os requisitos mínimos de conformidade com a legislação no tema específico, está aquém de seus peers ou apresenta uma tendência de piora de seu desempenho.",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 41,
+      "question_id": "5.99",
+      "question_text": "A empresa cumpre os requisitos mínimos de conformidade com a legislação no tema específico, está próxima de seus peers e não apresenta tendência de melhora de seu desempenho",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 42,
+      "question_id": "7.99",
+      "question_text": "A empresa cumpre os requisitos mínimos de conformidade com a legislação no tema específico, além de estar alinhado com padrões de sustentabilidade. A empresa está a frente de seus peers ou apresenta melhora no seu desempenho.",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 43,
+      "question_id": null,
+      "question_text": "A empresa possui as melhores práticas, se tornando referência para outras empresas no desempenho socioambiental/ESG por meio da busca de inovação e melhoria contínua, contribuindo assim de maneira relevante para o desenvolvimento sustentável, inclusive com compromissos de manter essa contribuição no longo prazo. Empresa é melhor que seus peers na maioria dos temas e também apresenta trajetória de evolução no seu desempenho ESG.",
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 48,
+      "question_id": "8.532589285714286",
+      "question_text": null,
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 49,
+      "question_id": "7.969600340136054",
+      "question_text": null,
+      "answer": null,
+      "source": null
+    },
+    {
+      "row": 50,
+      "question_id": "8.21602870813397",
+      "question_text": null,
+      "answer": null,
+      "source": null
+    }
+  ]
+}

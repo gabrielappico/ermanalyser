@@ -1,0 +1,1873 @@
+{
+  "Controvérsias": [],
+  "Materialidade": [
+    {
+      "id": "0.35",
+      "question": "0.35",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "0.3"
+    },
+    {
+      "id": "0.3",
+      "question": "0.3",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "0.35"
+    },
+    {
+      "id": "0.35",
+      "question": "0.35",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "0.35"
+    }
+  ],
+  "Recursos Hídricos": [
+    {
+      "id": "1.1.1",
+      "question": "1.1.1 A empresa possui política ou compromisso institucional envolvendo o tema gestão de recursos hídricos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.1.1.1",
+      "question": "1.1.1.1 A política aborda os seguintes temas: \n- Redução e uso eficiente de recursos hídricos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.1.1.2",
+      "question": "1.1.1.2 A política aborda os seguintes temas: \n- Aumento na captação de fontes alternativas e aumento no reuso da água (ex: condensação do sistema de ar condicionado e captação de água das chuvas)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.2.1",
+      "question": "1.2.1 A empresa monitora dados de consumo ou retirada de água?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.2.1.1",
+      "question": "1.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.2.1.2",
+      "question": "1.2.1.2 O indicador corresponde a mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.2.1.3",
+      "question": "1.2.1.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.2.2",
+      "question": "1.2.2 A empresa possui metas quantitativas relacionadas ao consumo e retirada de água?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.2.2.1",
+      "question": "1.2.2.1 As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "1.2.2.2",
+      "question": "1.2.2.2 As metas e/ou indicadores são disponibilizadas para o público?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.3.1",
+      "question": "1.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Não"
+    },
+    {
+      "id": "1.3.2",
+      "question": "1.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Não"
+    },
+    {
+      "id": "1.3.3",
+      "question": "1.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "N/A"
+    },
+    {
+      "id": "1.4.1",
+      "question": "1.4.1 A empresa possui ações de captação de fontes alternativas de água (dessalinização, água de chuva, condensação do sistema de ar condicionado)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.1.1",
+      "question": "1.4.1.1 A ação representa mais de 25% do consumo de água da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.1.2",
+      "question": "1.4.1.2 A ação representa mais de 50% do consumo de água da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.2",
+      "question": "1.4.2 A empresa possui ações para tratamento de água para reuso?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.2.1",
+      "question": "1.4.2.1 A ação representa mais de 25% do consumo de água da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.2.2",
+      "question": "1.4.2.2 A ação representa mais de 50% do consumo de água da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.3",
+      "question": "1.4.3 A empresa faz parte de grupos de trabalho ou iniciativas voluntárias voltadas a melhorar a gestão de recursos hídricos (ex. comitê de bacias hidrográficas)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.4",
+      "question": "1.4.4 A empresa monitora o risco hídrico presente ou futuro nas unidades em que opera?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.5",
+      "question": "1.4.5 A empresa realiza treinamento de colaboradores acerca da melhoria da eficiência no consumo de água?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.6",
+      "question": "1.4.6 A empresa investe em soluções para apoiar o controle confiável e preciso dos dados de coleta de água como telemetria e sistemas inteligentes que identificam vazamentos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.7",
+      "question": "1.4.7 A empresa possui ações para monitoramento de risco hídrico presente e futuro nas bacias em que opera?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.8",
+      "question": "1.4.8 A empresa possui certificações ISO 46001 para mais de 10% de suas operações?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.8.1",
+      "question": "1.4.8.1 A empresa possui certificações ISO 46001 para mais de 50% de suas operações?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "1.4.9",
+      "question": "1.4.9 Outras ações relacionadas a gestão eficiente de recursos hídricos (Ex: Certificação LEED CI)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    }
+  ],
+  "Sistema Gestão Socioambiental": [
+    {
+      "id": "4.1.1",
+      "question": "4.1.1 A empresa possui uma política que defina diretrizes e princípios ambientais e sociais que orientam sua gestão de projetos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.1.2",
+      "question": "4.1.2 O Sistema de Gestão Ambiental incorpora os seguintes elementos: (i) política; (ii) identificação de aspectos e impactos; (iii) programas de gestão; (iv) capacidade e competência organizacional; (v) preparação e resposta a emergência; (vi) engajamento das partes interessadas; e (vii) monitoramento e análise.",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.1.3",
+      "question": "4.1.3 Qual o nível de responsabilidade mais alto pelo Sistema de Gestão Ambiental dentro da empresa?\n- Diretoria ou conselho (10)\n- Gerências (5)\n- Outros (0)",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.1",
+      "question": "4.2.1 O processo de identificação de riscos e impactos abrange riscos e impactos presentes e futuros?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.2",
+      "question": "4.2.2 O processo de identificação de riscos aspectos e impactos está baseado em dados de referência socioambientais recentes com um nível apropriado de detalhes?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.3",
+      "question": "4.2.3 O processo de identificação de riscos e impactos leva em consideração os riscos e impactos associados às principais cadeias de abastecimento? (possui indicadores para análise dos riscos sociais e ambientais da cadeia de fornecedores",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.4",
+      "question": "4.2.4 O processo de identificação de riscos e impactos leva em conta o resultado do processo de engajamento com as Comunidades Afetadas, quando apropriado?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.5",
+      "question": "4.2.5 O Sistema de Gestão Ambiental estabelece e mantem um sistema de preparo e resposta a emergência? ",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.6",
+      "question": "4.2.6 A empresa documenta suas atividades de preparo e resposta a emergência, bem como seus recursos e responsabilidades?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.7",
+      "question": "4.2.7 A empresa fornece informações apropriadas às Comunidades potencialmente afetadas e aos órgãos governamentais competentes relacionadas as suas atividades de preparo e resposta a emergência?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.7",
+      "question": "4.2.7 A empresa estabeleceu procedimentos para monitorar e medir a eficácia do programa de gestão, bem como o cumprimento de quaisquer obrigações legais e/ou contratuais e requisitos reguladores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.8",
+      "question": "4.2.8 A empresa conta com uma Estrutura de Engajamento de Partes Interessadas como parte de seu programa de gestão?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.9",
+      "question": "4.2.9 A empresa divulga informações relevantes do projeto, ajuda as Comunidades Afetadas e outras partes interessadas a compreenderem os riscos, os impactos e as oportunidades do projeto?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.10",
+      "question": "4.2.10 Quando necessário, a empresa estabelece um mecanismo de reclamação para receber e facilitar a solução de preocupações e reclamações das Comunidades Afetadas sobre o desempenho socioambiental da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.9",
+      "question": "4.2.9 A empresa possui Certificação ISO 14001?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    }
+  ],
+  "Recursos Energéticos": [
+    {
+      "id": "2.1.1",
+      "question": "2.1.1 A empresa possui política ou compromisso institucional envolvendo o tema gestão de recursos energéticos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": true,
+      "answer_preview": "Sim"
+    },
+    {
+      "id": "2.1.1.1",
+      "question": "2.1.1.1 A política aborda os seguintes temas: \n- Redução e uso eficiente de recursos energéticos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.1.1.2",
+      "question": "2.1.1.2 A política aborda os seguintes temas: \n- Aumento na participação de fontes renováveis?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.2.1",
+      "question": "2.2.1 A empresa monitora dados de consumo de energia elétrica?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.2.1.1",
+      "question": "2.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.2.1.2",
+      "question": "2.2.1.2 O indicador corresponde a mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.2.1.3",
+      "question": "2.2.1.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.2.2",
+      "question": "2.2.2 A empresa possui metas quantitativas relacionadas ao consumo ou intensidade do consumo de energia elétrica?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.2.2.1",
+      "question": "2.2.2.1 As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.2.2.2",
+      "question": "2.2.2.2 As metas e/ou indicadores acima são disponibilizados para o público?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.2.3",
+      "question": "2.2.3 A empresa monitora e possui a participação de fontes renováveis no consumo de energia elétrica?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.2.3.1",
+      "question": "2.2.3.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.2.3.2",
+      "question": "2.2.3.2 A empresa possui metas quantitativas relacionadas a participação de fontes renováveis de energia elétrica?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.2.3.3",
+      "question": "2.2.3.3 As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.3.1",
+      "question": "2.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.3.2",
+      "question": "2.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.3.3",
+      "question": "2.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.4.1",
+      "question": "2.4.1 Adoção de frota ecoeficiente ou frota de híbridos e elétricos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.4.2",
+      "question": "2.4.2 Investimentos em geração de energia renovável (solar, eólica, biomassa, etc.)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.4.3",
+      "question": "2.4.3 Aquisição de energia de fontes renováveis não convencionais (solar, eólica, biomassa, etc.)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.4.4",
+      "question": "2.4.4 Prédios ecoeficientes ou no padrão green building?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.4.5",
+      "question": "2.4.5 Recuperação de calor em processos térmicos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.4.5.1",
+      "question": "2.4.5.1 A ação representa mais de 50% do consumo energia da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.4.6",
+      "question": "2.4.6 Investimentos em P&D para tecnologias que reduzam o consumo de energia?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.4.7",
+      "question": "2.4.7 Participa de grupos de trabalho ou iniciativas voluntárias relacionadas a eficiência energética?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.4.8",
+      "question": "2.4.8 Possui certificação ISO 50001 ou análogas para mais de 10% de suas operações?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.4.8.1",
+      "question": "2.4.8.1 Possui certificação ISO 50001 ou análogas para mais de 50% de suas operações?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "2.4.9",
+      "question": "2.4.9 Outras ações relacionadas a eficiência energética e uso de energia renovável?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    }
+  ],
+  "Materiais básicos": [
+    {
+      "id": "3.1.1",
+      "question": "3.1.1 A empresa possui política ou compromisso institucional sobre o uso sustentável de recursos naturais e materiais básicos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.1.1.1",
+      "question": "3.1.1.1 A política aborda os seguintes temas: \n- Redução no uso de insumos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.1.1.2",
+      "question": "3.1.1.2 A política aborda os seguintes temas: \n- Substituição de insumos básicos por alternativas sustentáveis?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.2.1",
+      "question": "3.2.1 A empresa monitora indicadores de consumo de materiais básicos, insumos e recursos naturais?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.2.1.1",
+      "question": "3.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.2.1.2",
+      "question": "3.2.1.2 Os indicadores compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.2.1.3",
+      "question": "3.2.1.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.2.2",
+      "question": "3.2.2 A empresa possui metas associadas a redução no consumo de materiais e recursos naturais?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.2.2.1",
+      "question": "3.2.2.1 As metas acima vêm sendo atingidas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.3.1",
+      "question": "3.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.3.2",
+      "question": "3.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema ?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.3.3",
+      "question": "3.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.4.1",
+      "question": "3.4.1 Ações de substituição de materiais básicos não renováveis por opções renováveis?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.4.2",
+      "question": "3.4.2 Investimentos em P&D?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.4.3",
+      "question": "3.4.3 Outras?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "3.4.3",
+      "question": "3.4.3 Outras?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    }
+  ],
+  "Resíduos Sólidos": [
+    {
+      "id": "4.1.1",
+      "question": "4.1.1 A empresa possui política ou compromisso institucional sobre o tema gestão de resíduos sólidos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.1.1.1",
+      "question": "4.1.1.1 A política aborda os seguintes temas: \n- Redução na geração de resíduos sólidos na produção?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.1.1.2",
+      "question": "4.1.1.2 A política aborda os seguintes temas: \n- Reciclagem e reutilização de resíduos sólidos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.1",
+      "question": "4.2.1 A empresa monitora indicadores de geração de resíduos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.1.1",
+      "question": "4.2.1.1  A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.2",
+      "question": "4.2.2 Os indicadores de geração de resíduos são monitorados e divulgados por classe (perigoso e não perigoso)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.2.1",
+      "question": "4.2.2.1 Os indicadores acima compreende mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.2.2",
+      "question": "4.2.2.2 O indicador vem apresentando uma tendência de redução nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.3",
+      "question": "4.2.3 A empresa possui metas associadas a geração de resíduos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.3.1",
+      "question": "4.2.3.1 As metas acima vêm sendo atingidas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.4",
+      "question": "4.2.4 A empresa monitora o percentual de resíduos reciclados e o percentual de disposição adequada de resíduos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.4.1",
+      "question": "4.2.4.1 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.4.2",
+      "question": "4.2.4.2 O indicador vem apresentando uma tendência de melhoria nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.4.3",
+      "question": "4.2.4.3 A empresa possui metas de reciclagem e disposição adequada de resíduos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.2.4.4",
+      "question": "4.2.4.4 As metas acima vêm sendo atingidas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.3.1",
+      "question": "4.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos (ex. Penalização pela Política Nacional de Resíduos Sólidos) relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.3.2",
+      "question": "4.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.3.3",
+      "question": "4.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.1",
+      "question": "4.4.1 Engajamento com distribuidores e consumidores buscando minimizar a geração de resíduos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.2",
+      "question": "4.4.2 A empresa promove treinamento para os colaboradores acerca de melhores práticas de destinação, tratamento, reciclagem e disposição de resíduos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.3",
+      "question": "4.4.3 A empresa oferece mecanismos de logística reversa para o reuso, reciclagem ou destinação adequada dos produtos ao fim de sua vida útil?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.4",
+      "question": "4.4.4 Uso de embalagens de material reutilizável nos produtos vendidos/produzidos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.5",
+      "question": "4.4.5 Participação em acordos setoriais de logística reversa no âmbito da PNRS?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.6",
+      "question": "4.4.6 Reaproveitamento de resíduos para produção de adubo (compostagem, biodigestores) ou coprocessamento?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.7",
+      "question": "4.4.7 Outras?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    }
+  ],
+  "Efluentes líquidos": [
+    {
+      "id": "5.1.1",
+      "question": "5.1.1 A empresa possui política ou compromisso institucional sobre o tema gestão de efluentes líquidos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.1.1.1",
+      "question": "5.1.1.1 A política aborda os seguintes temas: \n- Redução na geração ou tratamento adequado de efluentes líquidos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.2.1",
+      "question": "5.2.1 A empresa monitora indicadores de tratamento e disposição adequada de efluentes líquidos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.2.1.1",
+      "question": "5.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.2.1.2",
+      "question": "5.2.1.2 Os indicadores acima compreende mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.2.1.3",
+      "question": "5.2.1.3 O indicador vem apresentando uma tendência de melhoria nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.2.2",
+      "question": "5.2.2 A empresa monitora indicadores de geração de efluentes líquidos (volume de descarte de água)? ",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.2.2.1",
+      "question": "5.2.2.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.2.2.2",
+      "question": "5.2.2.2 Os indicadores acima compreende mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.2.2.3",
+      "question": "5.2.2.3 O indicador vem apresentando uma tendência de melhoria nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.2.3",
+      "question": "5.2.3 A empresa possui metas quantitativas relacionadas ao descarte de água/geração de efluentes?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.2.3.1",
+      "question": "5.2.3.1 As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.2.3.2",
+      "question": "5.2.3.2 As metas e/ou indicadores são disponibilizadas para o público?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.3.1",
+      "question": "5.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.3.2",
+      "question": "5.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema ?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.3.3",
+      "question": "5.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.4.1",
+      "question": "5.4.1 Investimentos em P&D  para tecnologias de redução na geração de efluentes (industriais e sanitários) ou reaproveitamento?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.4.2",
+      "question": "5.4.2 Investimentos em P&D para ganhos de eficiência no tratamento de efluentes?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.4.3",
+      "question": "5.4.3 Geração de energia renovável através de efluentes líquidos e resíduos orgânicos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.4.4",
+      "question": "5.4.4 Reaproveitamento de resíduos orgânicos de efluentes líquidos para produção de adubo?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "5.4.5",
+      "question": "5.4.5 Outras?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.3.2",
+      "question": "4.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 5 anos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.3.3",
+      "question": "4.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.1",
+      "question": "4.4.1 Engajamento com distribuidores e consumidores buscando minimizar a geração de resíduos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.2",
+      "question": "4.4.2 A empresa promove treinamento para os colaboradores acerca de melhores práticas de destinação, tratamento, reciclagem e disposição de resíduos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.3",
+      "question": "4.4.3 A empresa oferece mecanismos de logística reversa para o reuso, reciclagem ou destinação adequada dos produtos ao fim de sua vida útil?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.4",
+      "question": "4.4.4 Uso de embalagens de material reutilizável nos produtos vendidos/produzidos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.5",
+      "question": "4.4.5 Participação em acordos setoriais de logística reversa no âmbito da PNRS?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.6",
+      "question": "4.4.6 Reaproveitamento de resíduos para produção de adubo (compostagem, biodigestores) ou coprocessamento?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "4.4.7",
+      "question": "4.4.7 Outras?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    }
+  ],
+  "Emissões atmosféricas": [
+    {
+      "id": "6.1.1",
+      "question": "6.1.1 A empresa possui política ou compromisso institucional sobre controle e redução das emissões atmosféricas?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.1.1.1",
+      "question": "6.1.1.1 A política aborda os seguintes temas: \n- Emissão de material particulado, SOx e NOx?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.1",
+      "question": "6.2.1 A empresa monitora indicadores de emissão de material particulado?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.1.1",
+      "question": "6.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.1.2",
+      "question": "6.2.1.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.1.3",
+      "question": "6.2.1.3 Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.1.4",
+      "question": "6.2.1.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.1.5",
+      "question": "6.2.1.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.2",
+      "question": "6.2.2 A empresa monitora indicadores de emissão de NOx, SOx e compostos orgânicos voláteis?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.2.1",
+      "question": "6.2.2.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.2.2",
+      "question": "6.2.2.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.2.3",
+      "question": "6.2.2.3 Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.2.4",
+      "question": "6.2.2.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.2.2.5",
+      "question": "6.2.2.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.3.1",
+      "question": "6.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.3.2",
+      "question": "6.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.3.3",
+      "question": "6.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.4.1",
+      "question": "6.4.1 Investimentos em P&D para tecnologias de redução das emissões atmosféricas?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.4.2",
+      "question": "6.4.2 Investimentos em tecnologias de redução de emissões como filtros de manga e fluidização?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.4.3",
+      "question": "6.4.3 Realiza controle dos níveis de poluição próximo a chaminés e áreas onde são gerados esses compostos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "6.4.4",
+      "question": "6.4.4 Outras?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    }
+  ],
+  "Mudanças Climáticas Mitigação": [
+    {
+      "id": "7.1.1",
+      "question": "7.1.1 A empresa possui política ou compromisso institucional com a redução das emissões de gases de efeito estufa (GEE)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.1.1.1",
+      "question": "7.1.1.1 A política ou compromisso aborda: \n- Redução das emissões de GEE diretas (escopo 1)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.1.1.2",
+      "question": "7.1.1.2 A política ou compromisso aborda: \n- Redução das emissões de GEE indiretas (escopo 2 e 3)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.1",
+      "question": "7.2.1 A empresa monitora indicadores de emissão de GEE diretas (escopo 1)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.1.1",
+      "question": "7.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.1.2",
+      "question": "7.2.1.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.1.3",
+      "question": "7.2.1.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.1.4",
+      "question": "7.2.1.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.1.5",
+      "question": "7.2.1.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.2",
+      "question": "7.2.2 A empresa monitora indicadores de emissão de gases de efeito estufa indiretas (escopo 2)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.2.1",
+      "question": "7.2.2.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.2.2",
+      "question": "7.2.2.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.2.3",
+      "question": "7.2.2.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.1.4",
+      "question": "7.2.1.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.2.5",
+      "question": "7.2.2.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.3",
+      "question": "7.2.3 A empresa monitora indicadores de emissão de gases de efeito estufa indiretas (escopo 3)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.3.1",
+      "question": "7.2.3.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.3.2",
+      "question": "7.2.3.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.3.3",
+      "question": "7.2.3.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.3.4",
+      "question": "7.2.3.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.2.3.5",
+      "question": "7.2.3.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.3.1",
+      "question": "7.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.3.2",
+      "question": "7.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.3.3",
+      "question": "7.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.4.1",
+      "question": "7.4.1 A empresa responde ao questionário da Carbon Disclosure Project (CDP)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.4.1.1",
+      "question": "7.4.1.1 A empresa publica suas respostas ao CDP?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.4.2",
+      "question": "7.4.2 A empresa compensa até 50% das suas emissões de gases de efeito estufa diretas?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.4.2.1",
+      "question": "7.4.2.1 A empresa compensa >50% das suas emissões de gases de efeito estufa diretas?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.4.3",
+      "question": "7.4.3 A empresa compensa >50% das suas emissões de gases de efeito estufa indiretas?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.4.4",
+      "question": "7.4.4 A empresa possui ações para encorajar sua cadeia (upstream e downstream) a reduzir suas emissões de GEE?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.4.5",
+      "question": "7.4.5 A empresa adota um preço interno de carbono e o considera em sua tomada de decisão de investimentos?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "7.4.6",
+      "question": "7.4.6 Outras ações de mitigação?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    }
+  ],
+  "Mudanças Climáticas Adaptação": [
+    {
+      "id": "8.1.1",
+      "question": "8.1.1 A empresa possui política ou compromisso institucional relacionado a adaptação aos efeitos das mudanças climáticas?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "8.1.1.1",
+      "question": "8.1.1.1 A política aborda os seguintes temas: \n- Adaptação a riscos climáticos em sua operação direta?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "8.1.1.2",
+      "question": "8.1.1.2 A política aborda os seguintes temas: \n- Adaptação a riscos climáticos em sua cadeia de produção/fornecimento?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "8.2.1",
+      "question": "8.2.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "8.2.2",
+      "question": "8.2.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "8.2.3",
+      "question": "8.2.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "8.3.1",
+      "question": "8.3.1 A empresa possui processo para monitoramento de eventos climáticos extremos em sua operação?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "8.3.2",
+      "question": "8.3.2 A empresa estima o potencial impacto financeiro das mudanças climáticas sobre seus resultados?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "8.3.3",
+      "question": "8.3.3 A empresa está alinhada às diretrizes da Task Force on Climate Related Financial Disclosures (TCFD)?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "8.3.4",
+      "question": "8.3.4 A empresa realiza investimentos voltados a mitigar o risco das mudanças climáticas em suas operações?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "8.3.5",
+      "question": "8.3.5 Outras ações de adaptação climática?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    }
+  ],
+  "Ecossistemas": [
+    {
+      "id": "9.1.1",
+      "question": "9.1.1 A empresa possui política ou compromisso institucional relacionado a preservação da biodiversidade?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.1.1.1",
+      "question": "9.1.1.1 A política descreve as questões relacionadas a biodiversidade que são particularmente relevantes para a empresa?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.1.1.2",
+      "question": "9.1.1.2 A política aborda os seguintes temas: \n- Áreas nas quais a empresa causa impactos negativos sobre a biodiversidade?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.1.1.3",
+      "question": "9.1.1.3 A política aborda os seguintes temas: \n- Áreas nas quais a empresa causa impactos positivos sobre a biodiversidade?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.1.1.4",
+      "question": "9.1.1.4 A política aborda os seguintes temas: \n- Minimização dos impactos sobre a biodiversidade?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.1.1.5",
+      "question": "9.1.1.5 A política aborda os seguintes temas: \n- Monitoramento das espécies em perigo/ameaçadas de extinção?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.2.1",
+      "question": "9.2.1 A empresa monitora indicadores voltados a preservação da biodiversidade? ",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.2.2",
+      "question": "9.2.2 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.3.1",
+      "question": "9.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.3.2",
+      "question": "9.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.3.3",
+      "question": "9.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.4.1",
+      "question": "9.4.1 A empresa investe na conservação da biodiversidade para criar valor, garantir cadeias produtivas e aprimorar seus modelos de negócios?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.4.2",
+      "question": "9.4.2 A empresa investe no manejo de APAs (áreas de proteção ambiental)? ",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.4.3",
+      "question": "9.4.3 A empresa investe na preservação de animais silvestres? ",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.4.4",
+      "question": "9.4.4 A empresa investe em biossegurança (manipulação de material genético, etc.)? ",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.4.5",
+      "question": "9.4.5 A empresa investe no uso sustentável de recursos biológicos? ",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.4.6",
+      "question": "9.4.6 A empresa investe no fortalecimento dos sistemas de gestão, monitoramento, avaliação e identificação de oportunidades relacionadas à biodiversidade? ",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.4.7",
+      "question": "9.4.7 A empresa desenvolve planos de ações e políticas de conservação da biodiversidade integradas às suas atividades? ",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.4.8",
+      "question": "9.4.8 Outras?",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.4.8",
+      "question": "9.4.8 Outras",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    },
+    {
+      "id": "9.4.8",
+      "question": "9.4.8 Outras",
+      "answer_col": "E",
+      "source_col": "F",
+      "has_answer": false,
+      "answer_preview": null
+    }
+  ],
+  "Saúde e segurança": [],
+  "Condições de trabalho": [],
+  "Gestão de carreira": [],
+  "Diversidade": [],
+  "Segurança de dados": [],
+  "Qualidade e segurança produtos": [],
+  "Ecodesign": [],
+  "Desenvolvimento": [],
+  "Direitos Humanos": [],
+  "Temas sociais na cadeia": [],
+  "Temas ambientais na cadeia": [],
+  "Remuneração executivos": [],
+  "Conselho e Diretoria": [],
+  "Minoritários": [],
+  "Integridade": [],
+  "Transparência": []
+}

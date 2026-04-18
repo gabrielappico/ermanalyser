@@ -1,0 +1,3739 @@
+{
+  "Controvérsias": [],
+  "Materialidade": [
+    {
+      "row": 37,
+      "id": "0.35",
+      "question": "0.35",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 38,
+      "id": "0.3",
+      "question": "0.3",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 39,
+      "id": "0.35",
+      "question": "0.35",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Recursos Hídricos": [
+    {
+      "row": 13,
+      "id": "1.1.1",
+      "question": "1.1.1 A empresa possui política ou compromisso institucional envolvendo o tema gestão de recursos hídricos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "1.1.1.1",
+      "question": "1.1.1.1 A política aborda os seguintes temas: \n- Redução e uso eficiente de recursos hídricos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "1.1.1.2",
+      "question": "1.1.1.2 A política aborda os seguintes temas: \n- Aumento na captação de fontes alternativas e aumento no reuso da água (ex: condensação do sistema de ar condicionado e captação de água das chuvas)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "1.2.1",
+      "question": "1.2.1 A empresa monitora dados de consumo ou retirada de água?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "1.2.1.1",
+      "question": "1.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "1.2.1.2",
+      "question": "1.2.1.2 O indicador corresponde a mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "1.2.1.3",
+      "question": "1.2.1.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "1.2.2",
+      "question": "1.2.2 A empresa possui metas quantitativas relacionadas ao consumo e retirada de água?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "1.2.2.1",
+      "question": "1.2.2.1 As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "1.2.2.2",
+      "question": "1.2.2.2 As metas e/ou indicadores são disponibilizadas para o público?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "1.3.1",
+      "question": "1.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "1.3.2",
+      "question": "1.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "1.3.3",
+      "question": "1.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "1.4.1",
+      "question": "1.4.1 A empresa possui ações de captação de fontes alternativas de água (dessalinização, água de chuva, condensação do sistema de ar condicionado)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "1.4.1.1",
+      "question": "1.4.1.1 A ação representa mais de 25% do consumo de água da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "1.4.1.2",
+      "question": "1.4.1.2 A ação representa mais de 50% do consumo de água da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "1.4.2",
+      "question": "1.4.2 A empresa possui ações para tratamento de água para reuso?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "1.4.2.1",
+      "question": "1.4.2.1 A ação representa mais de 25% do consumo de água da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "1.4.2.2",
+      "question": "1.4.2.2 A ação representa mais de 50% do consumo de água da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "1.4.3",
+      "question": "1.4.3 A empresa faz parte de grupos de trabalho ou iniciativas voluntárias voltadas a melhorar a gestão de recursos hídricos (ex. comitê de bacias hidrográficas)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "1.4.4",
+      "question": "1.4.4 A empresa monitora o risco hídrico presente ou futuro nas unidades em que opera?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 34,
+      "id": "1.4.5",
+      "question": "1.4.5 A empresa realiza treinamento de colaboradores acerca da melhoria da eficiência no consumo de água?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 35,
+      "id": "1.4.6",
+      "question": "1.4.6 A empresa investe em soluções para apoiar o controle confiável e preciso dos dados de coleta de água como telemetria e sistemas inteligentes que identificam vazamentos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 36,
+      "id": "1.4.7",
+      "question": "1.4.7 A empresa possui ações para monitoramento de risco hídrico presente e futuro nas bacias em que opera?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 37,
+      "id": "1.4.8",
+      "question": "1.4.8 A empresa possui certificações ISO 46001 para mais de 10% de suas operações?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 38,
+      "id": "1.4.8.1",
+      "question": "1.4.8.1 A empresa possui certificações ISO 46001 para mais de 50% de suas operações?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 39,
+      "id": "1.4.9",
+      "question": "1.4.9 Outras ações relacionadas a gestão eficiente de recursos hídricos (Ex: Certificação LEED CI)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Sistema Gestão Socioambiental": [
+    {
+      "row": 11,
+      "id": "4.1.1",
+      "question": "4.1.1 A empresa possui uma política que defina diretrizes e princípios ambientais e sociais que orientam sua gestão de projetos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 12,
+      "id": "4.1.2",
+      "question": "4.1.2 O Sistema de Gestão Ambiental incorpora os seguintes elementos: (i) política; (ii) identificação de aspectos e impactos; (iii) programas de gestão; (iv) capacidade e competência organizacional; (v) preparação e resposta a emergência; (vi) engajamento das partes interessadas; e (vii) monitoramento e análise.",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 13,
+      "id": "4.1.3",
+      "question": "4.1.3 Qual o nível de responsabilidade mais alto pelo Sistema de Gestão Ambiental dentro da empresa?\n- Diretoria ou conselho (10)\n- Gerências (5)\n- Outros (0)",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "4.2.1",
+      "question": "4.2.1 O processo de identificação de riscos e impactos abrange riscos e impactos presentes e futuros?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "4.2.2",
+      "question": "4.2.2 O processo de identificação de riscos aspectos e impactos está baseado em dados de referência socioambientais recentes com um nível apropriado de detalhes?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "4.2.3",
+      "question": "4.2.3 O processo de identificação de riscos e impactos leva em consideração os riscos e impactos associados às principais cadeias de abastecimento? (possui indicadores para análise dos riscos sociais e ambientais da cadeia de fornecedores",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "4.2.4",
+      "question": "4.2.4 O processo de identificação de riscos e impactos leva em conta o resultado do processo de engajamento com as Comunidades Afetadas, quando apropriado?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "4.2.5",
+      "question": "4.2.5 O Sistema de Gestão Ambiental estabelece e mantem um sistema de preparo e resposta a emergência?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "4.2.6",
+      "question": "4.2.6 A empresa documenta suas atividades de preparo e resposta a emergência, bem como seus recursos e responsabilidades?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "4.2.7",
+      "question": "4.2.7 A empresa fornece informações apropriadas às Comunidades potencialmente afetadas e aos órgãos governamentais competentes relacionadas as suas atividades de preparo e resposta a emergência?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "4.2.7",
+      "question": "4.2.7 A empresa estabeleceu procedimentos para monitorar e medir a eficácia do programa de gestão, bem como o cumprimento de quaisquer obrigações legais e/ou contratuais e requisitos reguladores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "4.2.8",
+      "question": "4.2.8 A empresa conta com uma Estrutura de Engajamento de Partes Interessadas como parte de seu programa de gestão?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "4.2.9",
+      "question": "4.2.9 A empresa divulga informações relevantes do projeto, ajuda as Comunidades Afetadas e outras partes interessadas a compreenderem os riscos, os impactos e as oportunidades do projeto?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "4.2.10",
+      "question": "4.2.10 Quando necessário, a empresa estabelece um mecanismo de reclamação para receber e facilitar a solução de preocupações e reclamações das Comunidades Afetadas sobre o desempenho socioambiental da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "4.2.9",
+      "question": "4.2.9 A empresa possui Certificação ISO 14001?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Recursos Energéticos": [
+    {
+      "row": 13,
+      "id": "2.1.1",
+      "question": "2.1.1 A empresa possui política ou compromisso institucional envolvendo o tema gestão de recursos energéticos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "2.1.1.1",
+      "question": "2.1.1.1 A política aborda os seguintes temas: \n- Redução e uso eficiente de recursos energéticos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "2.1.1.2",
+      "question": "2.1.1.2 A política aborda os seguintes temas: \n- Aumento na participação de fontes renováveis?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "2.2.1",
+      "question": "2.2.1 A empresa monitora dados de consumo de energia elétrica?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "2.2.1.1",
+      "question": "2.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "2.2.1.2",
+      "question": "2.2.1.2 O indicador corresponde a mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "2.2.1.3",
+      "question": "2.2.1.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "2.2.2",
+      "question": "2.2.2 A empresa possui metas quantitativas relacionadas ao consumo ou intensidade do consumo de energia elétrica?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "2.2.2.1",
+      "question": "2.2.2.1 As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "2.2.2.2",
+      "question": "2.2.2.2 As metas e/ou indicadores acima são disponibilizados para o público?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "2.2.3",
+      "question": "2.2.3 A empresa monitora e possui a participação de fontes renováveis no consumo de energia elétrica?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "2.2.3.1",
+      "question": "2.2.3.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "2.2.3.2",
+      "question": "2.2.3.2 A empresa possui metas quantitativas relacionadas a participação de fontes renováveis de energia elétrica?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "2.2.3.3",
+      "question": "2.2.3.3 As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "2.3.1",
+      "question": "2.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "2.3.2",
+      "question": "2.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "2.3.3",
+      "question": "2.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "2.4.1",
+      "question": "2.4.1 Adoção de frota ecoeficiente ou frota de híbridos e elétricos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "2.4.2",
+      "question": "2.4.2 Investimentos em geração de energia renovável (solar, eólica, biomassa, etc.)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "2.4.3",
+      "question": "2.4.3 Aquisição de energia de fontes renováveis não convencionais (solar, eólica, biomassa, etc.)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "2.4.4",
+      "question": "2.4.4 Prédios ecoeficientes ou no padrão green building?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 34,
+      "id": "2.4.5",
+      "question": "2.4.5 Recuperação de calor em processos térmicos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 35,
+      "id": "2.4.5.1",
+      "question": "2.4.5.1 A ação representa mais de 50% do consumo energia da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 36,
+      "id": "2.4.6",
+      "question": "2.4.6 Investimentos em P&D para tecnologias que reduzam o consumo de energia?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 37,
+      "id": "2.4.7",
+      "question": "2.4.7 Participa de grupos de trabalho ou iniciativas voluntárias relacionadas a eficiência energética?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 38,
+      "id": "2.4.8",
+      "question": "2.4.8 Possui certificação ISO 50001 ou análogas para mais de 10% de suas operações?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 39,
+      "id": "2.4.8.1",
+      "question": "2.4.8.1 Possui certificação ISO 50001 ou análogas para mais de 50% de suas operações?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 40,
+      "id": "2.4.9",
+      "question": "2.4.9 Outras ações relacionadas a eficiência energética e uso de energia renovável?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Materiais básicos": [
+    {
+      "row": 13,
+      "id": "3.1.1",
+      "question": "3.1.1 A empresa possui política ou compromisso institucional sobre o uso sustentável de recursos naturais e materiais básicos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "3.1.1.1",
+      "question": "3.1.1.1 A política aborda os seguintes temas: \n- Redução no uso de insumos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "3.1.1.2",
+      "question": "3.1.1.2 A política aborda os seguintes temas: \n- Substituição de insumos básicos por alternativas sustentáveis?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "3.2.1",
+      "question": "3.2.1 A empresa monitora indicadores de consumo de materiais básicos, insumos e recursos naturais?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "3.2.1.1",
+      "question": "3.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "3.2.1.2",
+      "question": "3.2.1.2 Os indicadores compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "3.2.1.3",
+      "question": "3.2.1.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "3.2.2",
+      "question": "3.2.2 A empresa possui metas associadas a redução no consumo de materiais e recursos naturais?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "3.2.2.1",
+      "question": "3.2.2.1 As metas acima vêm sendo atingidas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "3.3.1",
+      "question": "3.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "3.3.2",
+      "question": "3.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema ?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "3.3.3",
+      "question": "3.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "3.4.1",
+      "question": "3.4.1 Ações de substituição de materiais básicos não renováveis por opções renováveis?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "3.4.2",
+      "question": "3.4.2 Investimentos em P&D?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "3.4.3",
+      "question": "3.4.3 Outras?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "3.4.3",
+      "question": "3.4.3 Outras?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Resíduos Sólidos": [
+    {
+      "row": 13,
+      "id": "4.1.1",
+      "question": "4.1.1 A empresa possui política ou compromisso institucional sobre o tema gestão de resíduos sólidos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "4.1.1.1",
+      "question": "4.1.1.1 A política aborda os seguintes temas: \n- Redução na geração de resíduos sólidos na produção?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "4.1.1.2",
+      "question": "4.1.1.2 A política aborda os seguintes temas: \n- Reciclagem e reutilização de resíduos sólidos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "4.2.1",
+      "question": "4.2.1 A empresa monitora indicadores de geração de resíduos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "4.2.1.1",
+      "question": "4.2.1.1  A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "4.2.2",
+      "question": "4.2.2 Os indicadores de geração de resíduos são monitorados e divulgados por classe (perigoso e não perigoso)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "4.2.2.1",
+      "question": "4.2.2.1 Os indicadores acima compreende mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "4.2.2.2",
+      "question": "4.2.2.2 O indicador vem apresentando uma tendência de redução nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "4.2.3",
+      "question": "4.2.3 A empresa possui metas associadas a geração de resíduos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "4.2.3.1",
+      "question": "4.2.3.1 As metas acima vêm sendo atingidas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "4.2.4",
+      "question": "4.2.4 A empresa monitora o percentual de resíduos reciclados e o percentual de disposição adequada de resíduos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "4.2.4.1",
+      "question": "4.2.4.1 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "4.2.4.2",
+      "question": "4.2.4.2 O indicador vem apresentando uma tendência de melhoria nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "4.2.4.3",
+      "question": "4.2.4.3 A empresa possui metas de reciclagem e disposição adequada de resíduos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "4.2.4.4",
+      "question": "4.2.4.4 As metas acima vêm sendo atingidas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "4.3.1",
+      "question": "4.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos (ex. Penalização pela Política Nacional de Resíduos Sólidos) relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "4.3.2",
+      "question": "4.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "4.3.3",
+      "question": "4.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "4.4.1",
+      "question": "4.4.1 Engajamento com distribuidores e consumidores buscando minimizar a geração de resíduos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "4.4.2",
+      "question": "4.4.2 A empresa promove treinamento para os colaboradores acerca de melhores práticas de destinação, tratamento, reciclagem e disposição de resíduos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "4.4.3",
+      "question": "4.4.3 A empresa oferece mecanismos de logística reversa para o reuso, reciclagem ou destinação adequada dos produtos ao fim de sua vida útil?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 34,
+      "id": "4.4.4",
+      "question": "4.4.4 Uso de embalagens de material reutilizável nos produtos vendidos/produzidos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 35,
+      "id": "4.4.5",
+      "question": "4.4.5 Participação em acordos setoriais de logística reversa no âmbito da PNRS?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 36,
+      "id": "4.4.6",
+      "question": "4.4.6 Reaproveitamento de resíduos para produção de adubo (compostagem, biodigestores) ou coprocessamento?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 37,
+      "id": "4.4.7",
+      "question": "4.4.7 Outras?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Efluentes líquidos": [
+    {
+      "row": 13,
+      "id": "5.1.1",
+      "question": "5.1.1 A empresa possui política ou compromisso institucional sobre o tema gestão de efluentes líquidos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "5.1.1.1",
+      "question": "5.1.1.1 A política aborda os seguintes temas: \n- Redução na geração ou tratamento adequado de efluentes líquidos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "5.2.1",
+      "question": "5.2.1 A empresa monitora indicadores de tratamento e disposição adequada de efluentes líquidos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "5.2.1.1",
+      "question": "5.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "5.2.1.2",
+      "question": "5.2.1.2 Os indicadores acima compreende mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "5.2.1.3",
+      "question": "5.2.1.3 O indicador vem apresentando uma tendência de melhoria nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "5.2.2",
+      "question": "5.2.2 A empresa monitora indicadores de geração de efluentes líquidos (volume de descarte de água)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "5.2.2.1",
+      "question": "5.2.2.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "5.2.2.2",
+      "question": "5.2.2.2 Os indicadores acima compreende mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "5.2.2.3",
+      "question": "5.2.2.3 O indicador vem apresentando uma tendência de melhoria nos últimos 3 anos (normalizar pela receita líquida)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "5.2.3",
+      "question": "5.2.3 A empresa possui metas quantitativas relacionadas ao descarte de água/geração de efluentes?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "5.2.3.1",
+      "question": "5.2.3.1 As metas vem sendo cumpridas nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "5.2.3.2",
+      "question": "5.2.3.2 As metas e/ou indicadores são disponibilizadas para o público?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "5.3.1",
+      "question": "5.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "5.3.2",
+      "question": "5.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema ?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "5.3.3",
+      "question": "5.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "5.4.1",
+      "question": "5.4.1 Investimentos em P&D  para tecnologias de redução na geração de efluentes (industriais e sanitários) ou reaproveitamento?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "5.4.2",
+      "question": "5.4.2 Investimentos em P&D para ganhos de eficiência no tratamento de efluentes?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "5.4.3",
+      "question": "5.4.3 Geração de energia renovável através de efluentes líquidos e resíduos orgânicos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "5.4.4",
+      "question": "5.4.4 Reaproveitamento de resíduos orgânicos de efluentes líquidos para produção de adubo?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "5.4.5",
+      "question": "5.4.5 Outras?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 34,
+      "id": "4.3.2",
+      "question": "4.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 5 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 35,
+      "id": "4.3.3",
+      "question": "4.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 36,
+      "id": "4.4.1",
+      "question": "4.4.1 Engajamento com distribuidores e consumidores buscando minimizar a geração de resíduos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 37,
+      "id": "4.4.2",
+      "question": "4.4.2 A empresa promove treinamento para os colaboradores acerca de melhores práticas de destinação, tratamento, reciclagem e disposição de resíduos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 38,
+      "id": "4.4.3",
+      "question": "4.4.3 A empresa oferece mecanismos de logística reversa para o reuso, reciclagem ou destinação adequada dos produtos ao fim de sua vida útil?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 39,
+      "id": "4.4.4",
+      "question": "4.4.4 Uso de embalagens de material reutilizável nos produtos vendidos/produzidos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 40,
+      "id": "4.4.5",
+      "question": "4.4.5 Participação em acordos setoriais de logística reversa no âmbito da PNRS?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 41,
+      "id": "4.4.6",
+      "question": "4.4.6 Reaproveitamento de resíduos para produção de adubo (compostagem, biodigestores) ou coprocessamento?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 42,
+      "id": "4.4.7",
+      "question": "4.4.7 Outras?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Emissões atmosféricas": [
+    {
+      "row": 13,
+      "id": "6.1.1",
+      "question": "6.1.1 A empresa possui política ou compromisso institucional sobre controle e redução das emissões atmosféricas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "6.1.1.1",
+      "question": "6.1.1.1 A política aborda os seguintes temas: \n- Emissão de material particulado, SOx e NOx?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "6.2.1",
+      "question": "6.2.1 A empresa monitora indicadores de emissão de material particulado?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "6.2.1.1",
+      "question": "6.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "6.2.1.2",
+      "question": "6.2.1.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "6.2.1.3",
+      "question": "6.2.1.3 Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "6.2.1.4",
+      "question": "6.2.1.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "6.2.1.5",
+      "question": "6.2.1.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "6.2.2",
+      "question": "6.2.2 A empresa monitora indicadores de emissão de NOx, SOx e compostos orgânicos voláteis?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "6.2.2.1",
+      "question": "6.2.2.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "6.2.2.2",
+      "question": "6.2.2.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "6.2.2.3",
+      "question": "6.2.2.3 Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "6.2.2.4",
+      "question": "6.2.2.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "6.2.2.5",
+      "question": "6.2.2.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "6.3.1",
+      "question": "6.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "6.3.2",
+      "question": "6.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "6.3.3",
+      "question": "6.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "6.4.1",
+      "question": "6.4.1 Investimentos em P&D para tecnologias de redução das emissões atmosféricas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "6.4.2",
+      "question": "6.4.2 Investimentos em tecnologias de redução de emissões como filtros de manga e fluidização?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "6.4.3",
+      "question": "6.4.3 Realiza controle dos níveis de poluição próximo a chaminés e áreas onde são gerados esses compostos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "6.4.4",
+      "question": "6.4.4 Outras?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Mudanças Climáticas Mitigação": [
+    {
+      "row": 13,
+      "id": "7.1.1",
+      "question": "7.1.1 A empresa possui política ou compromisso institucional com a redução das emissões de gases de efeito estufa (GEE)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "7.1.1.1",
+      "question": "7.1.1.1 A política ou compromisso aborda: \n- Redução das emissões de GEE diretas (escopo 1)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "7.1.1.2",
+      "question": "7.1.1.2 A política ou compromisso aborda: \n- Redução das emissões de GEE indiretas (escopo 2 e 3)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "7.2.1",
+      "question": "7.2.1 A empresa monitora indicadores de emissão de GEE diretas (escopo 1)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "7.2.1.1",
+      "question": "7.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "7.2.1.2",
+      "question": "7.2.1.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "7.2.1.3",
+      "question": "7.2.1.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "7.2.1.4",
+      "question": "7.2.1.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "7.2.1.5",
+      "question": "7.2.1.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "7.2.2",
+      "question": "7.2.2 A empresa monitora indicadores de emissão de gases de efeito estufa indiretas (escopo 2)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "7.2.2.1",
+      "question": "7.2.2.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "7.2.2.2",
+      "question": "7.2.2.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "7.2.2.3",
+      "question": "7.2.2.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "7.2.1.4",
+      "question": "7.2.1.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "7.2.2.5",
+      "question": "7.2.2.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "7.2.3",
+      "question": "7.2.3 A empresa monitora indicadores de emissão de gases de efeito estufa indiretas (escopo 3)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "7.2.3.1",
+      "question": "7.2.3.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "7.2.3.2",
+      "question": "7.2.3.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "7.2.3.3",
+      "question": "7.2.3.3 O indicador vem apresentando uma tendência de melhora nos últimos 3 anos (normalizar pela receita líquida ou indicador operacional)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "7.2.3.4",
+      "question": "7.2.3.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "7.2.3.5",
+      "question": "7.2.3.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 34,
+      "id": "7.3.1",
+      "question": "7.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 35,
+      "id": "7.3.2",
+      "question": "7.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 36,
+      "id": "7.3.3",
+      "question": "7.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 37,
+      "id": "7.4.1",
+      "question": "7.4.1 A empresa responde ao questionário da Carbon Disclosure Project (CDP)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 38,
+      "id": "7.4.1.1",
+      "question": "7.4.1.1 A empresa publica suas respostas ao CDP?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 39,
+      "id": "7.4.2",
+      "question": "7.4.2 A empresa compensa até 50% das suas emissões de gases de efeito estufa diretas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 40,
+      "id": "7.4.2.1",
+      "question": "7.4.2.1 A empresa compensa >50% das suas emissões de gases de efeito estufa diretas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 41,
+      "id": "7.4.3",
+      "question": "7.4.3 A empresa compensa >50% das suas emissões de gases de efeito estufa indiretas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 42,
+      "id": "7.4.4",
+      "question": "7.4.4 A empresa possui ações para encorajar sua cadeia (upstream e downstream) a reduzir suas emissões de GEE?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 43,
+      "id": "7.4.5",
+      "question": "7.4.5 A empresa adota um preço interno de carbono e o considera em sua tomada de decisão de investimentos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 44,
+      "id": "7.4.6",
+      "question": "7.4.6 Outras ações de mitigação?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Mudanças Climáticas Adaptação": [
+    {
+      "row": 13,
+      "id": "8.1.1",
+      "question": "8.1.1 A empresa possui política ou compromisso institucional relacionado a adaptação aos efeitos das mudanças climáticas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "8.1.1.1",
+      "question": "8.1.1.1 A política aborda os seguintes temas: \n- Adaptação a riscos climáticos em sua operação direta?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "8.1.1.2",
+      "question": "8.1.1.2 A política aborda os seguintes temas: \n- Adaptação a riscos climáticos em sua cadeia de produção/fornecimento?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "8.2.1",
+      "question": "8.2.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "8.2.2",
+      "question": "8.2.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "8.2.3",
+      "question": "8.2.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "8.3.1",
+      "question": "8.3.1 A empresa possui processo para monitoramento de eventos climáticos extremos em sua operação?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "8.3.2",
+      "question": "8.3.2 A empresa estima o potencial impacto financeiro das mudanças climáticas sobre seus resultados?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "8.3.3",
+      "question": "8.3.3 A empresa está alinhada às diretrizes da Task Force on Climate Related Financial Disclosures (TCFD)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "8.3.4",
+      "question": "8.3.4 A empresa realiza investimentos voltados a mitigar o risco das mudanças climáticas em suas operações?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "8.3.5",
+      "question": "8.3.5 Outras ações de adaptação climática?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Ecossistemas": [
+    {
+      "row": 13,
+      "id": "9.1.1",
+      "question": "9.1.1 A empresa possui política ou compromisso institucional relacionado a preservação da biodiversidade?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "9.1.1.1",
+      "question": "9.1.1.1 A política descreve as questões relacionadas a biodiversidade que são particularmente relevantes para a empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "9.1.1.2",
+      "question": "9.1.1.2 A política aborda os seguintes temas: \n- Áreas nas quais a empresa causa impactos negativos sobre a biodiversidade?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "9.1.1.3",
+      "question": "9.1.1.3 A política aborda os seguintes temas: \n- Áreas nas quais a empresa causa impactos positivos sobre a biodiversidade?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "9.1.1.4",
+      "question": "9.1.1.4 A política aborda os seguintes temas: \n- Minimização dos impactos sobre a biodiversidade?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "9.1.1.5",
+      "question": "9.1.1.5 A política aborda os seguintes temas: \n- Monitoramento das espécies em perigo/ameaçadas de extinção?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "9.2.1",
+      "question": "9.2.1 A empresa monitora indicadores voltados a preservação da biodiversidade?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "9.2.2",
+      "question": "9.2.2 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "9.3.1",
+      "question": "9.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "9.3.2",
+      "question": "9.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "9.3.3",
+      "question": "9.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "9.4.1",
+      "question": "9.4.1 A empresa investe na conservação da biodiversidade para criar valor, garantir cadeias produtivas e aprimorar seus modelos de negócios?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "9.4.2",
+      "question": "9.4.2 A empresa investe no manejo de APAs (áreas de proteção ambiental)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "9.4.3",
+      "question": "9.4.3 A empresa investe na preservação de animais silvestres?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "9.4.4",
+      "question": "9.4.4 A empresa investe em biossegurança (manipulação de material genético, etc.)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "9.4.5",
+      "question": "9.4.5 A empresa investe no uso sustentável de recursos biológicos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "9.4.6",
+      "question": "9.4.6 A empresa investe no fortalecimento dos sistemas de gestão, monitoramento, avaliação e identificação de oportunidades relacionadas à biodiversidade?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "9.4.7",
+      "question": "9.4.7 A empresa desenvolve planos de ações e políticas de conservação da biodiversidade integradas às suas atividades?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "9.4.8",
+      "question": "9.4.8 Outras?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "9.4.8",
+      "question": "9.4.8 Outras",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "9.4.8",
+      "question": "9.4.8 Outras",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Saúde e segurança": [
+    {
+      "row": 13,
+      "id": "10.1.1",
+      "question": "10.1.1 A empresa possui política ou compromisso institucional relacionada a Saúde e segurança de seus colaboradores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "10.1.1.1",
+      "question": "10.1.1.1 A política aborda os seguintes temas: \n- Trabalhadores indiretos e terceirizados?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "10.2.1",
+      "question": "10.2.1 A empresa monitora indicadores de acidentes ou doenças trabalhistas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "10.2.1.1",
+      "question": "10.2.1.1 A empresa divulga para o público em geral esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "10.2.1.2",
+      "question": "10.2.1.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "10.2.1.3",
+      "question": "10.2.1.3 Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "10.2.1.4",
+      "question": "10.2.1.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "10.2.1.5",
+      "question": "10.2.1.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "10.2.2",
+      "question": "10.2.2 A empresa monitora indicadores de acidentes graves ou com afastamento?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "10.2.2.1",
+      "question": "10.2.2.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "10.2.2.2",
+      "question": "10.2.2.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "10.2.2.3",
+      "question": "10.2.2.3 Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "10.2.2.4",
+      "question": "10.2.2.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "10.2.2.5",
+      "question": "10.2.2.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "10.2.3",
+      "question": "10.2.3 A empresa monitora indicadores de óbitos ocupacionais?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "10.2.3.1",
+      "question": "10.2.3.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "10.2.3.2",
+      "question": "10.2.3.2 Os indicadores acima compreendem mais de 50% das operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "10.2.3.3",
+      "question": "10.2.3.3 Os indicadores acima possuem uma trajetória de redução nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "10.2.3.4",
+      "question": "10.2.3.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "10.2.3.5",
+      "question": "10.2.3.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "10.3.1",
+      "question": "10.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada a Saúde e segurança relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 34,
+      "id": "10.3.2",
+      "question": "10.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 35,
+      "id": "10.3.3",
+      "question": "10.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 36,
+      "id": "10.4.1",
+      "question": "10.4.1 A empresa possui OHSAS 18000 ou ISO 45000 em mais de 50% das suas unidades?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 37,
+      "id": "10.4.2",
+      "question": "10.4.2 A empresa possui área dedicada a Saúde e segurança (comitês; coordenação; gerência; diretoria)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 38,
+      "id": "10.4.3",
+      "question": "10.4.3 A empresa promove a avaliação periódica de perigos e riscos para a Saúde e segurança no trabalho (SST)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 39,
+      "id": "10.4.4",
+      "question": "10.4.4 Temas relacionados a Saúde e segurança afetam a remuneração de colaboradores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 40,
+      "id": "10.4.5",
+      "question": "10.4.5 A empresa realiza auditorias internas de Saúde e segurança?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 41,
+      "id": "10.4.6",
+      "question": "10.4.6 Empresa possui treinamento obrigatório para colaboradores expostos a riscos de Saúde e segurança?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 42,
+      "id": "10.4.7",
+      "question": "10.4.7 Empresa possui treinamento obrigatório para terceirizados expostos a riscos de Saúde e segurança?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 43,
+      "id": "10.4.8",
+      "question": "10.4.8 Outras práticas de Saúde e segurança?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Condições de trabalho": [
+    {
+      "row": 13,
+      "id": "11.1.1",
+      "question": "11.1.1 A empresa possui política ou compromisso institucional com o tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "11.1.1.1",
+      "question": "11.1.1.1 A política aborda os seguintes temas: \n- Trabalhadores indiretos e terceirizados?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "11.2.1",
+      "question": "11.2.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "11.2.2",
+      "question": "11.2.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "11.2.3",
+      "question": "11.2.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "11.3.1",
+      "question": "11.3.1 Realização de avaliação de clima organizacional?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "11.3.2",
+      "question": "11.3.2 Reconhecimento externo (ex. GPTW)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "11.3.3",
+      "question": "11.3.3 Benefícios para colaboradores além do exigido pela regulação (ex. educação continuada, plano de saúde, previdência, curso de idiomas, saúde mental)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "11.3.4",
+      "question": "11.3.4 Benefícios para terceirizados (ex. previdência e curso de idiomas, incentivo ao esporte, saúde mental)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "11.3.5",
+      "question": "11.3.5 Com relação ao trabalho remoto, a empresa promove análise ergonômica do ambiente, para verificar e assegurar as condições de trabalho?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "11.3.6",
+      "question": "11.3.6 Com relação ao trabalho remoto, a empresa adota controle de jornada, garantindo o equilíbrio entre o tempo de trabalho e descanso?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "11.3.7",
+      "question": "11.3.7 A empresa concede auxílio/licença maternidade acima do exigido por lei?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "11.3.8",
+      "question": "11.3.8 A empresa concede auxílio/licença paternidade acima do exigido por lei?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "11.3.9",
+      "question": "11.3.9 A empresa possui flexibilização do horário de trabalho?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "11.3.10",
+      "question": "11.3.10 A empresa possui ações que promovam equilíbrio entre a vida profissional e pessoal?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Gestão de carreira": [
+    {
+      "row": 13,
+      "id": "12.1.1",
+      "question": "12.1.1 A empresa possui política ou comprometimento com a geração de empregos de qualidade, respeitando em acordo com a legislação trabalhista?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "12.1.1.1",
+      "question": "12.1.1.1 A política ou compromisso público da empresa aborda funcionários terceirizados?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "12.2.1",
+      "question": "12.2.1 A empresa monitora indicadores de treinamento para colaboradores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "12.2.1.1",
+      "question": "12.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "12.2.1.2",
+      "question": "12.2.1.2 Os indicadores acima compreendem mais de 50% das unidades operacionais da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "12.2.1.3",
+      "question": "12.2.1.3 Os indicadores acima possuem uma trajetória de melhoria nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "12.2.1.4",
+      "question": "12.2.1.4 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "12.2.1.5",
+      "question": "12.2.1.5 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "12.2.2",
+      "question": "12.2.2 A empresa monitora indicadores de treinamento para terceirizados?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "12.2.2.1",
+      "question": "12.2.2.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "12.2.2.2",
+      "question": "12.2.2.2 Os indicadores acima possuem uma trajetória de melhoria nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "12.2.2.3",
+      "question": "12.2.2.3 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "12.2.2.4",
+      "question": "12.2.2.4 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "12.3.1",
+      "question": "12.3.1 A empresa adota processos de avaliação de desempenho e feedbacks periódicos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "12.3.2",
+      "question": "12.3.2 A empresa adota processos estruturados para retenção de talentos, com redução nas taxas de turnover?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "12.3.3",
+      "question": "12.3.3 A empresa possui programas para promover o primeiro emprego?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "12.3.4",
+      "question": "12.3.4 A empresa cumpre a cota de contratação de jovens aprendizes (ref. CNPJ matriz)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "12.3.5",
+      "question": "12.3.5 A empresa possui programas para contratação de mão de obra local?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "12.3.6",
+      "question": "12.3.6 A empresa possui outras iniciativas de geração de emprego e gestão de carreira?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Diversidade": [
+    {
+      "row": 13,
+      "id": "13.1.1",
+      "question": "13.1.1 A empresa possui políticas que promovam a diversidade e/ou a proibição de qualquer tipo de discriminação?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "13.1.1.1",
+      "question": "13.1.1.1 A política ou comprometimento público aborda o tema  \"Gênero\"?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "13.1.1.2",
+      "question": "13.1.1.2 A política ou comprometimento público aborda o tema  \"Raça\"?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "13.1.1.3",
+      "question": "13.1.1.3 A política ou comprometimento público aborda o tema  \"Religião\"?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "13.1.1.4",
+      "question": "13.1.1.4 A política ou comprometimento público aborda o tema  \"Orientação sexual\"?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "13.1.1.5",
+      "question": "13.1.1.5 A política ou comprometimento público aborda o tema  \"Pessoas com deficiência\"?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "13.1.1.6",
+      "question": "13.1.1.6 A política ou comprometimento público aborda os seguintes itens:\n- Diversidade etária ou geracional (50+ por exemplo)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "13.1.1.7",
+      "question": "13.1.1.7 A política ou comprometimento público aborda os temas  \"Opinião política, outras\"?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "13.2.1",
+      "question": "13.2.1 A empresa monitora indicadores de participação de mulheres por cargo e/ou diferença salarial média?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "13.2.2",
+      "question": "13.2.2 A empresa divulga indicadores de diversidade de gênero para o público em geral?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "13.2.2.1",
+      "question": "13.2.2.1 A empresa vem aumentando o número de mulheres em posições de liderança nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "13.2.2.2",
+      "question": "13.2.2.2 A empresa conta com metas relacionadas a promoção da diversidade de gênero?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "13.2.2.3",
+      "question": "13.2.2.3 A empresa vem atingindo as metas relacionadas ao indicador diversidade de gênero?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "13.2.2.4",
+      "question": "13.2.2.4 A empresa conta com compromisso relacionado à equivalência salarial entre homens e mulheres?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "13.2.3",
+      "question": "13.2.3 A empresa monitora indicadores de diversidade de raça?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "13.2.3.1",
+      "question": "13.2.3.1 A empresa divulga indicadores de diversidade de raça para o público em geral?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "13.2.3.2",
+      "question": "13.2.3.2 A empresa vem aumentando o número de diversidade racial em posições de liderança nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "13.2.3.3",
+      "question": "13.2.3.3 Os indicadores de diversidade de raça incluem breakdown por cargo e/ou diferença salarial média?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "13.2.3.4",
+      "question": "13.2.3.4 A empresa conta com metas relacionadas a promoção da diversidade racial?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "13.2.3.5",
+      "question": "13.2.3.5 A empresa vem atingindo as metas relacionadas ao indicador diversidade de raça?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "13.2.4",
+      "question": "13.2.4 A empresa monitora indicadores de minorias étnicas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 34,
+      "id": "13.2.4.1",
+      "question": "13.2.4.1 A empresa divulga indicadores de minorias étnicas para o público em geral?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 35,
+      "id": "13.2.4.2",
+      "question": "13.2.4.2 A empresa vem aumentando o número de minorias étnicas em posição de liderança nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 36,
+      "id": "13.2.4.3",
+      "question": "13.2.4.3 empresa conta com metas relacionadas a promoção de minorias étnicas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 37,
+      "id": "13.2.3.4",
+      "question": "13.2.3.4 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 38,
+      "id": "13.2.5",
+      "question": "13.2.5 A empresa monitora e divulga indicadores de outras diversidades?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 39,
+      "id": "13.2.5.1",
+      "question": "13.2.5.1 Os indicadores de outras diversidades indicam breakdown por cargo e/ou diferença salarial média?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 40,
+      "id": "13.2.5.3",
+      "question": "13.2.5.3 A empresa vem aumentando o número de outras minorias no mercado de trabalho em posições de liderança nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 41,
+      "id": "13.2.5.2",
+      "question": "13.2.5.2 A empresa conta com metas relacionadas a promoção de outras diversidade?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 42,
+      "id": "13.2.5.4",
+      "question": "13.2.5.4 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 43,
+      "id": "13.3.1",
+      "question": "13.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 44,
+      "id": "13.3.2",
+      "question": "13.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 45,
+      "id": "13.3.3",
+      "question": "13.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 46,
+      "id": "13.4.1",
+      "question": "13.4.1 O modelo de licença parental inclui benefício para casais homoafetivos e famílias monoparentais?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 47,
+      "id": "13.4.2",
+      "question": "13.4.2 A empresa promove treinamentos específicos e divulgação constante sobre o tema diversidade e combate a práticas discriminatórias para colaboradores diretos, terceirizados e lideranças?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 48,
+      "id": "13.4.3",
+      "question": "13.4.3 A empresa possui mecanismos de reclamação anônimos sobre o tema diversidade para funcionários?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 49,
+      "id": "13.4.4",
+      "question": "13.4.4 A empresa possui programas de ação afirmativa para recrutamento, seleção e carreira?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 50,
+      "id": "13.4.5",
+      "question": "13.4.5 A empresa adota medidas para promover a empregabilidade de pessoas com deficiência?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 51,
+      "id": "13.4.6",
+      "question": "13.4.6 A empresa possui Child care?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 52,
+      "id": "13.4.7",
+      "question": "13.4.7 A empresa participa de projetos e/ou promove ações sobre o tema diversidade na comunidade do entorno/principais públicos alvo/stakeholders?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 53,
+      "id": "13.4.8",
+      "question": "13.4.8 Outras boas práticas de diversidade?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Segurança de dados": [
+    {
+      "row": 13,
+      "id": "14.1.1",
+      "question": "14.1.1 A empresa possui políticas e compromissos relacionados a segurança de dados sensíveis?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "14.2.1",
+      "question": "14.2.1 A empresa teve ao menos um caso relacionado a segurança de dados nos últimos cinco anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "14.2.2",
+      "question": "14.2.2 A empresa já foi condenada pela Lei Geral de Proteção de Dados (LGPD) ou similares?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "14.2.3",
+      "question": "14.2.3 A empresa deu respostas satisfatórias para os casos acima?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "14.3.1",
+      "question": "14.3.1 A empresa possui área especializada dedicada a segurança de dados?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "14.3.2",
+      "question": "14.3.2 A empresa está aderente a Lei Geral de Proteção de Dados (LGPD) ou similares?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "14.3.3",
+      "question": "14.3.3 A empresa possui proteções e aplicação de políticas consistentes para o trabalho híbrido (remoto)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "14.3.4",
+      "question": "14.3.4 Outras práticas de segurança de dados e privacidade?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Qualidade e segurança produtos": [
+    {
+      "row": 13,
+      "id": "15.1.1",
+      "question": "15.1.1 A empresa possui uma política formalizada ou compromisso acerca de qualidade e segurança de produtos e serviços?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "15.2.1",
+      "question": "15.2.1 A empresa monitora indicadores de qualidade do produto (satisfação de clientes, taxa de retorno de clientes, reclamação de clientes, avaliações de padrões de qualidade - INMETRO, agências regulamentadoras)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "15.2.1.1",
+      "question": "15.2.1.1 A empresa divulga para o público esses indicadores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "15.2.1.2",
+      "question": "15.2.1.2 Os indicadores acima compreendem mais de 50% das dos produtos / serviços da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "15.2.1.3",
+      "question": "15.2.1.3 Os indicadores acima possuem uma trajetória de melhoria nos últimos 3 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "15.2.2",
+      "question": "15.2.2 A empresa possui metas quantitativas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "15.2.2.1",
+      "question": "15.2.2.1 A empresa vem atingindo as metas relacionadas a esse indicador?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "15.2.1",
+      "question": "15.2.1 A empresa incorreu em alguma controvérsia severa ou muito severa nos últimos 3 anos (ex. recalls/multas procon) relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "13.3.2",
+      "question": "13.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "15.2.2",
+      "question": "15.2.2 A empresa conseguiu dar uma resposta satisfatória para o caso?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "15.3.1",
+      "question": "15.3.1 A empresa oferece treinamento sobre segurança do produto para funcionários e clientes?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "15.3.2",
+      "question": "15.3.2 A empresa faz uso de alternativas mais sustentáveis?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "15.3.3",
+      "question": "15.3.3 A empresa promove avaliações da qualidade dos serviços perante seus clientes?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "15.3.4",
+      "question": "15.3.4 A empresa possui programa de P&D para desenvolvimento de alternativas sustentáveis?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "15.3.5",
+      "question": "15.3.5 A empresa possui um sistema de gestão de crises?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "15.3.6",
+      "question": "15.3.6 A empresa conta com certificações externas da qualidade e segurança dos produtos e serviços?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "15.3.7",
+      "question": "15.3.7 A empresa dispõe de processos para controle de qualidade dos produtos e serviços?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "15.3.8",
+      "question": "15.3.8 Outras práticas de segurança ou qualidade de produtos e serviços?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Ecodesign": [
+    {
+      "row": 13,
+      "id": "16.1.1",
+      "question": "16.1.1 A empresa possui política ou compromisso institucional com a produção de produtos e serviços sustentáveis, inclusivos, acessíveis ou com adicionalidade ambiental?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "16.2.1",
+      "question": "16.2.1 A empresa incorreu em alguma controvérsia severa ou muito severa nos últimos 3 anos relacionadas ao tema(ex. intervenção após danos aos processos)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "16.2.2",
+      "question": "16.2.2 A empresa conseguiu dar uma resposta satisfatória para o caso?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "16.3.1",
+      "question": "16.3.1 A empresa conduz atividades ou gera produtos e serviços que estejam alinhados com as seguintes taxonomias de sustentabilidade?\n1.\tTaxonomia de Finanças Verdes da União Europeia\n2.\tClimate Bonds Initiative\n3.\tSocial Bond Principles\n4.\tGreen Bond Principles\n5.\tNão Perca Esse Bond\n6.\tOutros produtos e serviços sustentáveis?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "16.3.1.1",
+      "question": "16.3.1.1 As atividades, produtos e serviços acima representam qual participação da receita da empresa:\n1.\tAté 10%?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "16.3.1.2",
+      "question": "16.3.1.2 As atividades, produtos e serviços acima representam qual participação da receita da empresa:\n2.\tAté 50%?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "16.3.1.3",
+      "question": "16.3.1.3 As atividades, produtos e serviços acima representam qual participação da receita da empresa:\n3.\tMais de 50%?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "16.3.2",
+      "question": "16.3.2 Existe avaliação ou verificação externa sobre o benefício socioambiental gerado através de suas atividades?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "16.3.3",
+      "question": "16.3.3 Outras práticas relacionadas a ecodesign e produtos sustentáveis?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Desenvolvimento": [
+    {
+      "row": 13,
+      "id": "17.1.1",
+      "question": "17.1.1 A empresa possui uma política formalizada ou compromisso voltado a promover o desenvolvimento socioeconômico em comunidades próximas a sua atuação?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "17.1.1.1",
+      "question": "17.1.1.1 O compromisso abrange os seguintes aspectos?\n1.\tPromoção de emprego e renda nas regiões de atuação?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "17.1.1.2",
+      "question": "17.1.1.2 O compromisso abrange os seguintes aspectos?\n3.\tContribuir para ações sociais locais?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "17.2.1",
+      "question": "17.2.1 A empresa investe até 1% de sua receita líquida em ações de desenvolvimento socioeconômico local (ISP)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "17.2.2",
+      "question": "17.2.2 A empresa investe mais de 1% de sua receita líquida em ações de desenvolvimento socioeconômico local (ISP)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "17.3.1",
+      "question": "17.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "17.3.2",
+      "question": "17.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "17.3.4",
+      "question": "17.3.4 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "17.4.1",
+      "question": "17.4.1 Prioridade na contratação de mão de obra local?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "17.4.2",
+      "question": "17.4.2 Desenvolvimento de cadeia de fornecedores locais?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "17.4.3",
+      "question": "17.4.3 Engajamento com comunidades locais?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "17.4.4",
+      "question": "17.4.4 Assegura canais de diálogo com a comunidade?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "17.4.5",
+      "question": "17.4.5 A empresa participa de Conselhos, Comitês (ou similares) para debater o desenvolvimento social local?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "17.4.6",
+      "question": "17.4.6 Define de forma clara a estratégia, indicadores e metas para a avaliação dos resultados das iniciativas apoiadas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "17.4.7",
+      "question": "17.4.7 Divulga em suas publicações anuais os investimentos sociais/ambientais realizados?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "17.4.8",
+      "question": "17.4.8 Outras ações?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Direitos Humanos": [
+    {
+      "row": 13,
+      "id": "18.1.1",
+      "question": "18.1.1 A empresa possui política ou compromisso acerca de respeito e promoção a direitos humanos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "18.1.1.1",
+      "question": "18.1.1.1 A política cobre os seguintes stakeholders?\n1.\tColaboradores indiretos ou terceirizados?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "18.1.1.2",
+      "question": "18.1.1.2 A política cobre os seguintes stakeholders?\n2.\tComunidades tradicionais (indígenas, quilombolas, etc)",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "18.1.1.3",
+      "question": "18.1.1.3 A política cobre os seguintes stakeholders?\n3.\tFornecedores",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "18.1.1.4",
+      "question": "18.1.1.4 A política cobre os seguintes stakeholders?\n4.\tOutros",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "18.2.1",
+      "question": "18.2.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "18.2.2",
+      "question": "18.2.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "18.2.3",
+      "question": "18.2.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "18.3.1",
+      "question": "18.3.1 Treinamentos internos sobre direitos humanos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "18.3.2",
+      "question": "18.3.2 Auditorias externas sobre direitos humanos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "18.3.3",
+      "question": "18.3.3 Participação de grupos de trabalho como Pacto Global, em temas referentes a direitos humanos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "18.3.4",
+      "question": "18.3.4 Mecanismos internos de reclamação para o tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "18.3.5",
+      "question": "18.3.5 Outras ações de proteção e promoção de direitos humanos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Temas sociais na cadeia": [
+    {
+      "row": 13,
+      "id": "19.1.1",
+      "question": "19.1.1 A empresa possui compromissos relacionados a integração de fatores sociais na cadeia de produção?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "19.1.1.1",
+      "question": "19.1.1.1 Os compromissos abrangem temas relacionados a:\n1. Trabalho infantil?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "19.1.1.2",
+      "question": "19.1.1.2 Os compromissos abrangem temas relacionados a:\n2. Trabalho forçado?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "19.1.1.3",
+      "question": "19.1.1.3 Os compromissos abrangem temas relacionados a:\n3. Discriminação?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "19.1.1.4",
+      "question": "19.1.1.4 A empresa possui exigências de fornecedores relacionada à outros temas dessa natureza?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "19.2.1",
+      "question": "19.2.1 A empresa audita seus fornecedores em relação a:\n1.\tTrabalho infantil?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "19.2.2",
+      "question": "19.2.2 A empresa audita seus fornecedores em relação a:\n2.\tTrabalho forçado?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "19.2.3",
+      "question": "19.2.3 A empresa audita seus fornecedores em relação a:\n3.\tDiscriminação?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "19.2.4",
+      "question": "19.2.4 A empresa audita seus fornecedores em relação a:\n4. Cumprimento da legislação trabalhista?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "19.2.5",
+      "question": "19.2.5 A empresa audita seus fornecedores em relação a:\n5. Outros?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "19.2.6",
+      "question": "19.2.6 A auditoria ocorre em mais de 50% de seus fornecedores diretos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "19.2.7",
+      "question": "19.2.7 A auditoria ocorre em mais de 50% de seus fornecedores indiretos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "19.2.8",
+      "question": "19.2.8 As auditorias envolvem visita in-loco não planejadas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "19.3.1",
+      "question": "19.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "19.3.2",
+      "question": "19.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "19.3.3",
+      "question": "19.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "19.4.1",
+      "question": "19.4.1 Inclusão de cláusulas sociais nos contratos com fornecedores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "19.4.2",
+      "question": "19.4.2 A empresa analisa os impactos financeiros, reputacionais e de conformidade dos riscos sociais de sua cadeia de fornecedores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "19.4.3",
+      "question": "19.4.3 A empresa exige dos seus fornecedores certificações sociais emitidas por organismos independentes?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "19.4.4",
+      "question": "19.4.4 Treinamento e apoio a fornecedores a melhorar qualidade de gestão de temas sociais?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "19.4.5",
+      "question": "19.4.5 Avaliação de risco social em fornecedores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 34,
+      "id": "19.4.6",
+      "question": "19.4.6 Outras práticas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Temas ambientais na cadeia": [
+    {
+      "row": 13,
+      "id": "20.1.1",
+      "question": "20.1.1 A empresa possui compromissos relacionados a integração de fatores ambientais na cadeia de produção?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "20.1.1.1",
+      "question": "20.1.1.1 Os compromissos abrangem temas relacionados a:\n1.\tDesmatamento?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "20.1.1.2",
+      "question": "20.1.1.2 Os compromissos abrangem temas relacionados a:\n2.\tBem-estar animal?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "20.1.1.3",
+      "question": "20.1.1.3 Os compromissos abrangem temas relacionados a:\n3.\tCertificações (ex. ISO, Bonsucro, FSC)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "20.1.1.4",
+      "question": "20.1.1.4 Os compromissos abrangem temas relacionados a:\n4.\tEficiência no uso de recursos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "20.1.1.5",
+      "question": "20.1.1.5 Os compromissos abrangem temas relacionados a:\n5.\tUso de defensivos agrícolas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "20.1.1.6",
+      "question": "20.1.1.6 Os compromissos abrangem temas relacionados a:\n6.\tOutros?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "20.2.1",
+      "question": "20.2.1 A empresa audita seus fornecedores em relação a:\n1.\tDesmatamento?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "20.2.2",
+      "question": "20.2.2 A empresa audita seus fornecedores em relação a:\n2.\tBem-estar animal?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "20.2.3",
+      "question": "20.2.3 A empresa audita seus fornecedores em relação a:\n3.\tCertificações (ex. ISO, Bonsucro, FSC)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "20.2.4",
+      "question": "20.2.4 A empresa audita seus fornecedores em relação a:\n4.\tEficiência no uso de recursos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "20.2.5",
+      "question": "20.2.5 A empresa audita seus fornecedores em relação a:\n5.\tUso de defensivos agrícolas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "20.2.6",
+      "question": "20.2.6 A empresa audita seus fornecedores em relação a:\n6.\tOutros?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "20.2.7",
+      "question": "20.2.7 A auditoria ocorre em mais de 50% de seus fornecedores diretos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "20.2.8",
+      "question": "20.2.8 A auditoria ocorre em mais de 50% de seus fornecedores indiretos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "20.3.1",
+      "question": "20.3.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "20.3.2",
+      "question": "20.3.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "20.3.3",
+      "question": "20.3.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "20.4.1",
+      "question": "20.4.1 Inclusão de cláusulas ambientais nos contratos com fornecedores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "20.4.2",
+      "question": "20.4.2 A empresa analisa os impactos financeiros, reputacionais e de conformidade dos ambientais de sua cadeia de fornecedores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "20.4.3",
+      "question": "20.4.3 A empresa exige dos seus fornecedores certificações ambientais emitidas por organismos independentes?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 34,
+      "id": "20.4.4",
+      "question": "20.4.4 Treinamento e apoio a fornecedores a melhorar qualidade de gestão de temas ambientais?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 35,
+      "id": "20.4.5",
+      "question": "20.4.5 Avaliação de risco ambiental em fornecedores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 36,
+      "id": "20.4.6",
+      "question": "20.4.6 Outras práticas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Remuneração executivos": [
+    {
+      "row": 13,
+      "id": "21.1.1",
+      "question": "21.1.1 A diretoria possui parte da remuneração em stock options e ações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "21.1.2",
+      "question": "21.1.2 A diretoria possui incentivos de remuneração atreladas ao desempenho financeiro de curto e longo prazo da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "21.1.3",
+      "question": "21.1.3 A remuneração de executivos é atrelada a desempenho ESG da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "21.1.4",
+      "question": "21.1.4 A empresa possui comitê de remuneração responsável por estabelecer remuneração da diretoria?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "21.1.5",
+      "question": "21.1.5 Comitê de remuneração é formado majoritariamente por membros independentes?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "21.1.6",
+      "question": "21.1.6 Os critérios de remuneração da diretoria são divulgados ao público?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "21.2.1",
+      "question": "21.2.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "21.2.2",
+      "question": "21.2.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "21.2.3",
+      "question": "21.2.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Conselho e Diretoria": [
+    {
+      "row": 13,
+      "id": "22.1.1",
+      "question": "22.1.1 CEO e presidente do conselho são a mesma pessoa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "22.1.2",
+      "question": "22.1.2 CEO faz parte do conselho de administração?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "22.1.3",
+      "question": "22.1.3 A empresa possui mais de um terço do conselho independente?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "22.1.4",
+      "question": "22.1.4 Mais de 50% do conselho de administração possui background em outras indústrias?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "22.1.5",
+      "question": "22.1.5 A empresa possui mais de 20% de mulheres no conselho de administração?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "22.1.6",
+      "question": "22.1.6 A empresa possui mais de 20% de mulheres na diretoria executiva?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "22.1.7",
+      "question": "22.1.7 O conselho possui mandato unificado de, no máximo, 2 anos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "22.1.8",
+      "question": "22.1.8 A empresa possui um comitê de sustentabilidade que presta serviços para diretoria e para o board?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "22.1.9",
+      "question": "22.1.9 Pelo menos um membro do conselho possui treinamento e experiência analisando questões ESG?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "22.1.10",
+      "question": "22.1.10 A diretoria possui membros com background ESG?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "22.1.11",
+      "question": "22.1.11 O conselho possui um plano de sucessão para seus membros?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "22.1.12",
+      "question": "22.1.12 O conselho é responsável por estabelecer um comitê de auditoria?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "22.1.13",
+      "question": "22.1.13 A maioria dos membros do comitê de auditoria é independente?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "22.1.14",
+      "question": "22.1.14 Todos os membros do comitê de auditoria são independentes?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "22.1.15",
+      "question": "22.1.15 Um comitê de conselheiros independentes é responsável por aprovar questões relacionadas a transação com partes interessadas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "22.1.16",
+      "question": "22.1.16 O conselho estabeleceu um comitê de gestão de riscos com maioria dos membros independentes e com experiência em gestão de riscos?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "22.1.17",
+      "question": "22.1.17 Conselho se reúne pelo menos uma vez por trimestre?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "22.1.18",
+      "question": "22.1.18 Membros independentes do conselho se reúnem separadamente pelo menos uma vez por ano?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 31,
+      "id": "22.1.19",
+      "question": "22.1.19 Existe um processo periódico de avaliação do conselho, comitês e membros do conselho?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 32,
+      "id": "21.2.1",
+      "question": "21.2.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 33,
+      "id": "21.2.2",
+      "question": "21.2.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 34,
+      "id": "22.2.3",
+      "question": "22.2.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Minoritários": [
+    {
+      "row": 13,
+      "id": "23.1.1",
+      "question": "23.1.1 A empresa está no novo mercado ou segue suas diretrizes? (tag along, ações ON, etc.)",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "23.1.2",
+      "question": "23.1.2 A empresa tem sede em país com regulação menos rígida (ex. Empresa BVI)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "23.1.3",
+      "question": "23.1.3 Acionistas são consultados em relação a remuneração da diretoria?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "23.1.4",
+      "question": "23.1.4 Remuneração da diretoria é sujeita a aprovação e voto de acionistas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "23.1.5",
+      "question": "23.1.5 Cada ação dá direito a um voto na AGM?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "23.1.6",
+      "question": "23.1.6 Transações com partes relacionadas superiores a 2,5% do patrimônio líquido da empresa ou USD 150.000 são sujeitas a aprovação de acionistas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "23.1.7",
+      "question": "23.1.7 Formulário de referência relata riscos materiais para acionistas minoritários relacionados a acionistas controladores, concentração de participação, cross-voting e desequilíbrios no poder de voto?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "23.1.8",
+      "question": "23.1.8 A empresa possui histórico de conflitos com acionistas minoritários?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "23.1.9",
+      "question": "23.1.9 A empresa possui pelo menos 25% das ações em circulação?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "23.1.10",
+      "question": "23.1.10 A empresa emite ações preferenciais?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "23.1.10.1",
+      "question": "23.1.10.1 Detentores de ações preferenciais da companhia têm o direito a voto em matérias relevantes?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "21.2.1",
+      "question": "21.2.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "21.2.2",
+      "question": "21.2.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "23.2.3",
+      "question": "23.2.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Integridade": [
+    {
+      "row": 13,
+      "id": "24.1.1",
+      "question": "24.1.1 A empresa possui código de ética que trata sobre a conduta a ser adotada por seus colaboradores?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "24.1.2",
+      "question": "24.1.2 A empresa possui documento que aborde anticorrupção?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "24.1.3",
+      "question": "24.1.3 A empresa possui documento que aborde lavagem de dinheiro?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "24.1.4",
+      "question": "24.1.4 A empresa possui documento que aborde pagamentos de facilitação?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "21.1.5",
+      "question": "21.1.5 O documento é disponibilizado para o público em geral?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "24.1.6",
+      "question": "24.1.6 O programa de integridade ou anticorrupção da empresa inclui treinamentos em todos os níveis?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "24.1.7",
+      "question": "24.1.7 O programa de integridade ou anticorrupção da empresa é auditado por auditoria externa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "24.1.8",
+      "question": "24.1.8 A companhia disponibiliza canais de comunicação que possuem como objetivo a recepção de denúncias internas e externas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "24.1.9",
+      "question": "24.1.9 O Conselho de Administração monitora os resultados do canal de denúncias, presta contas aos públicos internos e externos em relação à efetividade do canal e as investigações são documentadas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "24.1.10",
+      "question": "24.1.10 A empresa faz parte do Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "24.1.11",
+      "question": "24.1.11 A empresa faz parte do Cadastro Nacional de Empresas Punidas (CNEP)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "24.1.12",
+      "question": "24.1.12 A empresa possui em seus quadros algum gestor que tenha sido punido por órgãos de supervisão e controle ou mecanismo de auto regulação?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "24.1.13",
+      "question": "24.1.13 A empresa possui em seus quadros acionista relevante que tenha sido punido por órgãos de supervisão e controle ou mecanismo de auto regulação?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "24.1.14",
+      "question": "24.1.14 A empresa realiza análise de risco de sua exposição a corrupção?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "24.1.15",
+      "question": "24.1.15 A auditoria interna da empresa possui total autonomia para avaliar e se posicionar sobre todas as operações da empresa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "21.2.1",
+      "question": "21.2.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "21.2.2",
+      "question": "21.2.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "24.2.3",
+      "question": "24.2.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ],
+  "Transparência": [
+    {
+      "row": 13,
+      "id": "25.1.1",
+      "question": "25.1.1 Demonstrações financeiras são auditadas por empresa de auditoria reconhecidas (preferencialmente Big4)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 14,
+      "id": "25.1.3",
+      "question": "25.1.3 Comitê de auditoria é responsável por supervisionar as demonstrações financeiras e não financeiras e auditoria?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 15,
+      "id": "25.1.4",
+      "question": "25.1.4 A empresa divulga de forma clara quem é o Ultimate Beneficial Ownership?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 16,
+      "id": "25.1.5.",
+      "question": "25.1.5. A política de pagamento de dividendos é divulgada publicamente?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 17,
+      "id": "25.1.6",
+      "question": "25.1.6 Remuneração da diretoria é divulgada publicamente de forma consolidada?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 18,
+      "id": "25.1.7",
+      "question": "25.1.7 Remuneração da diretoria é divulgada publicamente de forma individualizada (para cada membro da diretoria)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 19,
+      "id": "25.1.8",
+      "question": "25.1.8 Divulgação de informações ESG segue padrões reconhecidos na indústria (GRI, SASB, IIRC)?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 20,
+      "id": "25.1.9",
+      "question": "25.1.9 Divulgação de informações ESG é objetivo de auditoria externa?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 21,
+      "id": "25.1.10",
+      "question": "25.1.10 Divulgação de informações ESG ocorre anualmente?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 22,
+      "id": "25.1.11",
+      "question": "25.1.11 Divulgação de informações ESG ocorre mais de uma vez por ano?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 23,
+      "id": "25.1.12",
+      "question": "25.1.12 A empresa divulga suas atas de reunião de Acionistas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 24,
+      "id": "25.1.13",
+      "question": "25.1.13 A empresa divulga suas atas de reunião do Conselho de Administração?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 25,
+      "id": "25.1.14",
+      "question": "25.1.14 A empresa divulga suas atas de reunião da Diretoria?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 26,
+      "id": "25.1.15",
+      "question": "25.1.15 A empresa conta com um órgão de governança corporativa (e.g. Secretaria de governança corporativa) ligado ao Conselho de Administração, responsável pela comunicação com partes interessadas?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 27,
+      "id": "25.1.16",
+      "question": "25.1.16 A empresa conta com procedimentos de gestão da comunicação na crise, de forma a minimizar danos reputacionais?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 28,
+      "id": "21.2.1",
+      "question": "21.2.1 A empresa teve ao menos uma controvérsia severa ou muito severa nos últimos 3 anos relacionada ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 29,
+      "id": "21.2.2",
+      "question": "21.2.2 A empresa teve duas ou mais controvérsias severas ou muito severas nos últimos 3 anos relacionadas ao tema?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    },
+    {
+      "row": 30,
+      "id": "25.2.3",
+      "question": "25.2.3 A empresa conseguiu dar uma resposta satisfatória para a controvérsia, através de ações de mitigação de danos para stakeholders, reputacional e reduzir o risco de novas ocorrências?",
+      "answer_col": "E",
+      "source_col": "F or L"
+    }
+  ]
+}

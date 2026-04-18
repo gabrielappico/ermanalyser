@@ -1,0 +1,2592 @@
+[
+  {
+    "db_question_id": "1c324232-043c-4995-8dff-29cd04871094",
+    "question_id": "1.1.1",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "Buscar reduzir os impactos ambientais negativos das operações diretas, ao lado da promoção de práticas sustentáveis, por meio da eficiência no consumo e uso dos recursos naturais, da gestão e destinação adequada dos resíduos e efluentes gerados nas atividades do banco e da eficiência no uso de energia."
+  },
+  {
+    "db_question_id": "b20596d2-83a6-424a-a4bf-69c9ebaf31d7",
+    "question_id": "1.1.1.1",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "0cf1d471-0cd6-4aad-b81a-9a4ba201b1d0",
+    "question_id": "1.1.1.2",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "9c16ab4c-d8be-451a-b99d-f321ebde0e01",
+    "question_id": "1.2.1",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "O consumo de água foi de 1.139.714 m3 em 2024."
+  },
+  {
+    "db_question_id": "618262e0-671f-43c2-aaa4-c81815ed9c2b",
+    "question_id": "1.2.1.1",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "58fb8cf3-9cf0-470f-abe1-a29336b08757",
+    "question_id": "1.2.1.2",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "1a7f6c97-6b1d-46bf-8e1f-162997863b20",
+    "question_id": "1.2.1.3",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "Em 2022, o indicador foi de 688.811 m3 e em 2024 foi de 1.139.714 m3. Analisando a razão do consumo pela receita, houve redução de 21% no último triênio."
+  },
+  {
+    "db_question_id": "bfb88d4d-2457-4776-8593-4ef124435964",
+    "question_id": "1.2.2",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "A empresa possui as metas de reduzir o consumo, no Brasil, em 21,6% até 2030, considerando a base de 1.093.486 m³ em 2023; Consumir até 1.034.869 m³ de água em 2025, e em 2024 a meta foi de consumir até  750.361 m3, que não foi atingida pois a empresa consumiu 1.139.714 m3."
+  },
+  {
+    "db_question_id": "d4ee14db-78b2-438d-99b5-4abbcc5f0e61",
+    "question_id": "1.2.2.1",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Não",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "4e801abb-81a8-4d53-93e1-0465cdc6cb33",
+    "question_id": "1.2.2.2",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "Sim, no Relatório ESG."
+  },
+  {
+    "db_question_id": "cc598045-fb30-4f56-8276-4186ebc66bb7",
+    "question_id": "1.3.1",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "2aa37f34-ec01-4e29-84bb-19d65b40db95",
+    "question_id": "1.3.2",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "71a487f2-eefe-483b-b5e2-685374a14801",
+    "question_id": "1.3.3",
+    "theme_name": "Recursos Hídricos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "467e8fc2-ec05-4778-ad27-14bc60db31ed",
+    "question_id": "1.4.1",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": " A empresa informa consumir água da chuva, vide tabela \"Consumo de água no Brasil.\""
+  },
+  {
+    "db_question_id": "8dd91b28-9579-4d01-8de2-1732bb2c0aaf",
+    "question_id": "1.4.1.1",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Não",
+    "source": "Representa 0,8% do total do consumo de água."
+  },
+  {
+    "db_question_id": "b21e0799-7ff2-4abd-a74f-7cf829b97152",
+    "question_id": "1.4.1.2",
+    "theme_name": "Recursos Hídricos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "b8b186cb-9c39-470f-880e-b63b0e9e9d3b",
+    "question_id": "1.4.2",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "A empresa utiliza água de reúso, vide tabela \"Consumo de água no Brasil.\""
+  },
+  {
+    "db_question_id": "162ff38d-0f6a-4681-a362-eec172266783",
+    "question_id": "1.4.2.1",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Não",
+    "source": "Representa 2,9% do total."
+  },
+  {
+    "db_question_id": "00fe5354-a987-44ae-b2b5-60a0d07333d3",
+    "question_id": "1.4.2.2",
+    "theme_name": "Recursos Hídricos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "38559fd4-1e04-4ae9-87aa-23700ebd1011",
+    "question_id": "1.4.3",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "\"Os indicadores de consumo e captação de água são monitorados em comitê multidisciplinar composto por equipes operacionais e de gestão ambiental. \""
+  },
+  {
+    "db_question_id": "0324a9a1-9273-49b3-91b5-6edbe923aeea",
+    "question_id": "1.4.4",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "\"Para garantir e manter a disponibilidade hídrica em nossos prédios e operações, atualizamos periodicamente nosso plano de contingência de abastecimento e consumo de água.\""
+  },
+  {
+    "db_question_id": "24436ceb-daa7-43ab-838b-3ae6e2ed2bc0",
+    "question_id": "1.4.5",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "bbe28bf3-2fed-417e-842b-f83cf0c354c9",
+    "question_id": "1.4.6",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "\"Também realizamos o controle das faturas de consumo de água nos prédios administrativos e agências bancárias, através de um sistema que auxilia na identificação de picos não eventuais de consumo, nos permitindo buscar melhorias de maneira direcionada.Todos os dados são monitorados internamente pela área de Riscos.\""
+  },
+  {
+    "db_question_id": "199bb08a-e414-41cc-aafb-c50d3ac05d4d",
+    "question_id": "1.4.7",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "ee87f505-510c-4d51-a900-5ac7e234d932",
+    "question_id": "1.4.8",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "0af989c1-b024-46f2-877e-0971201dd449",
+    "question_id": "1.4.8.1",
+    "theme_name": "Recursos Hídricos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "56f089ec-b7c0-4984-bc78-a8c2c4e60a2e",
+    "question_id": "1.4.9",
+    "theme_name": "Recursos Hídricos",
+    "answer": "Sim",
+    "source": "\"Certificação AQUA (Alta Qualidade Ambiental): emitido pela Fundação Vanzolini que, além das eficiências em consumo de água, energia e materiais, também avalia todo o sistema de gestão do empreendimento e qualidade ambiental do edifício.\""
+  },
+  {
+    "db_question_id": "32fcb1ad-a2cf-41c6-87c1-952778c4dcf7",
+    "question_id": "2.1.1",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "Buscar reduzir os impactos ambientais negativos das operações diretas, ao lado da promoção de práticas sustentáveis, por meio da eficiência no consumo e uso dos recursos naturais, da gestão e destinação adequada dos resíduos e efluentes gerados nas atividades do banco e da eficiência no uso de energia."
+  },
+  {
+    "db_question_id": "6fa3d9ed-3352-4e7e-8fc3-5c31b468f470",
+    "question_id": "2.1.1.1",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "9185732d-010a-4a5f-94f3-158878df28ee",
+    "question_id": "2.1.1.2",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "Buscar reduzir os impactos ambientais negativos das operações diretas, ao lado da promoção de práticas sustentáveis, por meio da eficiência no consumo e uso dos recursos naturais, da gestão e destinação adequada dos resíduos e efluentes gerados nas atividades do banco e da eficiência no uso de energia."
+  },
+  {
+    "db_question_id": "d9f1ceb5-26d9-41b2-84f6-30ab14bc4aab",
+    "question_id": "2.2.1",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "A empresa consumiu 366.773 MWh/ 1.320.383 GJ em 2024."
+  },
+  {
+    "db_question_id": "eee8b15a-99d8-455e-b6c0-d0edf0028f59",
+    "question_id": "2.2.1.1",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "bea777f0-3ca8-4d34-ab72-ac9a8f608988",
+    "question_id": "2.2.1.2",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "0e3dee24-f8c2-4d5b-b3e2-c0953386c598",
+    "question_id": "2.2.1.3",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "Em 2022 o indicador foi de 1.444.716 GJ e em 2024 foi de 1.320.383 GJ. Analisando a razão do consumo pela receita, houve redução de 56% no último triênio."
+  },
+  {
+    "db_question_id": "8f33e99e-0a95-43b8-958c-6311943697c3",
+    "question_id": "2.2.2",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "A empresa possui o objetivo de reduzir 16,6% o consumo de energia no Brasil em 2030, com base de 384.762 MWh em 2023; Para 2025, a meta é consumir até 360.983 MWh de energia elétrica no Brasil e certificar que 100% da energia consumida no Brasil seja de fonte renovável; Para 2024, as metas foram consumir até 390.302 MWh de energia elétrica no Brasil, a empresa alcançou 366.772,8 MWh, e certificar, pela compra de RECs, que 100% da energia consumida no Brasil seja de fonte renovável, a empresa alcançou 100% em 2024."
+  },
+  {
+    "db_question_id": "129f34b0-6af0-41fe-bc2f-082b5a2edbde",
+    "question_id": "2.2.2.1",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "30cc0441-c061-442e-a7ec-ba253f9549a3",
+    "question_id": "2.2.2.2",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "6b40d736-c0ea-4a57-9b8f-ce5466c40501",
+    "question_id": "2.2.3",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "\"Energia consumida proveniente de fontes renováveis: 100%\"\n"
+  },
+  {
+    "db_question_id": "99337f85-8387-48b5-89ee-dc05409f07ed",
+    "question_id": "2.2.3.1",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "a3d61e51-d86b-4a19-a125-dacd52cccf32",
+    "question_id": "2.2.3.2",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "Meta 2024: Certificar, pela compra de RECs, que 100% da energia consumida no Brasil seja de fonte renovável, a empresa alcançou 100% em 2024."
+  },
+  {
+    "db_question_id": "ce42ed8d-1901-4ebf-9eac-98f5363807c4",
+    "question_id": "2.2.3.3",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "ba5e9b29-e2ae-4614-9c7c-67fd52ac5b66",
+    "question_id": "2.3.1",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "4f3f9377-5c3a-408a-9841-1b218c058e55",
+    "question_id": "2.3.2",
+    "theme_name": "Recursos Energéticos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "8f011bd4-c576-4d16-8d6c-1264ee2320c7",
+    "question_id": "2.3.3",
+    "theme_name": "Recursos Energéticos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "85f51d61-f9b7-4d0f-837c-d89013ec97e4",
+    "question_id": "2.4.1",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "\"A frota executiva é composta pelos carros executivos, que ficam estacionados no centro empresarial e realizam o transporte de colaboradores de cargos executivos. No início de 2024, concluímos a alteração da frota executiva para veículos híbridos com uso de etanol.\""
+  },
+  {
+    "db_question_id": "30ee6ce2-792d-49a3-a05d-41bb90ae77b7",
+    "question_id": "2.4.2",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "\"Pela abordagem de escolha de compra, investimos continuamente em energia limpa, renovável e zero emissão. Temos painéis fotovoltaicos em prédios administrativos, geração distribuída em agências e estamos no Mercado Livre de Energia.\""
+  },
+  {
+    "db_question_id": "d6ed9302-3ec7-48a7-9f82-6d5a48e442cf",
+    "question_id": "2.4.3",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "\"Portanto, investimos na compra de Certificados de Energia Renovável (RECs), para 100% da energia elétrica que consumimos no Brasil. Dessa forma, pela abordagem de escolha de compra (market based), nossas emissões são zeradas.\""
+  },
+  {
+    "db_question_id": "a87bca51-c06b-446a-aafa-7defb4eaec9b",
+    "question_id": "2.4.4",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "\"Nossa nova torre administrativa, inaugurada em 2023 em nossa sede, foi projetada integralmente de acordo com os critérios da certificação LEED (Leadership in Energy and Environmental Design) para construções sustentáveis (eficiência energética, uso racional de recursos, qualidade do ambiente interno, entre outros).\""
+  },
+  {
+    "db_question_id": "82082d59-5324-42a3-a8f1-6d887844246b",
+    "question_id": "2.4.5",
+    "theme_name": "Recursos Energéticos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "8495aadb-8396-4cd4-82cc-48f82d15d0ca",
+    "question_id": "2.4.5.1",
+    "theme_name": "Recursos Energéticos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "f2e29bd2-e805-4789-a3c9-5924b8b140af",
+    "question_id": "2.4.6",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "e53ec358-a6a5-4ef8-b49f-7dbbc464e677",
+    "question_id": "2.4.7",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "cf16d31e-32f3-4106-b329-4243539946db",
+    "question_id": "2.4.8",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "c04e5f0b-07ef-4528-b7d6-3c966587429a",
+    "question_id": "2.4.8.1",
+    "theme_name": "Recursos Energéticos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "4cb00458-964a-4315-9240-6236ad714916",
+    "question_id": "2.4.9",
+    "theme_name": "Recursos Energéticos",
+    "answer": "Sim",
+    "source": "\"O Fundo Itaú index ESG energia limpa (IS) busca representar o tema de Energia Limpa no mundo, oferecendo acesso a mais de 30 empresas globais que produzem energia de fontes renováveis, como biocombustíveis, energia solar e energia eólica, apoiando a transição para um sistema econômico mais eficiente em emissões de carbono.\""
+  },
+  {
+    "db_question_id": "6c4a2570-88fe-4910-b9cf-a0589a95a2b1",
+    "question_id": "4.1.1",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "Buscar reduzir os impactos ambientais negativos das operações diretas, ao lado da promoção de práticas sustentáveis, por meio da eficiência no consumo e uso dos recursos naturais, da gestão e destinação adequada dos resíduos e efluentes gerados nas atividades do banco e da eficiência no uso de energia."
+  },
+  {
+    "db_question_id": "56f5993a-0c76-4470-af0c-ce07169443f3",
+    "question_id": "4.1.1.1",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "c019da8c-90d6-4420-86f4-34e676b94e3f",
+    "question_id": "4.1.1.2",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "5a6ad690-10ce-4ef0-b9e6-c6f1180194b6",
+    "question_id": "4.2.1",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "A empresa gerou 10.461 toneladas de resíduos em 2024."
+  },
+  {
+    "db_question_id": "85991975-7d85-4eab-be5b-85b91f7cd04b",
+    "question_id": "4.2.1.1",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "0230ad06-2b2e-4f06-af0d-d8abbc09636f",
+    "question_id": "4.2.2",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "Sim, a empresa monitora e divulga por classe, em que 1.103 toneladas foram de resíduos perigosos, 5.903 toneladas de não perigosos e 3.456 toneladas de resíduos de obras."
+  },
+  {
+    "db_question_id": "512159ed-94cd-4bb3-9bdb-ec05fc50884a",
+    "question_id": "4.2.2.1",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "becaa4a2-2cba-474f-b50e-c28e5c3a9494",
+    "question_id": "4.2.2.2",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "Em 2022 o indicador foi de 7.083 toneladas e em 2024 foi de 10.461 toneladas. Analisando a razão da geração de resíduos pela receita, houve uma redução de 29% no último triênio."
+  },
+  {
+    "db_question_id": "460e2480-2445-4509-bd65-20b07cbc19f3",
+    "question_id": "4.2.3",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "A empresa dispõe de diversas metas relacionadas ao tema. Para 2030, Reduzir em 50% os resíduos gerados e destinados para aterro no Brasil, com base de 2.401 ton em 2023. Dentre as 6 metas de 2024, 5 foram cumpridas e a de \"Destinar até 2.935 ton de resíduos gerados no Brasil para aterro. Realizado: 2.157 ton em 2024.\" não foi cumprida."
+  },
+  {
+    "db_question_id": "406b17ee-dab6-4343-a38a-b68922dca15a",
+    "question_id": "4.2.3.1",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "Considerou-se que sim devido a maior realização de metas do que o não cumprimento delas."
+  },
+  {
+    "db_question_id": "10c97195-9c31-498e-91b1-370c546c8ef3",
+    "question_id": "4.2.4",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "Sim, vide tópico \"Total de resíduos destinados a descarte no Brasil\". Em 2024, 7.015 toneladas de resíduos foram reciclados, 2.157 toneladas foram destinadas a aterro, 839 toneladas foram para incineração e coprocessamento com geração de energia e 450 foram para compostagem."
+  },
+  {
+    "db_question_id": "b7d044f9-d7c8-49d0-8540-9412d9466179",
+    "question_id": "4.2.4.1",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "8ff9aad1-c425-415d-9a9c-da36cd45029d",
+    "question_id": "4.2.4.2",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "Em 2022, 4.034 toneladas de resíduos foram reciclados, e em 2024, esse indicador foi de 7.015. Analisando a razão da reciclagem pela receita, houve um aumento de 36% nos resíduos reciclados."
+  },
+  {
+    "db_question_id": "41dbd14d-6211-4e90-9fcd-89af46fad695",
+    "question_id": "4.2.4.3",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "\"Destinar 100% dos resíduos eletrônicos gerados no Brasil para reciclagem. Realizado: 100% em 2024; Destinar 100% dos resíduos de papel gerados no Brasil para reciclagem. Realizado: 100% em 2024; Destinar 5.647 ton de outros materiais gerados no Brasil para reciclagem. Realizado: 100% em 2024."
+  },
+  {
+    "db_question_id": "ba85c5ff-8fee-4959-818a-1a6167e0283f",
+    "question_id": "4.2.4.4",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "e6441826-801b-4eab-9318-14b594641c03",
+    "question_id": "4.3.1",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "2ccdb726-2b42-4a07-b537-98db4a852f80",
+    "question_id": "4.3.2",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "098b8631-c6ef-4277-8f5b-71cf540ad85e",
+    "question_id": "4.3.3",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "7a1d4c80-ff8c-4e22-9e02-d4ad55d69069",
+    "question_id": "4.4.1",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "6000b0b0-11ca-4ca5-99eb-efe3d6e43bc1",
+    "question_id": "4.4.2",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "\"Oferecemos aos nossos colaboradores, incluindo executivos e times comerciais, capacitações específicas sobre a agenda ESG e Climática. Nossa trilha “Descomplicando a Sustentabilidade e ESG”, aberta a todos os colaboradores, possui conteúdos relacionados a conceitos, desafios globais, responsabilidade social, ambiental e climática e nossa atuação em temas estratégicos da agenda climática, oferecendo uma introdução ao tema para nossos colaboradores.\""
+  },
+  {
+    "db_question_id": "f9983a3b-9f7c-41cc-a7b8-da5ab7372b1d",
+    "question_id": "4.4.3",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "8a0f511e-3871-4f35-babb-5969fe12cd1a",
+    "question_id": "4.4.4",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "805c29b8-4d6f-447f-a1d4-497f0fbcf9e0",
+    "question_id": "4.4.5",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "\"Seguimos as diretrizes da Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010).\""
+  },
+  {
+    "db_question_id": "fe76fcc3-e3c8-45a5-af13-7167e9fbfc02",
+    "question_id": "4.4.6",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "\"Os resíduos orgânicos, incluindo restos de alimentos dos restaurantes nos centros empresariais e de aparas e varreduras de folhas e jardins, são enviados para compostagem, enquanto as toalhas de papel dos banheiros são recicladas, reduzindo a quantidade de resíduos desviados dos aterros.\""
+  },
+  {
+    "db_question_id": "65ebd9a8-d003-4381-809e-b3ccdd7a7b94",
+    "question_id": "4.4.7",
+    "theme_name": "Resíduos Sólidos",
+    "answer": "Sim",
+    "source": "\"Para garantir a melhoria contínua dos processos de destinação de resíduos, contamos com serviços de coleta seletiva nas agências não atendidas pela rede pública e homologamos tecnicamente os fornecedores dos prédios certificados pela ISO 14001.\""
+  },
+  {
+    "db_question_id": "adfb0c0e-9fb9-4e54-a468-32cb4142c4ac",
+    "question_id": "5.1.1",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "588fdde1-e3af-446a-9de2-f07feb635967",
+    "question_id": "5.1.1.1",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "4e9f6b2e-65c5-465d-9223-c0205783a026",
+    "question_id": "5.2.1",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "3b935de9-86e9-4509-8d05-13b924b7df03",
+    "question_id": "5.2.1.1",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "aba1d8f0-929e-4c26-a595-8a032b7f526e",
+    "question_id": "5.2.1.2",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "67cc2a98-98bc-40ec-86a5-cd334140c35a",
+    "question_id": "5.2.1.3",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "76caed3a-2176-4a03-b8d3-9c0e617da5b8",
+    "question_id": "5.2.2",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "3ac6f5fe-95b3-43d1-8d92-abdcf350b232",
+    "question_id": "5.2.2.1",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "b837f570-caaf-4026-917f-af25a7ae3a6a",
+    "question_id": "5.2.2.2",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "6bd127a5-9d0c-4e63-894f-d174b4ba206a",
+    "question_id": "5.2.2.3",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "0d6f7007-dc91-47ae-a46c-8771821a77d9",
+    "question_id": "5.2.3",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "13d26a08-088b-4fdb-8452-dc51e75f6f01",
+    "question_id": "5.2.3.1",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "1e6ce5d5-1bfb-41ab-b92c-6791404ce545",
+    "question_id": "5.2.3.2",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "3af8d8f0-06de-4ef4-bd98-1786a9581cdb",
+    "question_id": "5.3.1",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "9f3a21fa-86a8-47f8-b58f-3e7462a1937d",
+    "question_id": "5.3.2",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "c2495187-6380-4ed5-8b9b-82af3ca5ef29",
+    "question_id": "5.3.3",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "744df282-7c28-4940-a5a8-00882717bb63",
+    "question_id": "5.4.1",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "3890ccdb-e8e6-4c1f-9299-9506f508ee55",
+    "question_id": "5.4.2",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "40ff90a0-edde-4a91-a34a-57e5dc354b51",
+    "question_id": "5.4.3",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "8a32f4d1-d02c-4736-8729-35407e385de1",
+    "question_id": "5.4.4",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "08274cb0-9081-415c-befb-3f420c4075d9",
+    "question_id": "5.4.5",
+    "theme_name": "Efluentes líquidos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "0dd730a3-2c57-424a-90ed-9e58140a3f98",
+    "question_id": "6.1.1",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "02138032-c4d9-4130-9187-6fa9b30ca007",
+    "question_id": "6.1.1.1",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "60acffa3-7f65-4f1c-8287-cb1c5fde8271",
+    "question_id": "6.2.1",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "fc635c5e-df7b-4686-b921-7669880a2f4c",
+    "question_id": "6.2.1.1",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "2f3db723-8e05-49ff-88a3-c1015efd6fcb",
+    "question_id": "6.2.1.2",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "51e17084-f14b-46c2-820e-52eeba7a3686",
+    "question_id": "6.2.1.3",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "9a2630ac-7b13-43e6-bdc4-9b17883c6534",
+    "question_id": "6.2.1.4",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "b33da61a-aeea-40f0-93f6-3fae357b0a13",
+    "question_id": "6.2.1.5",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "f0764ef8-0173-4808-b504-ba4c603c8b5f",
+    "question_id": "6.2.2",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "75719cf6-efaa-4036-b7e9-90065293098a",
+    "question_id": "6.2.2.1",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "8c65c8ed-b35c-4ae7-93c6-31b279ca736c",
+    "question_id": "6.2.2.2",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "b05a8bfd-4594-46de-b5bb-9a643ee09eb4",
+    "question_id": "6.2.2.3",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "8afc93bc-9ee5-493f-847c-7efe2eb7da9d",
+    "question_id": "6.2.2.4",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "9ac6f954-ca5d-4e75-9ced-ed5058d9e61c",
+    "question_id": "6.2.2.5",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "bbfbbd98-1597-4bda-865f-35b3df8d7963",
+    "question_id": "6.3.1",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "793aa979-09c3-498d-b038-9c3d2e87362b",
+    "question_id": "6.3.2",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "e8b8658d-2ac5-4fd1-9d17-8a37a5d00069",
+    "question_id": "6.3.3",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "7f57d617-356c-4bab-8236-61508f834737",
+    "question_id": "6.4.1",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "70346584-e85c-4c03-9e5b-d428924a8f38",
+    "question_id": "6.4.2",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "3680a9a6-1ee0-4bff-95cc-58ebf9072d62",
+    "question_id": "6.4.3",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "5f892682-a571-41c8-94a9-4a1eb7fd2209",
+    "question_id": "6.4.4",
+    "theme_name": "Emissões atmosféricas",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "aa098d2d-630e-4587-a972-6ffce9618b1d",
+    "question_id": "8.1.1",
+    "theme_name": "Mudanças Climáticas Adaptação",
+    "answer": "Sim",
+    "source": "O compromisso do Itaú com o desenvolvimento sustentável nos países em que atua está na essência de sua atividade e é traduzido em sua estratégia de sustentabilidade, que orienta a integração de aspectos de natureza social, ambiental e climática em seus negócios, e na forma como gera valor para a sociedade, por meio dos Compromissos de Impacto Positivo (estratégia de sustentabilidade com metas públicas no site da instituição), que permeiam toda a organização e norteiam a tomada de decisões seus negócios, atividades e processos."
+  },
+  {
+    "db_question_id": "98ff1ba0-2d07-4951-9c2d-25357a58adf6",
+    "question_id": "8.1.1.1",
+    "theme_name": "Mudanças Climáticas Adaptação",
+    "answer": "Sim",
+    "source": "Idem ao anterior."
+  },
+  {
+    "db_question_id": "f82a02ce-8a9d-4977-967e-e670c202f17e",
+    "question_id": "8.1.1.2",
+    "theme_name": "Mudanças Climáticas Adaptação",
+    "answer": "Sim",
+    "source": "Gerenciamento e minimização de impactos ambientais negativos decorrentes das atividades e cadeia de valor, por meio de processos de melhoria contínua, considerando as boas práticas de gestão ambiental e requisitos legais."
+  },
+  {
+    "db_question_id": "4f37f19c-593e-4bf3-a73b-f20ba105cf9b",
+    "question_id": "8.2.1",
+    "theme_name": "Mudanças Climáticas Adaptação",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "987497d0-1b42-4c29-9e52-8e502267513b",
+    "question_id": "8.2.2",
+    "theme_name": "Mudanças Climáticas Adaptação",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "6fc9ae29-4f51-4340-b201-ce9b34b0881d",
+    "question_id": "8.2.3",
+    "theme_name": "Mudanças Climáticas Adaptação",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "01748669-07a9-4115-8f9a-6de9e4bbfd7e",
+    "question_id": "8.3.1",
+    "theme_name": "Mudanças Climáticas Adaptação",
+    "answer": "Sim",
+    "source": "Gerenciar risco social, ambiental e climático identificado como uma das diversas modalidades de risco a que o Itaú está exposto em operações, produtos e serviços."
+  },
+  {
+    "db_question_id": "61ba4a83-d595-4aec-85a2-e1ff75dc3380",
+    "question_id": "8.3.2",
+    "theme_name": "Mudanças Climáticas Adaptação",
+    "answer": "Sim",
+    "source": "\"Nosso planejamento financeiro é impactado pelos riscos e as oportunidades decorrentes das mudanças climáticas em termos de receitas, custos, provisionamento e alocação de capital. Realizamos uma revisão do planejamento financeiro para incorporar práticas sustentáveis que mitiguem riscos, capturem novas oportunidades de mercado e atendam às crescentes expectativas de investidores e reguladores.\""
+  },
+  {
+    "db_question_id": "992a75e2-9273-4925-b95d-f724a14877b0",
+    "question_id": "8.3.3",
+    "theme_name": "Mudanças Climáticas Adaptação",
+    "answer": "Sim",
+    "source": "\"Desde 2010, desenvolvemos nossos modelos ESG para avaliação de empresas, em linha com iniciativas internacionais, como Sustainability Accounting Standards Board (SASB) e Task Force on Climate Related Financial Disclosures (TCFD\""
+  },
+  {
+    "db_question_id": "c3847a44-42d3-4508-a7e3-9b9ef7848224",
+    "question_id": "8.3.4",
+    "theme_name": "Mudanças Climáticas Adaptação",
+    "answer": "Sim",
+    "source": "\"Em termos de alocação de capital, visando tanto a mitigação de riscos climáticos, quanto a oportunidade de estarmos posicionados de forma competitiva para atrair investidores, prevemos um aumento significativo em finanças sustentáveis até 2030, visando mobilizar R$ 1 trilhão.\""
+  },
+  {
+    "db_question_id": "8c36d0f6-7d6d-4014-82ee-bea51b3d8c3d",
+    "question_id": "8.3.5",
+    "theme_name": "Mudanças Climáticas Adaptação",
+    "answer": "Sim",
+    "source": "\"Para mapear os riscos físicos, consideramos as conclusões do IPCC (painel intergovernamental de mudanças climáticas), por meio dos cenários RCP (Representative Concentration Pathways), RCP 4,5 e RCP 8,5, e a adaptação dos cenários às características da região na qual operamos, com base nas projeções apresentadas por ferramentas amplamente utilizadas e reconhecidas, como a Adapta Brasil, desenvolvida pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) e o Climate Change Knowledge Portal.\""
+  },
+  {
+    "db_question_id": "cc8be59f-dcb2-4a74-9a66-dce846b8a8dc",
+    "question_id": "10.1.1",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "Este documento tem como objetivo reforçar o compromisso do Itaú Unibanco Holding S.A com a Saúde e Segurança do Trabalho nas relações com nossos colaboradores, clientes, fornecedores, parceiros e a  sociedade. "
+  },
+  {
+    "db_question_id": "273768af-da3b-4114-8269-8ff7ec9a0429",
+    "question_id": "10.1.1.1",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "8bbd34c4-438e-431d-a993-5f45eebaef45",
+    "question_id": "10.2.1",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "\"Em 2024, ocorreram 323 comunicados de acidente de trabalho, sendo 120 por acidentes típicos, 168 acidentes de trajeto e 35 por doenças ocupacionais.\""
+  },
+  {
+    "db_question_id": "d7b7e6d6-dc07-49ba-8f76-6cd5f17c7c43",
+    "question_id": "10.2.1.1",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "80ea210f-81dd-4afd-b61a-5d37221f8d4f",
+    "question_id": "10.2.1.2",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "620a51e4-1a09-450c-a173-971ce9dc2aac",
+    "question_id": "10.2.1.3",
+    "theme_name": "Saúde e segurança",
+    "answer": "Não",
+    "source": "A taxa de doenças ocupacionais aumentou de 1,44 para 1,86 e a taxa de colaboradores afastados aumentou de 3,6% para 5,2%."
+  },
+  {
+    "db_question_id": "5973f32c-d18a-4713-b96f-3594a3655c91",
+    "question_id": "10.2.1.4",
+    "theme_name": "Saúde e segurança",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "fb0d1f02-1b7d-413d-8e4a-c8f602f1cfa6",
+    "question_id": "10.2.1.5",
+    "theme_name": "Saúde e segurança",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "edcf0f55-efa5-4b78-b29a-9b966b255af9",
+    "question_id": "10.2.2",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "\"Taxa de colaboradores afastados.\" A taxa foi de 5,2% em 2024."
+  },
+  {
+    "db_question_id": "79d1296d-6231-4f3f-85e0-517792299381",
+    "question_id": "10.2.2.1",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "99be79cc-8f77-41ca-9857-4b1eb5066669",
+    "question_id": "10.2.2.2",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "38f8c4dc-b17a-4f88-aa44-f8ae3b512ad1",
+    "question_id": "10.2.2.3",
+    "theme_name": "Saúde e segurança",
+    "answer": "Não",
+    "source": "Em 2022 o indicador foi de 3,6% e em 2024 foi de 5,2%."
+  },
+  {
+    "db_question_id": "ac595b35-225b-43aa-a076-4d2ecd0600e1",
+    "question_id": "10.2.2.4",
+    "theme_name": "Saúde e segurança",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "8bf07f80-0bc0-4361-9ad4-6c1d3a9ee93a",
+    "question_id": "10.2.2.5",
+    "theme_name": "Saúde e segurança",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "f9612b35-9f17-443b-ab9a-c9bf2e05ec0d",
+    "question_id": "10.2.3",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "\"Total de óbitos.\" Em 2024 o indicador foi de 2 óbitos."
+  },
+  {
+    "db_question_id": "28a42310-59c5-4e24-a5ff-28822a39995b",
+    "question_id": "10.2.3.1",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "81eaf0d3-4793-4160-8432-cd806eeeae84",
+    "question_id": "10.2.3.2",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "9f9944de-666d-41cf-99ea-6e274d27565a",
+    "question_id": "10.2.3.3",
+    "theme_name": "Saúde e segurança",
+    "answer": "Não",
+    "source": "Em 2022 o indicador foi de 0 óbitos, e em 2024 foi de 2 óbitos."
+  },
+  {
+    "db_question_id": "8e7d16c4-728f-4ab7-9ae5-af054dc05f00",
+    "question_id": "10.2.3.4",
+    "theme_name": "Saúde e segurança",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "9fafdfc7-b291-4251-8162-1e28f08ad870",
+    "question_id": "10.2.3.5",
+    "theme_name": "Saúde e segurança",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "bfa829cb-f399-4658-9f18-e430415f3bf2",
+    "question_id": "10.3.1",
+    "theme_name": "Saúde e segurança",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "d23848fa-e419-4e86-a484-8cdbe14606e1",
+    "question_id": "10.3.2",
+    "theme_name": "Saúde e segurança",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "5b9c1cb7-4e1d-43e2-a0c1-6e13cf8b5595",
+    "question_id": "10.3.3",
+    "theme_name": "Saúde e segurança",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "39d83913-2e52-4d77-9ab9-72b8b453dd06",
+    "question_id": "10.4.1",
+    "theme_name": "Saúde e segurança",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "1e6d547f-d4df-4b9d-babf-48d90d69989d",
+    "question_id": "10.4.2",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "\"A Gestão de Saúde, Segurança do Trabalho e Bem-Estar é composta por analistas, coordenadores, gerentes, superintendente, Diretor, equipe técnica especializada e componentes do Serviço Especializado em Segurança e Medicina do Trabalho (SESMT).\""
+  },
+  {
+    "db_question_id": "3f694ccc-30e6-4d52-a8af-c9682a931d76",
+    "question_id": "10.4.3",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "\"Visando garantir a saúde e segurança dos nossos empregados, contamos com um sólido programa de Gerenciamento de Saúde, Segurança e Bem-estar para que a nossa atuação esteja sempre alinhada aos padrões normativos vigentes.\""
+  },
+  {
+    "db_question_id": "52a414f7-49a3-4d5a-83cb-5ca88ab245fc",
+    "question_id": "10.4.4",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "\"A Gerência de Saúde, Segurança do Trabalho e Bem-Estar é a área responsável por um olhar dedicado ao tema, buscando sempre a melhoria contínua. A avaliação de desempenho de seus integrantes está atrelada ao cumprimento de metas em SST estipuladas anualmente.\""
+  },
+  {
+    "db_question_id": "b09c92bb-5619-4ac9-95ae-0f6fe4dd69f6",
+    "question_id": "10.4.5",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "\"Temos uma área focada em auditoria interna, com monitoramento de leis e procedimentos com potencial de impacto para a Organização, incluindo os temas de SST.\""
+  },
+  {
+    "db_question_id": "2e063ee3-a6c5-4b70-9e1f-7ecf4b010a96",
+    "question_id": "10.4.6",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "Para as ações de prevenção primária, além da identificação dos riscos e das análises de notificações de acidentes, seguiremos com treinamentos específicos sobre saúde e segurança do trabalho para todos os colaboradores."
+  },
+  {
+    "db_question_id": "03620e5c-15f0-4511-9cb9-bb54afbc91a2",
+    "question_id": "10.4.7",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "6693e441-8619-4bae-a92b-b56be21d6634",
+    "question_id": "10.4.8",
+    "theme_name": "Saúde e segurança",
+    "answer": "Sim",
+    "source": "\"São realizadas manutenções em mais de nove mil equipamentos e sistemas de combate a incêndio, garantindo sua operacionalidade, e todas as unidades seguem rigorosos critérios de acompanhamento e verificação desses equipamentos, auditados periodicamente pela equipe interna de segurança e Compliance.\""
+  },
+  {
+    "db_question_id": "21bf0024-6e5b-43e4-9d13-cbddd78e9d9c",
+    "question_id": "11.1.1",
+    "theme_name": "Condições de trabalho",
+    "answer": "Sim",
+    "source": "Oferecer aos colaboradores um ambiente de trabalho saudável, acessível, inclusivo, próspero e gerador de bem-estar, a partir da adoção de boas práticas de desenvolvimento, capacitação, saúde e segurança. "
+  },
+  {
+    "db_question_id": "c1ad434c-3fad-40f0-83e2-1dd098804697",
+    "question_id": "11.1.1.1",
+    "theme_name": "Condições de trabalho",
+    "answer": "Sim",
+    "source": "Esta política é aplicável a atividades do Itaú Unibanco e suas controladas."
+  },
+  {
+    "db_question_id": "72d81561-be55-49f4-8212-f004550a6438",
+    "question_id": "11.2.1",
+    "theme_name": "Condições de trabalho",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "ece9a3aa-465c-4e1e-96a9-2de26787f74d",
+    "question_id": "11.2.2",
+    "theme_name": "Condições de trabalho",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "832c1ca1-4b28-4759-a52c-6fecd1930ae6",
+    "question_id": "11.2.3",
+    "theme_name": "Condições de trabalho",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "a353a00a-40bc-45ab-afca-7b380276ff52",
+    "question_id": "11.3.1",
+    "theme_name": "Condições de trabalho",
+    "answer": "Sim",
+    "source": "\"Realizamos anualmente a pesquisa Pulso, que examina o clima e o engajamento do Itaú Unibanco. A pesquisa explora aspectos sobre o clima e ambiente de trabalho.\""
+  },
+  {
+    "db_question_id": "b95c464c-6952-4528-a774-e5fb75c1405b",
+    "question_id": "11.3.2",
+    "theme_name": "Condições de trabalho",
+    "answer": "Sim",
+    "source": "\"Great Place to Work 2024: 5º lugar na categoria +10.000 colaboradores.\""
+  },
+  {
+    "db_question_id": "19e71e37-02d4-4425-8181-878c547d4354",
+    "question_id": "11.3.3",
+    "theme_name": "Condições de trabalho",
+    "answer": "Sim",
+    "source": "Oferece diversos benefícios, como plano de saúde e odontológico, seguro de vida, auxílio farmácia, entro outros."
+  },
+  {
+    "db_question_id": "d7385f0b-5691-47cb-839a-d079ee1be51a",
+    "question_id": "11.3.4",
+    "theme_name": "Condições de trabalho",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "5f1c72a8-26f9-429f-844d-31456de6ba43",
+    "question_id": "11.3.5",
+    "theme_name": "Condições de trabalho",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "2b933940-bfb7-429f-980e-79309b10b3f1",
+    "question_id": "11.3.6",
+    "theme_name": "Condições de trabalho",
+    "answer": "Sim",
+    "source": "\"Sistema alternativo de controle de jornada: permite utilizar nosso próprio sistema próprio para controle de jornada dos trabalhadores, seguindo os parâmetros exigidos pela legislação.\""
+  },
+  {
+    "db_question_id": "e9b69344-3f6a-4724-a6e0-ffdbb8eba36e",
+    "question_id": "11.3.7",
+    "theme_name": "Condições de trabalho",
+    "answer": "Sim",
+    "source": "\"Somos signatários do programa Empresa Cidadã, programa facultativo que proporciona a todas as pessoas colaboradoras períodos adicionais de licenças maternidade, paternidade e adoção, que vão além do período previsto na legislação – de 120 dias para a licença maternidade e 5 dias para a licença paternidade.\""
+  },
+  {
+    "db_question_id": "2b7f4a1d-6ce6-4b2e-90cf-a72d6e9c7054",
+    "question_id": "11.3.8",
+    "theme_name": "Condições de trabalho",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "a9404921-e194-4350-8183-e2305ba7a4a9",
+    "question_id": "11.3.9",
+    "theme_name": "Condições de trabalho",
+    "answer": "Sim",
+    "source": "\"Compensação de horas mensal/semestral, que abrange os trabalhadores com jornada de 8 horas, bem como, os funcionários “part-time”, como os de centrais de atendimento e caixas, que são igualmente amparados pela Consolidação das Leis do Trabalho, convenções e acordos coletivos.\""
+  },
+  {
+    "db_question_id": "0a5a173d-d7e0-4b21-a725-7f7cdc4c4d7f",
+    "question_id": "11.3.10",
+    "theme_name": "Condições de trabalho",
+    "answer": "Sim",
+    "source": "\"Realização de pesquisa diagnóstica específica sobre saúde mental e conforto psicológico no trabalho.\""
+  },
+  {
+    "db_question_id": "10bbe65f-f048-4115-8804-9183ff55e994",
+    "question_id": "12.1.1",
+    "theme_name": "Gestão de carreira",
+    "answer": "Sim",
+    "source": "Respeito e proteção aos direitos humanos, por meio da promoção da diversidade, equidade e inclusão, prevenção do assédio moral e sexual, da discriminação de qualquer natureza e do trabalho degradante em desacordo com a legislação (infantil, forçado ou análogo ao escravo)."
+  },
+  {
+    "db_question_id": "c1b50765-0b12-44fe-9d5e-fb67d17d31f0",
+    "question_id": "12.1.1.1",
+    "theme_name": "Gestão de carreira",
+    "answer": "Sim",
+    "source": "Esta política é aplicável a atividades do Itaú Unibanco e suas controladas."
+  },
+  {
+    "db_question_id": "08519362-ca4d-4948-90f8-649128a9e487",
+    "question_id": "12.2.1",
+    "theme_name": "Gestão de carreira",
+    "answer": "Sim",
+    "source": "\"Total de participações em treinamento.\" Em 2024, 1.993.667 colaboradores foram treinados."
+  },
+  {
+    "db_question_id": "58a4d5dc-6e03-4cc3-8ebe-5c51bc85c613",
+    "question_id": "12.2.1.1",
+    "theme_name": "Gestão de carreira",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "a29c5589-7a20-4996-8786-36875e95af77",
+    "question_id": "12.2.1.2",
+    "theme_name": "Gestão de carreira",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "c8f04671-f52e-4d66-8c0c-abc9df3d6199",
+    "question_id": "12.2.1.3",
+    "theme_name": "Gestão de carreira",
+    "answer": "Não",
+    "source": "Em 2022, 2.419.298 colaboradores foram treinados e em 2024, 1.993.667 colaboradores foram treinados.\n"
+  },
+  {
+    "db_question_id": "4215d1dc-0638-4821-9653-1dd00e398a0d",
+    "question_id": "12.2.1.4",
+    "theme_name": "Gestão de carreira",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "babd535a-dd0d-4330-a49f-f8859b58f83f",
+    "question_id": "12.2.1.5",
+    "theme_name": "Gestão de carreira",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "ea5221ae-f44d-44f6-97b1-8289caf7ef0a",
+    "question_id": "12.2.2",
+    "theme_name": "Gestão de carreira",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "f21c2136-9828-4f96-becd-203740730782",
+    "question_id": "12.2.2.1",
+    "theme_name": "Gestão de carreira",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "9285a033-5a29-4003-937d-d55c33bddbf9",
+    "question_id": "12.2.2.2",
+    "theme_name": "Gestão de carreira",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "f4499523-6a99-4ff9-bb47-2cfbddd204ad",
+    "question_id": "12.2.2.3",
+    "theme_name": "Gestão de carreira",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "5c0ae164-1422-4316-af29-c7b3dbd03698",
+    "question_id": "12.2.2.4",
+    "theme_name": "Gestão de carreira",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "3974c585-e722-4a22-93d4-14c4d6181193",
+    "question_id": "12.3.1",
+    "theme_name": "Gestão de carreira",
+    "answer": "Sim",
+    "source": "\"Realizamos anualmente a pesquisa Pulso, que examina o clima e o engajamento do Itaú Unibanco. A pesquisa explora aspectos sobre o clima e ambiente de trabalho, a partir de 22 afirmativas, divididas em seis temas: engajamento, equipe, saúde e segurança psicológica, liderança, meritocracia e carreira e políticas e processos.\""
+  },
+  {
+    "db_question_id": "481eb2c9-3427-49c6-bc3b-2bf3da7d6c4a",
+    "question_id": "12.3.2",
+    "theme_name": "Gestão de carreira",
+    "answer": "Não",
+    "source": "\"Por isso, buscamos fortalecer nossa marca empregadora nos aproximando dos profissionais do mercado oferecendo oportunidades relevantes de emprego, desenvolvimento de carreira e remuneração competitiva. Tudo isso, alinhado ao cuidado com a experiência do colaborador, para que ele queira ficar e crescer com o nosso time.\"; A taxa de turnover passou de 14,6% para 14%."
+  },
+  {
+    "db_question_id": "47833b42-9c70-4f24-895c-44e36ef157c3",
+    "question_id": "12.3.3",
+    "theme_name": "Gestão de carreira",
+    "answer": "Sim",
+    "source": "\"O programa Aprendiz tem o objetivo de desenvolver jovens talentos, oferecendo não apenas a primeira experiência profissional, mas também um plano estruturado de capacitação e crescimento.\""
+  },
+  {
+    "db_question_id": "a4e1aa8a-2211-47bc-bd43-d34c1665c48b",
+    "question_id": "12.3.4",
+    "theme_name": "Gestão de carreira",
+    "answer": "Sim",
+    "source": "\"Conforme os registros administrativos do Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial), certifica-se que o empregador acima identificado empregava, em 05/05/2025, aprendizes em número SUPERIOR ao percentual mínimo previsto no art. 429, caput, da CLT.\""
+  },
+  {
+    "db_question_id": "10f25e0d-3924-428b-8c5b-a2117a4d0292",
+    "question_id": "12.3.5",
+    "theme_name": "Gestão de carreira",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "7ce9f5ef-7622-4b0d-9d81-d8baf4ba5ea0",
+    "question_id": "12.3.6",
+    "theme_name": "Gestão de carreira",
+    "answer": "Sim",
+    "source": "\"Pessoas-Chave: programa de reconhecimento para pessoas-chaves, cuja atividade é essencial, e colaboradores que atuem em projetos estratégicos, selecionados pelo Comitê Executivo. É atribuído um valor adicional à PLR em ações, a ser determinado conforme o Regulamento do Programa de Participação nos Lucros ou Resultados, cujo pagamento é realizado no terceiro ano após a outorga, com nossas ações preferenciais (ITUB4).\""
+  },
+  {
+    "db_question_id": "a0aa032e-ee5f-4c07-a764-259bbad4fc8e",
+    "question_id": "14.1.1",
+    "theme_name": "Segurança de dados",
+    "answer": "Sim",
+    "source": "Estabelecer os princípios, diretrizes e atribuições relacionadas à segurança da informação, protegendo as informações da instituição, dos clientes e do público em geral, observando as melhores práticas de mercado e regulamentações aplicáveis."
+  },
+  {
+    "db_question_id": "c89d0e67-7596-49e0-8f53-9a3407a9002a",
+    "question_id": "14.2.1",
+    "theme_name": "Segurança de dados",
+    "answer": "Sim",
+    "source": "No banco Itaú, cerca de 700 mil linhas de informações, incluindo CPF, nomes e dados bancários, foram expostas. Suspeita-se que esses dados possam ter sido reutilizados para fins maliciosos."
+  },
+  {
+    "db_question_id": "7cd3d6a8-5c0b-4e23-8873-ef2117a35f73",
+    "question_id": "14.2.2",
+    "theme_name": "Segurança de dados",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "5a5591d0-947b-40fb-8bb3-fe10a7826705",
+    "question_id": "14.2.3",
+    "theme_name": "Segurança de dados",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "909cedb5-0565-4ff8-b55f-55ddbd2e8519",
+    "question_id": "14.3.1",
+    "theme_name": "Segurança de dados",
+    "answer": "Sim",
+    "source": "A área de Cyber Security monitora a segurança do ambiente tecnológico do Itaú Unibanco no Brasil, analisando os eventos e alertas para identificar possíveis incidentes."
+  },
+  {
+    "db_question_id": "d56c0403-619e-49c4-a24c-cb9d1b77815e",
+    "question_id": "14.3.2",
+    "theme_name": "Segurança de dados",
+    "answer": "Sim",
+    "source": "Lei Geral de Proteção de Dados Pessoais (LGPD) - Lei nº 13.709/2018."
+  },
+  {
+    "db_question_id": "5f838f12-36c1-42c0-b375-aae58b5e10fb",
+    "question_id": "14.3.3",
+    "theme_name": "Segurança de dados",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "7f5364a9-009c-4952-bf0c-b163a0516a55",
+    "question_id": "14.3.4",
+    "theme_name": "Segurança de dados",
+    "answer": "Sim",
+    "source": "\"Contamos com as principais certificações do mundo sobre o tema, a ISO 27001 e a ISO 27701, que dispõem sobre os requisitos de gestão da segurança da informação e gestão de privacidade, respectivamente.\""
+  },
+  {
+    "db_question_id": "0f4378ae-11ac-4ebf-8fd1-40e786600f54",
+    "question_id": "16.1.1",
+    "theme_name": "Ecodesign",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "70f4b5fd-5674-4343-8c16-a84894ce5200",
+    "question_id": "16.2.1",
+    "theme_name": "Ecodesign",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "7d4c045a-b906-4f51-b19a-20b62d175b4e",
+    "question_id": "16.2.2",
+    "theme_name": "Ecodesign",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "85695601-76f7-478b-965b-d8806913804d",
+    "question_id": "16.3.1",
+    "theme_name": "Ecodesign",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "0530ec39-1b45-4cac-b9b2-13fe185f15d5",
+    "question_id": "16.3.1.1",
+    "theme_name": "Ecodesign",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "551d5441-8135-4c9c-85ec-7f304b1fc4e9",
+    "question_id": "16.3.1.2",
+    "theme_name": "Ecodesign",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "56643cf2-7d49-4ca3-bb98-164cbe3e669e",
+    "question_id": "16.3.1.3",
+    "theme_name": "Ecodesign",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "6d764b09-c5ed-41c3-aa5a-3560d91036c3",
+    "question_id": "16.3.2",
+    "theme_name": "Ecodesign",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "76c85b7a-8cbf-450c-a38d-4f80ee994238",
+    "question_id": "16.3.3",
+    "theme_name": "Ecodesign",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "35be42a8-b997-4f59-ac05-d4aecd7b6f65",
+    "question_id": "17.1.1",
+    "theme_name": "Desenvolvimento",
+    "answer": "Sim",
+    "source": "\"Destinar patrocínios e doações ao desenvolvimento social, econômico, educacional, cultural e ambiental das comunidades com as quais nos relacionamos.\""
+  },
+  {
+    "db_question_id": "f853a5b9-1566-4ad8-bbbd-a3f6ef380fc7",
+    "question_id": "17.1.1.1",
+    "theme_name": "Desenvolvimento",
+    "answer": "Sim",
+    "source": "\" (...) , cumprindo um papel protagonista no crescimento econômico, geração de empregos e bem-estar das famílias.\""
+  },
+  {
+    "db_question_id": "e7939808-bc39-479b-88d9-0ffa7521d07c",
+    "question_id": "17.1.1.2",
+    "theme_name": "Desenvolvimento",
+    "answer": "Sim",
+    "source": "\"O Investimento Social Privado (ISP) é um importante instrumento para promover o desenvolvimento social. Há décadas, direcionamos nossos investimentos de forma estratégica e intencional para promover o acesso e a ampliação de direitos, aprimorar a qualidade de vida e fortalecer o poder de transformação das pessoas.\""
+  },
+  {
+    "db_question_id": "ca337529-5423-4b0a-87c9-6d91dadf4b62",
+    "question_id": "17.2.1",
+    "theme_name": "Desenvolvimento",
+    "answer": "Sim",
+    "source": "\"Em 2024, investimos cerca de R$ 826 milhões em 1,7 mil projetos sociais, um aumento de 13,3% comparado aos projetos realizados no ano anterior, consolidando nossa posição como uma das empresas com maior investimento social privado na América Latina.\" Equivalente a 0,3% da receita líquida da empresa."
+  },
+  {
+    "db_question_id": "9164b92d-93c7-46f5-9295-0cd98207678c",
+    "question_id": "17.2.2",
+    "theme_name": "Desenvolvimento",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "5f97f1e2-a14b-4bcd-84f7-b6825e3820a6",
+    "question_id": "17.3.1",
+    "theme_name": "Desenvolvimento",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "7be727f8-535f-466e-8c33-bd586e187eff",
+    "question_id": "17.3.2",
+    "theme_name": "Desenvolvimento",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "44469b66-4f50-43fa-a333-3f82b43b1a14",
+    "question_id": "17.3.4",
+    "theme_name": "Desenvolvimento",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "4713816a-5b64-4148-87a7-6c3daff89c0c",
+    "question_id": "17.4.1",
+    "theme_name": "Desenvolvimento",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "05d0d745-3d28-4925-ba8b-c672591e60b7",
+    "question_id": "17.4.2",
+    "theme_name": "Desenvolvimento",
+    "answer": "Sim",
+    "source": "\"Incentivo a fornecedores para adoção de boas práticas, inclusive sociais, ambientais e climáticas, gerando confiança e boa reputação.\""
+  },
+  {
+    "db_question_id": "c4af2ee8-fee7-4c0a-82a8-3b8690a80219",
+    "question_id": "17.4.3",
+    "theme_name": "Desenvolvimento",
+    "answer": "Sim",
+    "source": "\"Somos parceiros do projeto Conexão Povos da Floresta, que tem o objetivo de levar internet rápida a 1 milhão de pessoas em mais de 5 mil comunidades da floresta. Para isso, o projeto oferece a infraestrutura necessária, incluindo kits para geração de energia elétrica em sistemas fotovoltaicos e baterias, antenas, roteadores e equipamentos para conexão.\""
+  },
+  {
+    "db_question_id": "fed6e725-0d1b-4c8e-b8d5-23112198f17d",
+    "question_id": "17.4.4",
+    "theme_name": "Desenvolvimento",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "dbac238d-a678-42d0-b9e1-d373a7df9d80",
+    "question_id": "17.4.5",
+    "theme_name": "Desenvolvimento",
+    "answer": "Sim",
+    "source": "\"Colaboramos para o desenvolvimento de políticas públicas e de autorregulação e atuamos em advocacy – práticas realizadas pela Companhia para defender e obter apoio a uma causa ou proposta –, por meio do relacionamento com entidades setoriais. Em 2024, foram gastos R$ 1,3 milhão com Advocacy.\""
+  },
+  {
+    "db_question_id": "e58fb279-eb59-4e71-9d91-ccbca71f0f1b",
+    "question_id": "17.4.6",
+    "theme_name": "Desenvolvimento",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "a58dba71-cd80-43e9-9d07-408cc2b664d6",
+    "question_id": "17.4.7",
+    "theme_name": "Desenvolvimento",
+    "answer": "Sim",
+    "source": "\"Em 2024, investimos cerca de R$ 826 milhões em 1,7 mil projetos sociais, um aumento de 13,3% comparado aos projetos realizados no ano anterior, consolidando nossa posição como uma das empresas com maior investimento social privado na América Latina.\" Equivalente a 0,3% da receita líquida da empresa."
+  },
+  {
+    "db_question_id": "479d686e-8ea0-40c9-808f-c91b7974dcbb",
+    "question_id": "17.4.8",
+    "theme_name": "Desenvolvimento",
+    "answer": "Sim",
+    "source": "\"Apoiamos diversos projetos e iniciativas que geram impacto socioambiental positivo. Neles, incentivamos ações como a implementação de boas práticas nas cadeias produtivas, a contribuição para a agropecuária de baixo carbono, o fomento a um ecossistema de negócios favorável ao desenvolvimento da bioeconomia florestal e a inclusão de comunidades tradicionais, por meio de sistemas de produção sustentável, além do acesso aos serviços públicos.\""
+  },
+  {
+    "db_question_id": "18fdc55b-c0a0-4e13-afde-663c75751e8d",
+    "question_id": "18.1.1",
+    "theme_name": "Direitos Humanos",
+    "answer": "Sim",
+    "source": "Este documento tem o objetivo de reforçar o compromisso do Itaú Unibanco Holding S.A com o respeito aos Direitos Humanos nas relações com nossos colaboradores, clientes, fornecedores, parceiros e a sociedade."
+  },
+  {
+    "db_question_id": "2a92e9c0-0453-4a37-bd68-803574fcff65",
+    "question_id": "18.1.1.1",
+    "theme_name": "Direitos Humanos",
+    "answer": "Sim",
+    "source": "Como parte desse compromisso, na contratação de terceiros são adotadas medidas para promoção de tais práticas, tais como a inclusão de cláusulas específicas em contrato para garantir o cumprimento às legislações trabalhistas, bem como adesão às recomendações de sustentabilidade."
+  },
+  {
+    "db_question_id": "5d1104af-ed4d-4a82-8d84-d8cab98b1ce8",
+    "question_id": "18.1.1.2",
+    "theme_name": "Direitos Humanos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "ae80dd3e-4594-4e1c-978b-8116fb5f78e3",
+    "question_id": "18.1.1.3",
+    "theme_name": "Direitos Humanos",
+    "answer": "Sim",
+    "source": "Os fornecedores homologados são monitorados periodicamente, considerando os mesmos riscos observados na homologação, e, caso sejam identificadas não conformidades relevantes, podem ser bloqueados para novas contratações ou ter seus contratos rescindidos."
+  },
+  {
+    "db_question_id": "5e2f4af3-f860-4970-a8a4-57a36e6f3790",
+    "question_id": "18.1.1.4",
+    "theme_name": "Direitos Humanos",
+    "answer": "Sim",
+    "source": "Este documento tem o objetivo de reforçar o compromisso do Itaú Unibanco Holding S.A com o respeito aos Direitos Humanos nas relações com nossos colaboradores, clientes, fornecedores, parceiros e a sociedade."
+  },
+  {
+    "db_question_id": "19525183-bbb0-4d5f-9259-1cdaa96f0833",
+    "question_id": "18.2.1",
+    "theme_name": "Direitos Humanos",
+    "answer": "Sim",
+    "source": "Em 2019, o Ministério Público acionou bancos por concederem crédito a empresas envolvidas em trabalho escravo. Essa ação visava responsabilizar as instituições financeiras por apoiarem negócios que exploravam mão de obra em condições desumanas. A iniciativa tinha como objetivo combater essa prática e promover a responsabilidade social das empresas e dos bancos. Banco do Brasil, Bradesco, BTG Pactual, Caixa Econômica, Itaú, Safra e Santander são citados em ação do MPT."
+  },
+  {
+    "db_question_id": "80b028be-1e68-4937-ad4d-9471e234a9f4",
+    "question_id": "18.2.2",
+    "theme_name": "Direitos Humanos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "75691e57-15a5-473b-bf09-5128ffa93c5f",
+    "question_id": "18.2.3",
+    "theme_name": "Direitos Humanos",
+    "answer": "Sim",
+    "source": "No caso citado da ação do MPT, o Itaú explica que encerrou o relacionamento com todas as empresas envolvidas e adotou as providências legais junto às autoridades \"de forma abrangente e tempestiva."
+  },
+  {
+    "db_question_id": "73bef2c5-5c00-44be-b5c3-15e0e64d96fd",
+    "question_id": "18.3.1",
+    "theme_name": "Direitos Humanos",
+    "answer": "Sim",
+    "source": "\"Disponibilizamos a todos uma trilha de conceitos básicos de diversidade e inclusão, em um formato prático, objetivo e acessível. Reforçamos continuamente os valores da nossa cultura com constantes ações afirmativas, promovendo e ampliando o conhecimento sobre os temas de diversidade e encorajando os colaboradores a se expressarem e não aceitarem situações de ameaça, perseguição, exclusão, constrangimento e importunação. Disponibilizamos a todas as pessoas o Guia de Orientações sobre Assédio e Discriminação no Trabalho, além de orientações para que os colaboradores possam aprender a reconhecer e denunciar casos suspeitos.\""
+  },
+  {
+    "db_question_id": "58464345-3798-4057-a941-2f24a489aa82",
+    "question_id": "18.3.2",
+    "theme_name": "Direitos Humanos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "c8a636bd-eb98-4c26-8d4c-012a93b4a974",
+    "question_id": "18.3.3",
+    "theme_name": "Direitos Humanos",
+    "answer": "Sim",
+    "source": "Também aderimos ao Pacto Global das Nações Unidas, à Carta Empresarial pelos Direitos Humanos e pela Promoção do Trabalho Decente, do Instituto Ethos, gerido pelo Instituto de mesmo nome, e aos Padrões de Conduta para Empresas propostos pela ONU Livres & Iguais."
+  },
+  {
+    "db_question_id": "896207b3-4098-48b0-81bb-3bc4395a5e2b",
+    "question_id": "18.3.4",
+    "theme_name": "Direitos Humanos",
+    "answer": "Sim",
+    "source": "De acordo com o Código de Ética e Conduta, o Ombudsman é o canal que deve ser utilizado para encaminhamento de dúvidas, denúncias, reclamações e sugestões relativas a atos de assédio moral e sexual. Nas Unidades Internacionais, nossos colaboradores podem acionar os canais de denúncia disponibilizados localmente."
+  },
+  {
+    "db_question_id": "10c75bdb-f007-4b47-95d9-79a7da6274b0",
+    "question_id": "18.3.5",
+    "theme_name": "Direitos Humanos",
+    "answer": "Sim",
+    "source": "Ainda em 2023, assumimos a liderança do Grupo de Trabalho de Direitos Humanos no Setor Financeiro, uma iniciativa inédita do Pacto Global da ONU no Brasil, ancorada na Aliança pelos Direitos Humanos e Empresas."
+  },
+  {
+    "db_question_id": "42ced81a-adfc-4f98-ac17-261d7fbc70ec",
+    "question_id": "19.1.1",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "A “Política de Responsabilidade Social, Ambiental e Climática” (ou “PRSAC”) apresenta os princípios, estratégias e diretrizes de natureza social, ambiental e climática a serem observados na condução dos negócios, atividades e processos do Itaú Unibanco, bem como na sua relação com as partes interessadas."
+  },
+  {
+    "db_question_id": "be9abaca-2a8a-47cf-b996-f5e499bb1aa5",
+    "question_id": "19.1.1.1",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "Respeito e proteção aos direitos humanos, por meio da promoção da diversidade, equidade e inclusão, prevenção do assédio moral e sexual, da discriminação de qualquer natureza e do trabalho degradante em desacordo com a legislação (infantil, forçado ou análogo ao escravo)."
+  },
+  {
+    "db_question_id": "99b6a2d0-1d8a-45df-8c9f-8518cccbcff8",
+    "question_id": "19.1.1.2",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "20bf62d2-ba08-4cdb-8bb8-6876681341c6",
+    "question_id": "19.1.1.3",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "634bfcfd-8b61-4d00-852e-9bb30fa14d9e",
+    "question_id": "19.1.1.4",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "9ce60ac6-492f-440a-8bd5-df39c93de31d",
+    "question_id": "19.2.1",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "\"Avaliamos a nossa cadeia de fornecedores e monitoramos a adequação aos nossos princípios, valores e compromissos, buscando mitigar riscos e garantir uma cadeia alinhada para geração de impacto positivo.\"; \"Auditoria de fornecedores sensíveis.\""
+  },
+  {
+    "db_question_id": "d8d7b4f8-8d54-4709-a4d8-b0ca9fb84d9c",
+    "question_id": "19.2.2",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "40f3344d-0004-4e55-9548-4754233f7f04",
+    "question_id": "19.2.3",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "7dcf1729-a7b0-430e-8325-f82002ac7dfd",
+    "question_id": "19.2.4",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "c4b98c36-a909-44ad-9672-de04016651ef",
+    "question_id": "19.2.5",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "e60ef442-2b03-4e40-b241-b80d049d08a4",
+    "question_id": "19.2.6",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "773498ec-858f-4158-8f7f-df2a9812b82a",
+    "question_id": "19.2.7",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "d92321c3-ca8f-4c36-8036-2c5f5c011151",
+    "question_id": "19.2.8",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "\"Dependendo da classificação, as exigências quanto à proteção da infraestrutura do terceiro vão desde o fornecimento de recomendações de segurança até a validação in loco dos controles informados, além do acompanhamento de eventuais correções e das melhorias implementadas pelos terceiros.\""
+  },
+  {
+    "db_question_id": "190e2d4b-a230-4277-85ab-90af2a7f8090",
+    "question_id": "19.3.1",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "02b39e0c-4360-4773-a683-ad3eee15a663",
+    "question_id": "19.3.2",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "b4231190-7a18-4b8c-8c34-f0048b4e58ba",
+    "question_id": "19.3.3",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "2d977146-b9f9-4809-b0d3-e606b84ad3ba",
+    "question_id": "19.4.1",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "\"Desde 2020, nossos contratos possuem cláusulas que exigem o cumprimento de normas e políticas sociais, ambientais e climáticas.\""
+  },
+  {
+    "db_question_id": "b8425c0f-66f6-4e7a-b470-1e564c05608d",
+    "question_id": "19.4.2",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "O Compromisso de Direitos Humanos do Itaú Unibanco, é aprovado por um membro do Comitê Executivo, tem abrangência nacional e serve de referência para atuação das nossas Unidades Internacionais. É por meio das diretrizes e ações listadas que realizamos a prevenção aos riscos de Direitos Humanos diretos e indiretos, contemplando colaboradores, clientes, fornecedores, acionistas e investidores, setor público, terceiro setor e a sociedade em geral."
+  },
+  {
+    "db_question_id": "42932ab9-3817-4e8c-a171-64abc4aa69a0",
+    "question_id": "19.4.3",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "4fec0a6d-b1dd-46fb-ac1e-eca6121eef78",
+    "question_id": "19.4.4",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "\"Em parceria com a Pacto Global da ONU e a Mais Diversidade, criamos o projeto Cadeia de Valor Itaú, iniciativa 100% gratuita e exclusiva para Pequenas e Médias Empresas, que busca apoiar os nossos fornecedores na definição de suas jornadas internas para temas como Direitos Humanos, Diversidade e Inclusão.\""
+  },
+  {
+    "db_question_id": "1f4443c4-3313-41a8-ba03-e77c09058592",
+    "question_id": "19.4.5",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "\"Incorporar avaliação de riscos em Direitos Humanos nos processos de homologação e monitoramento de fornecedores.\""
+  },
+  {
+    "db_question_id": "5f42a7d8-2baf-468d-ae26-7b46bcf001ef",
+    "question_id": "19.4.6",
+    "theme_name": "Temas sociais na cadeia",
+    "answer": "Sim",
+    "source": "\"Periodicamente, realizamos o Encontro Itaú + Fornecedores, uma reunião de engajamento onde são apresentados os temas mais relevantes para o alinhamento estratégico de nossa cadeia de fornecedores, incluindo temas como ética, prevenção à corrupção, prevenção à lavagem de dinheiro, combate ao financiamento do terrorismo, conflitos de relacionamento e canais de denúncia.\""
+  },
+  {
+    "db_question_id": "cd9792c6-5f43-485c-8416-1e1d04545ea5",
+    "question_id": "20.1.1",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Sim",
+    "source": "A “Política de Responsabilidade Social, Ambiental e Climática” (ou “PRSAC”) apresenta os princípios, estratégias e diretrizes de natureza social, ambiental e climática a serem observados na condução dos negócios, atividades e processos do Itaú Unibanco, bem como na sua relação com as partes interessadas."
+  },
+  {
+    "db_question_id": "f00ddb33-7cfd-4ae9-a40f-64b5f54c9f51",
+    "question_id": "20.1.1.1",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Sim",
+    "source": "\"Para elegibilidade e manutenção das operações com classificação ESG, além dos critérios de cada modalidade, consideramos critérios socioambientais adicionais aos de operações convencionais, incluindo o compromisso de não desmatamento, ainda que legal, na área financiada. Vale ressaltar que todas as modalidades passam pela Governança de Aprovação de Produtos ESG.\""
+  },
+  {
+    "db_question_id": "b5e46409-6a33-486a-9932-3adb734a67da",
+    "question_id": "20.1.1.2",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Sim",
+    "source": "\"A definição de conceitos e categorias elegíveis à criação de linhas ESG, em parceria com o Instituto de Manejo e Certificação Florestal e Agrícola (Imaflora), foi estabelecida logo no início da jornada e foi a base para a construção da estratégia de produtos ESG para o setor com foco em Agricultura de Baixa Emissão de Carbono (ABC), Energia, Recursos Hídricos, Biodiversidade e Bem-estar Animal (BEA).\""
+  },
+  {
+    "db_question_id": "0d47a2fa-ba6d-41f1-aff4-52991ef4ab26",
+    "question_id": "20.1.1.3",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "5c6f5fcb-3243-4041-acb9-a9898342dfed",
+    "question_id": "20.1.1.4",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Sim",
+    "source": "Portanto, o banco privilegia a contratação de fornecedores que sejam responsáveis com o Meio Ambiente e com a Sociedade e que estejam engajados com práticas sustentáveis em toda a sua cadeia."
+  },
+  {
+    "db_question_id": "c5ddd21b-3440-49c2-a5d3-364b21707724",
+    "question_id": "20.1.1.5",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "e9897e26-2362-45b9-8814-3b3f1039aa44",
+    "question_id": "20.1.1.6",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Sim",
+    "source": "Planejamento da demanda: O planejamento eficaz da demanda reduz significativamente os custos e contribui para a continuidade das atividades. Portanto, deve ser um exercício constante entre os nossos colaboradores, por meio da previsão de demanda e antecipação do fluxo de produtos."
+  },
+  {
+    "db_question_id": "46cf08fd-1dda-4de3-9cdd-003389bee5f0",
+    "question_id": "20.2.1",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Sim",
+    "source": "\"Avaliamos a nossa cadeia de fornecedores e monitoramos a adequação aos nossos princípios, valores e compromissos, buscando mitigar riscos e garantir uma cadeia alinhada para geração de impacto positivo.\"; \"Auditoria de fornecedores sensíveis.\""
+  },
+  {
+    "db_question_id": "4ba0cacf-0286-4b7f-869d-819dcf673c96",
+    "question_id": "20.2.2",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "49351f0a-120a-42bd-a04d-1bfd239b5cff",
+    "question_id": "20.2.3",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "94f2dd73-9f4a-4f90-b5f0-4f3dba57a708",
+    "question_id": "20.2.4",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "aa61718f-b3d6-42d2-971f-16f830ede336",
+    "question_id": "20.2.5",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "2115203d-7cd4-478e-bb25-c90103412302",
+    "question_id": "20.2.6",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "ab0e662d-239f-449e-8f7a-c5d2ba5b8ed3",
+    "question_id": "20.2.7",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Sim",
+    "source": "\"Avaliamos a nossa cadeia de fornecedores e monitoramos a adequação aos nossos princípios, valores e compromissos, buscando mitigar riscos e garantir uma cadeia alinhada para geração de impacto positivo.\"; \"Auditoria de fornecedores sensíveis.\""
+  },
+  {
+    "db_question_id": "b7c06347-dac4-408c-b12e-32d2fcd1ae6c",
+    "question_id": "20.2.8",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "273d95bc-f258-47c7-9699-eb437945f7f7",
+    "question_id": "20.3.1",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "a44da888-2171-4730-a7b3-256bb6e40b41",
+    "question_id": "20.3.2",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "e3cf8618-f9e7-4494-b3c7-bac60bfca1ed",
+    "question_id": "20.3.3",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "730671a1-e063-48cc-8177-ff31688704d1",
+    "question_id": "20.4.1",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Sim",
+    "source": "\"Desde 2020, nossos contratos possuem cláusulas que exigem o cumprimento de normas e políticas sociais, ambientais e climáticas.\""
+  },
+  {
+    "db_question_id": "9c058a94-599e-4d6d-9ecb-11a180b974a4",
+    "question_id": "20.4.2",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Sim",
+    "source": "\"Adotamos processos robustos de gerenciamento de riscos, que contemplam os riscos relacionados à integridade, como os riscos: reputacional, regulatório, legal, ambiental, social e climático.\""
+  },
+  {
+    "db_question_id": "7b97eed6-f536-4f5d-bc65-3e44436e2020",
+    "question_id": "20.4.3",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "efe87f32-98bc-4244-8409-47974c4c72bf",
+    "question_id": "20.4.4",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Sim",
+    "source": "\"Letramento ESG dos fornecedores ativos : Até 2026, ter o questionário ESG respondido por 100% dos nossos fornecedores. Até 2030, atingir 75% dos fornecedores com as trilhas básicas concluídas.\""
+  },
+  {
+    "db_question_id": "c68066db-bd49-4038-8a77-4d3938fe3884",
+    "question_id": "20.4.5",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "Sim",
+    "source": "\"Com esses instrumentos, endereçamos os principais riscos e impactos sociais, ambientais e climáticos em nossa cadeia de fornecedores, garantindo que todos os fornecedores conheçam suas obrigações e responsabilidades no relacionamento com o Itaú Unibanco.\""
+  },
+  {
+    "db_question_id": "62245c1f-c553-42cc-8741-2d3a74291948",
+    "question_id": "20.4.6",
+    "theme_name": "Temas ambientais na cadeia",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "e7fa6447-4e4b-451e-b163-f6d5e05bbbbc",
+    "question_id": "21.1.1",
+    "theme_name": "Remuneração executivos",
+    "answer": "Sim",
+    "source": "The purpose of the Stock Option Plan is to make the executives parties to the medium and long_x0002_term development of the Company, thus allowing them to participate in the enhancement in value  which their work and dedication has brought to the shares of the Company."
+  },
+  {
+    "db_question_id": "f10dcd33-ec17-4bbe-a0fd-a2a27007a3de",
+    "question_id": "21.1.2",
+    "theme_name": "Remuneração executivos",
+    "answer": "Sim",
+    "source": "\"Remuneração variável de diretores: além de considerar o desempenho, também reflete o resultado da área de negócios aplicável e resultados financeiros da Companhia compostos de: Resultado Geral Operacional (RGO) – Lucro Líquido Recorrente: mede o resultado alcançado pelo Banco no ano em comparação ao ano anterior e ao resultado esperado no orçamento aprovado pelo Conselho de Administração. Criação de Valor (CV) – Valor Econômico Adicionado (EVA): mede o valor adicionado pelo Banco ao acionista em excesso de seu custo de capital.\""
+  },
+  {
+    "db_question_id": "ea7235c5-8091-4546-8a79-6549934a7de8",
+    "question_id": "21.1.3",
+    "theme_name": "Remuneração executivos",
+    "answer": "Sim",
+    "source": "\"De acordo com nossa Política de Remuneração dos Administradores, questões ambientais, sociais e de governança afetam a remuneração variável de Administradores e colaboradores envolvidos em atividades, negócios e compromissos relacionados à agenda ESG, por meio de indicadores de desempenho, projetos e iniciativas presentes no critério de desempenho individual em diversos níveis hierárquicos.\""
+  },
+  {
+    "db_question_id": "6fa56489-de7e-430a-a28d-03ef873d1da2",
+    "question_id": "21.1.4",
+    "theme_name": "Remuneração executivos",
+    "answer": "Sim",
+    "source": "\"A Política de Remuneração de Administradores, se aplica ao Conselho de Administração, à Diretoria, ao Conselho Fiscal e ao Comitê de Auditoria.\""
+  },
+  {
+    "db_question_id": "688a4a34-bde3-4049-bb36-60575fc3e660",
+    "question_id": "21.1.5",
+    "theme_name": "Remuneração executivos",
+    "answer": "Não",
+    "source": "Apenas Candido Botelho Bracher é membro independente."
+  },
+  {
+    "db_question_id": "069c7b27-3f73-4846-b573-bed9ad453b23",
+    "question_id": "21.1.6",
+    "theme_name": "Remuneração executivos",
+    "answer": "Sim",
+    "source": "Vide tópico \"Política de Remuneração.\""
+  },
+  {
+    "db_question_id": "d548b2b8-21e0-44c5-bcd8-04d81afa546a",
+    "question_id": "21.2.1",
+    "theme_name": "Remuneração executivos",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "e3772c4f-ab44-4c54-a1b2-3efac99dd952",
+    "question_id": "21.2.2",
+    "theme_name": "Remuneração executivos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "e7728ee1-5f20-4fa5-9d2b-59ce991fbe1e",
+    "question_id": "21.2.3",
+    "theme_name": "Remuneração executivos",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "3ca040ae-dfeb-40b1-8720-634f8f2faa5e",
+    "question_id": "22.1.1",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Não",
+    "source": "Roberto Egydio Setubal é o presidente e Milton Maluhy Filho é o CEO."
+  },
+  {
+    "db_question_id": "dcd0c8c7-d7bd-4ba5-a7e8-eae649bbe9ae",
+    "question_id": "22.1.2",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Não",
+    "source": "Estrutura Administrativa - Itaú Unibanco | RI"
+  },
+  {
+    "db_question_id": "be763cfa-05ab-492c-9618-683a6e4440ac",
+    "question_id": "22.1.3",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "Dos 13 membros, 6 são independentes."
+  },
+  {
+    "db_question_id": "a4a3a714-09b2-487d-94a3-32bb28ae792f",
+    "question_id": "22.1.4",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "Sim, Pedro Moreira Salles, Ricardo Villela Marino, Ana Lúcia de Mattos Barretto Villela, Cesar Nivaldo Gon, Fabricio Bloisi Rocha, Marcos Marinho Lutz e Paulo Antunes Veras possuem background em outras indústrias."
+  },
+  {
+    "db_question_id": "57f34dd0-4190-4571-a2ef-bc627451fd91",
+    "question_id": "22.1.5",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Não",
+    "source": "Dos 13 membros, 2 são mulheres (Ana Lúcia de Mattos Barretto Villela e Maria Helena dos Santos Fernandes de Santana), equivalente a 15% do conselho."
+  },
+  {
+    "db_question_id": "a13bdf39-a0b4-40a2-b960-572e504c600a",
+    "question_id": "22.1.6",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Não",
+    "source": "Não há mulheres na diretoria."
+  },
+  {
+    "db_question_id": "14dd0515-b75a-4136-90cc-b3461b81e382",
+    "question_id": "22.1.7",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "e6e38dc9-c865-4d49-a8d2-27926686e500",
+    "question_id": "22.1.8",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "\"Comitê de Responsabilidade Social, Ambiental e Climática Define a estratégia de responsabilidade social, ambiental e climática, direciona e supervisiona a estratégia climática do banco.\""
+  },
+  {
+    "db_question_id": "df46ed5d-a0b4-4f1c-bcdc-2235cc95298f",
+    "question_id": "22.1.9",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "Sim, Roberto Egydio Setubal, Pedro Moreira Salles, Alfredo Egydio Setuba, Ana Lúcia de Mattos Barretto Villela, Candido Botelho Bracher, Maria Helena dos Santos Fernandes de Santana e Pedro Luiz Bodin de Moraes."
+  },
+  {
+    "db_question_id": "0067f723-1b6b-4541-8130-ed7ff143ff72",
+    "question_id": "22.1.10",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "Sim, José Virgilio Vita Neto."
+  },
+  {
+    "db_question_id": "74eed414-db6d-4e47-aa38-00ee8444d361",
+    "question_id": "22.1.11",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "\"Comitê de Nomeação e Governança Corporativa Revisar periodicamente critérios de nomeação e sucessão; Apoiar metodologicamente a avaliação do CA e do CEO; Indicar conselheiros e diretores gerais; Analisar potenciais conflitos de interesse.\""
+  },
+  {
+    "db_question_id": "c13000b8-079d-4aa6-b694-d2a64e8e042e",
+    "question_id": "22.1.12",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "Comitê de Auditoria (CAud): Discute e supervisiona as ações realizadas pelas áreas responsáveis por riscos Sociais, Ambientais e Climáticos, e as oportunidades pelo olhar da área de Sustentabilidade. Nível: Conselho de Administração. Periodicidade: questões climáticas são discutidas conforme demanda."
+  },
+  {
+    "db_question_id": "a2497748-05e5-4298-8ef8-f9f25166c075",
+    "question_id": "22.1.13",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "Somente Maria Helena dos Santos Fernandes Santana é membro do comitê de auditoria, e é independente."
+  },
+  {
+    "db_question_id": "806a2ae6-0f76-4dab-b58a-de68d8e9efa5",
+    "question_id": "22.1.14",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "ce61ed80-0f11-4578-b9aa-0bc464fb365a",
+    "question_id": "22.1.15",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "\"Comitê de Partes Relacionadas Gerir operações entre partes relacionadas; Assegurar a igualdade e transparência das operações.\""
+  },
+  {
+    "db_question_id": "16fa2d23-732e-41b8-b6c8-da398eac1755",
+    "question_id": "22.1.16",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "\"Gestão de Risco e Capital Definir o apetite de risco; Avaliar o custo de capital em relação ao retorno mínimo esperado; Alocar capital; Supervisionar a gestão e o controle de riscos; Aperfeiçoar a cultura de riscos; Atender às exigências regulatórias.\"; O Comitê possui 3 membros, sendo 2 indpendentes."
+  },
+  {
+    "db_question_id": "9baed8aa-4f4f-4768-85a4-287290beb009",
+    "question_id": "22.1.17",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "\"É prevista em estatuto a realização de ao menos oito reuniões ordinárias anuais. Na prática, realizamos uma reunião por mês, totalizando 12 reuniões no ano. Reuniões extraordinárias são realizadas sob demanda.\""
+  },
+  {
+    "db_question_id": "e1cb3b9b-cb75-41b4-9868-d2babec3d478",
+    "question_id": "22.1.18",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "b66c90c7-f395-4eb2-ac99-15ec00a53e2f",
+    "question_id": "22.1.19",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Sim",
+    "source": "\"As principais etapas da avaliação incluem: avaliação do Conselho de Administração por seus membros; avaliação cruzada; autoavaliação; avaliação do Conselho de Administração pelo CEO e avaliação do CEO pelo Conselho de Administração; avaliação dos Copresidentes do Conselho de Administração por seus membros; e avaliação dos comitês por seus membros.\""
+  },
+  {
+    "db_question_id": "cab7db55-ffde-4c43-93e7-b31cc2ce33c5",
+    "question_id": "21.2.1",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "3d1a3a3c-ab8e-465d-b9f7-286e174ec1e5",
+    "question_id": "21.2.2",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "faf0d449-c061-4c35-a3d7-ac602f0ce50b",
+    "question_id": "22.2.3",
+    "theme_name": "Conselho e Diretoria",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "d24af9e0-3ad4-4a10-94a8-a233ab9e5131",
+    "question_id": "23.1.1",
+    "theme_name": "Minoritários",
+    "answer": "Não",
+    "source": "\"Nosso capital social é representado por ações ordinárias (ITUB3) e preferenciais (ITUB4), ambas negociadas na Bolsa de Valores de São Paulo (B3 - Brasil, Bolsa, Balcão).\""
+  },
+  {
+    "db_question_id": "2edcc367-1385-4cfe-bdb0-4febbf65e224",
+    "question_id": "23.1.2",
+    "theme_name": "Minoritários",
+    "answer": "Sim",
+    "source": "\"We also have operations outside of Brazil, including, but not limited to, Bahamas, The Cayman Islands.\""
+  },
+  {
+    "db_question_id": "db603810-c689-4718-ad19-fc9b186a6e7a",
+    "question_id": "23.1.3",
+    "theme_name": "Minoritários",
+    "answer": "Sim",
+    "source": "\"Assembleia Geral Ordinária (AGO): Examinar, discutir e votar sobre as demonstrações contábeis; Deliberar sobre a destinação do lucro líquido, a distribuição de dividendos e a eleição dos membros do CA e do CF. Assembleia Geral Extraordinária (AGE): Deliberar matérias relevantes que não sejam da competência da AGO.\""
+  },
+  {
+    "db_question_id": "f006998f-6b6e-441f-80c6-7a647a8d7254",
+    "question_id": "23.1.4",
+    "theme_name": "Minoritários",
+    "answer": "Sim",
+    "source": "Conforme acima."
+  },
+  {
+    "db_question_id": "ba2d2b46-0448-4ecf-9e4b-50e0ec7a48f4",
+    "question_id": "23.1.5",
+    "theme_name": "Minoritários",
+    "answer": "Sim",
+    "source": "\"A cada ação ordinária compete um voto nas deliberações das Assembleias Gerais.\""
+  },
+  {
+    "db_question_id": "877bc8cd-24a9-4902-8141-712c8415584f",
+    "question_id": "23.1.6",
+    "theme_name": "Minoritários",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "89aee872-6b7d-47a9-bbfb-17f1b4faf8bf",
+    "question_id": "23.1.7",
+    "theme_name": "Minoritários",
+    "answer": "Sim",
+    "source": "Vide tópico \"Risk Factors.\""
+  },
+  {
+    "db_question_id": "a4b785e8-77be-4cf7-b6c9-3429f8a4cc1e",
+    "question_id": "23.1.8",
+    "theme_name": "Minoritários",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "5a907f33-5678-475d-9343-ce93ebb781f5",
+    "question_id": "23.1.9",
+    "theme_name": "Minoritários",
+    "answer": "Não",
+    "source": "\"As of December 31, 2024, 979,087,895 ADSs (20.4% of the total outstanding shares of our preferred shares)\""
+  },
+  {
+    "db_question_id": "c384fd88-b5f7-462b-b8ee-a23ee92ccae1",
+    "question_id": "23.1.10",
+    "theme_name": "Minoritários",
+    "answer": "Sim",
+    "source": "\"Nosso capital social é representado por ações ordinárias (ITUB3) e preferenciais (ITUB4), ambas negociadas na Bolsa de Valores de São Paulo (B3 - Brasil, Bolsa, Balcão).\""
+  },
+  {
+    "db_question_id": "4f4d98b8-d7b6-4d43-b49c-615e112c5221",
+    "question_id": "23.1.10.1",
+    "theme_name": "Minoritários",
+    "answer": "Sim",
+    "source": "\"The preferred shares underlying our ADSs do not have voting rights, except in specific circumstances.\""
+  },
+  {
+    "db_question_id": "79bfaafa-0abe-43d6-9dfd-0124de96bfaa",
+    "question_id": "21.2.1",
+    "theme_name": "Minoritários",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "085a8dc2-9aae-45e2-8b98-855ff7a8305a",
+    "question_id": "21.2.2",
+    "theme_name": "Minoritários",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "0c06e820-2262-4a64-8151-c2d64a38226d",
+    "question_id": "23.2.3",
+    "theme_name": "Minoritários",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "ec120014-82ef-465b-b39d-ad695357043c",
+    "question_id": "24.1.1",
+    "theme_name": "Integridade",
+    "answer": "Sim",
+    "source": "Estimulamos em nossos administradores e colaboradores a percepção de que leis, normas e regulamentos não esgotam as implicações éticas de todas as situações."
+  },
+  {
+    "db_question_id": "bc2a0ab0-ca35-4864-ac1e-879efa0b852a",
+    "question_id": "24.1.2",
+    "theme_name": "Integridade",
+    "answer": "Sim",
+    "source": "(...)conforme a Lei Federal nº 12.846 de 01/08/2013 (Lei Anticorrupção) e outras leis internacionais, bem como contra lavagem de dinheiro e/ou financiamento ao terrorismo, fraudes e demais atos ilícitos ou criminosos, além de nos mantermos em dia com os treinamentos e as certificações obrigatórios que se aplicam à rotina de trabalho dos colaboradores."
+  },
+  {
+    "db_question_id": "befeb932-ef41-4065-aa4d-531fa756e612",
+    "question_id": "24.1.3",
+    "theme_name": "Integridade",
+    "answer": "Sim",
+    "source": "Idem ao anterior."
+  },
+  {
+    "db_question_id": "19441e71-7608-4b5f-959d-ac48c83cb713",
+    "question_id": "24.1.4",
+    "theme_name": "Integridade",
+    "answer": "Sim",
+    "source": "Sugerir, oferecer, conceder, prometer ou receber cortesias, contribuições e favores de qualquer natureza a/de quaisquer terceiros, em troca ou a título de facilitação de negócios, operações ou atividades do Itaú Unibanco, ou visando obter vantagens indevidas para si mesmo ou para terceiros."
+  },
+  {
+    "db_question_id": "ca6f5015-45fe-407d-b4fc-8bc4cb7f147f",
+    "question_id": "21.1.5",
+    "theme_name": "Integridade",
+    "answer": "Sim",
+    "source": "O Código de Ética é disponibilizado no site da companhia."
+  },
+  {
+    "db_question_id": "10a1c718-a4eb-4582-987c-0ae553743743",
+    "question_id": "24.1.6",
+    "theme_name": "Integridade",
+    "answer": "Sim",
+    "source": "Também proporcionamos oportunidades iguais de acesso ao trabalho, ao desenvolvimento e ao crescimento profissional por meio de processos e treinamentos."
+  },
+  {
+    "db_question_id": "5f3a9a90-0671-45db-8057-22ad998f1388",
+    "question_id": "24.1.7",
+    "theme_name": "Integridade",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "89550717-fa60-4d07-833f-899ee9d98d7f",
+    "question_id": "24.1.8",
+    "theme_name": "Integridade",
+    "answer": "Sim",
+    "source": "Vide: Canais competentes para tratamento de orientações e denúncias"
+  },
+  {
+    "db_question_id": "b8bfa5f7-5764-4d79-8ac2-ba59b120e408",
+    "question_id": "24.1.9",
+    "theme_name": "Integridade",
+    "answer": "Sim",
+    "source": "\"O Comitê de Auditoria se reporta diretamente ao Conselho de Administração, sendo responsável pela supervisão dos processos de controles internos e de gestão de riscos, das atividades da auditoria interna e das atividades das empresas de auditoria independente da companhia.\""
+  },
+  {
+    "db_question_id": "b2f30e0e-8c2a-4143-b402-10968b9213c6",
+    "question_id": "24.1.10",
+    "theme_name": "Integridade",
+    "answer": "Não",
+    "source": "Consulta de Sanções | Portal da Transparência do Governo Federal"
+  },
+  {
+    "db_question_id": "d3fa95fd-2006-49f3-899c-46677e56219c",
+    "question_id": "24.1.11",
+    "theme_name": "Integridade",
+    "answer": "Não",
+    "source": "Consulta de Sanções | Portal da Transparência do Governo Federal"
+  },
+  {
+    "db_question_id": "2d9bc913-c547-4dce-8f2f-3c7d8eaa4918",
+    "question_id": "24.1.12",
+    "theme_name": "Integridade",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "b0e39731-fdb6-48ab-8ee9-d8f8282795e9",
+    "question_id": "24.1.13",
+    "theme_name": "Integridade",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "2c1b1944-0970-46e2-a54f-36eae87c34d5",
+    "question_id": "24.1.14",
+    "theme_name": "Integridade",
+    "answer": "Sim",
+    "source": "\"Neste fórum são discutidos entendimentos legais dos assuntos relacionados ao Programa, inclusive com relação à prevenção à corrupção, bem como são definidos diretrizes e melhorias nos processos em decorrência de regulamentação, riscos identificados, denúncias, entre outros.\""
+  },
+  {
+    "db_question_id": "1f70e9f5-7f36-4f0d-a847-8cf0e83ffa46",
+    "question_id": "24.1.15",
+    "theme_name": "Integridade",
+    "answer": "Sim",
+    "source": "\"A Auditoria Interna promove a avaliação independente, periódica e obrigatória, para todas as unidades, da eficiência e eficácia dos processos e procedimentos estabelecidos nos sistemas de pessoal para controle e gestão dos riscos, podendo contratar recursos externos quando julgar necessário.\""
+  },
+  {
+    "db_question_id": "62f7f483-af42-447e-b390-9dfc86eeb209",
+    "question_id": "21.2.1",
+    "theme_name": "Integridade",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "7af893df-3c2f-4fd9-b4fe-382a3bb74978",
+    "question_id": "21.2.2",
+    "theme_name": "Integridade",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "f10d43a8-028c-48a4-8c3e-b0d9a16d5686",
+    "question_id": "24.2.3",
+    "theme_name": "Integridade",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "d0739b2f-c2d9-40e5-804f-63e08072d48a",
+    "question_id": "25.1.1",
+    "theme_name": "Transparência",
+    "answer": "Sim",
+    "source": "Auditadas pela PwC."
+  },
+  {
+    "db_question_id": "6edb5da0-a74d-4060-aee4-91f4be7b1c05",
+    "question_id": "25.1.3",
+    "theme_name": "Transparência",
+    "answer": "Sim",
+    "source": "\"Comitê de Auditoria: Garantir a integridade das demonstrações contábeis; Cumprir exigências legais e regulatórias; Assegurar a eficiência dos controles internos e gestão dos riscos.\""
+  },
+  {
+    "db_question_id": "743d4dbc-d768-4188-a899-b96d1bc435b5",
+    "question_id": "25.1.4",
+    "theme_name": "Transparência",
+    "answer": "Sim",
+    "source": "Sim, a família Moreira Salles."
+  },
+  {
+    "db_question_id": "28227bb7-799b-4674-88f0-4df4ee60021e",
+    "question_id": "25.1.6",
+    "theme_name": "Transparência",
+    "answer": "Sim",
+    "source": "Vide tópico \"Compensation.\""
+  },
+  {
+    "db_question_id": "e7bd808c-8ccf-4969-8932-35dfc5e9935e",
+    "question_id": "25.1.7",
+    "theme_name": "Transparência",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "1305e632-07cc-4f32-bfbc-d6a45112cc11",
+    "question_id": "25.1.8",
+    "theme_name": "Transparência",
+    "answer": "Sim",
+    "source": "Segue os padrões SASB e GRI."
+  },
+  {
+    "db_question_id": "97f0e485-cefc-4902-9f1b-5414a5263457",
+    "question_id": "25.1.9",
+    "theme_name": "Transparência",
+    "answer": "Sim",
+    "source": "\"PricewaterhouseCoopers Auditores Independentes Ltda.\""
+  },
+  {
+    "db_question_id": "11916590-6c79-4762-87f4-313411fa3a45",
+    "question_id": "25.1.10",
+    "theme_name": "Transparência",
+    "answer": "Sim",
+    "source": "Sim, no site da companhia."
+  },
+  {
+    "db_question_id": "dec3c601-2a54-49a2-93c8-803c6b07b8ca",
+    "question_id": "25.1.11",
+    "theme_name": "Transparência",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "dea94884-54b9-45d5-b130-c69ee9782917",
+    "question_id": "25.1.12",
+    "theme_name": "Transparência",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "da65f795-37fb-43da-be92-485e5a62d33d",
+    "question_id": "25.1.13",
+    "theme_name": "Transparência",
+    "answer": "Sim",
+    "source": "Disponíveis no site da companhia."
+  },
+  {
+    "db_question_id": "d467aa5e-b68b-4261-bb04-c11ca0f9344d",
+    "question_id": "25.1.14",
+    "theme_name": "Transparência",
+    "answer": "Sim",
+    "source": "Disponíveis no site da companhia."
+  },
+  {
+    "db_question_id": "8a14aabd-f844-4f87-ac2b-a15f4090a4e6",
+    "question_id": "25.1.15",
+    "theme_name": "Transparência",
+    "answer": "Sim",
+    "source": "\"O princípio fundamental da nossa Política de Governança Corporativa é a busca de excelência em Governança Corporativa, fortalecendo e criando as melhores condições para o desenvolvimento do Itaú Unibanco e de suas subsidiárias.\""
+  },
+  {
+    "db_question_id": "a7a4cafc-15e5-4cff-9798-5c0e9e81a241",
+    "question_id": "25.1.16",
+    "theme_name": "Transparência",
+    "answer": "Sim",
+    "source": "\"Para os incidentes considerados críticos, acionamos a área de Gestão de Crises, que atua conforme procedimentos internos, com mobilização dos Executivos para tomada de decisão e das demais áreas de suporte para avaliação dos riscos.\""
+  },
+  {
+    "db_question_id": "a0f2c48b-3ebb-4724-822a-4ae980a4b6a4",
+    "question_id": "21.2.1",
+    "theme_name": "Transparência",
+    "answer": "Não",
+    "source": null
+  },
+  {
+    "db_question_id": "fb25a9f2-9fa0-401c-8f4e-d547c35ff056",
+    "question_id": "21.2.2",
+    "theme_name": "Transparência",
+    "answer": "N/A",
+    "source": null
+  },
+  {
+    "db_question_id": "ca89e297-7a3f-479d-9ff4-e8e1176a6ef0",
+    "question_id": "25.2.3",
+    "theme_name": "Transparência",
+    "answer": "N/A",
+    "source": null
+  }
+]
