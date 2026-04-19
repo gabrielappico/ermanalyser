@@ -26,8 +26,6 @@ import {
   XCircle,
   Loader2,
   Clock,
-  Zap,
-  Globe,
   Download,
 } from 'lucide-react';
 
@@ -121,15 +119,14 @@ export default function DocumentProcessingView({ file, url, customName, companyI
   };
 
   const [stages, setStages] = useState<StageInfo[]>(buildInitialStages);
-  const [currentStage, setCurrentStage] = useState<string | null>(null);
+  const [, setCurrentStage] = useState<string | null>(null);
   const [overallProgress, setOverallProgress] = useState(0);
   const [isDone, setIsDone] = useState(false);
   const [isError, setIsError] = useState(false);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const [elapsed, setElapsed] = useState(0);
   const [finalStats, setFinalStats] = useState<Record<string, any> | null>(null);
-  const [sseConnected, setSseConnected] = useState(false);
-  const [retryCount, setRetryCount] = useState(0);
+  const [, setSseConnected] = useState(false);
 
   const startTime = useRef(Date.now());
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -552,7 +549,7 @@ export default function DocumentProcessingView({ file, url, customName, companyI
 
       {/* Stages */}
       <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
-        {stages.map((stage, idx) => {
+        {stages.map((stage) => {
           const Icon = stage.icon;
           const isActive = stage.status === 'running';
           const isComplete = stage.status === 'complete';

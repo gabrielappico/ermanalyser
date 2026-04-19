@@ -304,7 +304,7 @@ export default function Sidebar({ activeView, onNavigate, selectedCompany }: Sid
       {/* Version */}
       <div style={{ padding: '0 20px 16px' }}>
         <p style={{ fontSize: '10px', color: '#4a6a58', margin: 0 }}>
-          v0.2.0 · 380 perguntas
+          v0.3.0 · 380 perguntas
         </p>
       </div>
     </aside>

@@ -63,7 +63,7 @@ export const forceCompleteAnalysis = (analysisId: string) =>
   api.post(`/analysis/force-complete/${analysisId}`);
 
 // --- SSE Streaming ---
-export const getAnalysisStreamUrl = (companyId: string, reportYear: number) =>
+export const getAnalysisStreamUrl = (_companyId: string, _reportYear: number) =>
   `/api/analysis/run-stream`;
 
 export const getAnalysisReplayUrl = (analysisId: string) =>

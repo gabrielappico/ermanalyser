@@ -7,8 +7,8 @@ settings = get_settings()
 
 app = FastAPI(
     title=settings.app_name,
-    description="ESG Document Analysis Platform for ERM — 526 questions across 26 themes",
-    version="0.2.0",
+    description="ESG Document Analysis Platform for ERM — 380 questions across 26 themes",
+    version="0.3.0",
 )
 
 app.add_middleware(
@@ -26,4 +26,4 @@ app.include_router(analysis.router, prefix="/api/analysis", tags=["Analysis"])
 
 @app.get("/health")
 async def health_check():
-    return {"status": "healthy", "service": settings.app_name, "version": "0.2.0"}
+    return {"status": "healthy", "service": settings.app_name, "version": "0.3.0"}

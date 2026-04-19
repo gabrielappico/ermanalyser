@@ -22,13 +22,11 @@ import {
   ChevronDown,
   ChevronRight,
   Activity,
-  Zap,
   Trophy,
   Download,
   RotateCcw,
   Loader2,
   Radio,
-  WifiOff,
   RefreshCw,
 } from 'lucide-react';
 import { exportAnalysis, cancelAnalysis } from '../api';
@@ -460,30 +458,36 @@ export default function LiveAnalysisView({ mode, companyId, reportYear, analysis
     }
   }, [readSSEStream, reconnect]);
 
-  // ─── Connect via EventSource (replay) ──────────────────────────────────
+  // ─── Connect via fetch (replay) ─────────────────────────────────────────
 
-  const connectReplay = useCallback((aid: string) => {
-    const es = new EventSource(`/api/analysis/replay/${aid}`);
-    eventSourceRef.current = es;
+  const connectReplay = useCallback(async (aid: string) => {
+    try {
+      abortControllerRef.current = new AbortController();
+      const response = await fetch(`/api/analysis/replay/${aid}`, {
+        signal: abortControllerRef.current.signal,
+      });
 
-    es.onopen = () => setStatus('running');
-
-    const events = [
-      'analysis:start', 'dimension:start', 'theme:start',
-      'question:answered', 'theme:complete', 'analysis:complete', 'analysis:error',
-    ];
-    events.forEach(evt => {
-      es.addEventListener(evt, (e: MessageEvent) => handleSSEEvent(evt, e.data));
-    });
-
-    es.onerror = () => {
-      es.close();
-      if (!receivedCompleteRef.current && !isUnmountedRef.current) {
+      if (!response.ok) {
         setStatus('error');
-        setErrorMsg('Conexão perdida durante replay.');
+        setErrorMsg(`Erro ${response.status}: ${await response.text()}`);
+        return;
       }
-    };
-  }, [handleSSEEvent]);
+
+      setStatus('running');
+
+      await readSSEStream(response, () => {
+        if (!receivedCompleteRef.current && !isUnmountedRef.current) {
+          setStatus('error');
+          setErrorMsg('Conexão perdida durante replay.');
+        }
+      });
+    } catch (e: any) {
+      if (e.name === 'AbortError') return;
+      console.error('[SSE] Replay connection error:', e);
+      setStatus('error');
+      setErrorMsg('Falha ao conectar para replay.');
+    }
+  }, [readSSEStream]);
 
   // ─── Main Connection Effect ─────────────────────────────────────────────
 

@@ -67,7 +67,7 @@ export default function DocumentsPanel({ company, onGoToAnalysis }: Props) {
   const [inputMode, setInputMode] = useState<InputMode>('pdf');
   const [urlInput, setUrlInput] = useState('');
   const [urlName, setUrlName] = useState('');
-  const [urlSubmitting, setUrlSubmitting] = useState(false);
+  const [urlSubmitting] = useState(false);
   const [collapsedYears, setCollapsedYears] = useState<Set<number>>(new Set());
   // Auto-discovery state
   const [discoverUrl, setDiscoverUrl] = useState('');

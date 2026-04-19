@@ -19,7 +19,6 @@ import {
   RotateCcw,
 } from 'lucide-react';
 import {
-  runAnalysis,
   getAnalysisStatus,
   getAnalysisResults,
   getAnalysisHistory,
@@ -115,7 +114,7 @@ export default function AnalysisPanel({ company }: Props) {
   const [answers, setAnswers] = useState<AnswerItem[]>([]);
   const [history, setHistory] = useState<Analysis[]>([]);
   const [loading, setLoading] = useState(true);
-  const [starting, setStarting] = useState(false);
+  const [starting] = useState(false);
   const [exporting, setExporting] = useState(false);
   const [expandedTheme, setExpandedTheme] = useState<string | null>(null);
   const [hasDocuments, setHasDocuments] = useState(false);

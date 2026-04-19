@@ -472,7 +472,7 @@ export default function CompaniesPanel({ onSelectCompany }: Props) {
       const extras = res.data
         .map((c: Company) => c.sector)
         .filter((s: string | undefined): s is string => !!s && !existingSectors.has(s));
-      setCustomSectors([...new Set(extras)]);
+      setCustomSectors([...new Set<string>(extras)]);
     } catch (err) {
       console.error('Failed to fetch companies:', err);
     } finally {
