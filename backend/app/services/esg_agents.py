@@ -388,8 +388,75 @@ def _reorder_and_fill(
             print(f"    ❌ {still_missing} questions still unanswered after retry")
         else:
             print(f"    ✅ All {len(missing_qs)} missing questions recovered on retry")
-    
+
+    # Final pass: ensure every answer has a real source_reference
+    ordered = _postprocess_sources(ordered, context_chunks)
     return ordered
+
+
+# Patterns that indicate the LLM returned a generic/useless source instead of a real file+page
+_GENERIC_SOURCE_PATTERNS = [
+    "nenhuma evidencia", "nenhuma evidência",
+    "documentos analisados", "trechos fornecidos",
+    "informação não encontrada", "informacao nao encontrada",
+    "não encontrada", "nao encontrada",
+    "n/a", "não aplicável", "nao aplicavel",
+]
+
+
+def _is_generic_source(source: str | None) -> bool:
+    """Check if a source_reference is generic/useless (not a real file+page)."""
+    if not source:
+        return True
+    source_lower = source.strip().lower()
+    if not source_lower:
+        return True
+    return any(pattern in source_lower for pattern in _GENERIC_SOURCE_PATTERNS)
+
+
+def _derive_source_from_chunks(context_chunks: list[dict]) -> str:
+    """Build a source_reference from the context chunks (top sources with pages)."""
+    if not context_chunks:
+        return "Documentos da empresa"
+
+    # Collect unique (filename, page) pairs from the chunks provided
+    seen = set()
+    sources = []
+    for chunk in context_chunks[:5]:  # Top 5 most relevant chunks
+        fname = chunk.get("document_filename", "Documento")
+        page = chunk.get("page_number")
+        page_range = chunk.get("page_range")
+
+        if page_range and len(page_range) > 1:
+            key = (fname, f"p.{page_range[0]}-{page_range[-1]}")
+        elif page:
+            key = (fname, f"p.{page}")
+        else:
+            key = (fname, None)
+
+        if key not in seen:
+            seen.add(key)
+            if key[1]:
+                sources.append(f"{fname}, {key[1]}")
+            else:
+                sources.append(fname)
+
+    return "; ".join(sources) if sources else "Documentos da empresa"
+
+
+def _postprocess_sources(answers: list[dict], context_chunks: list[dict]) -> list[dict]:
+    """Ensure every answer has a meaningful source_reference (file + page).
+
+    If the LLM returned a generic or empty source, derive it from the context chunks.
+    """
+    fallback_source = _derive_source_from_chunks(context_chunks)
+
+    for ans in answers:
+        src = ans.get("source_reference")
+        if _is_generic_source(src):
+            ans["source_reference"] = fallback_source
+
+    return answers
 
 
 def _build_user_prompt(questions: list[dict], context_text: str) -> str:
@@ -442,13 +509,16 @@ Regras:
 - answer DEVE ser exatamente "Sim", "Nao" ou "N/A"
 - justification = citacao LITERAL entre aspas duplas. Copie exatamente como esta no documento. Maximo 3 frases.
 
-## REGRA CRITICA PARA source_reference (OBRIGATORIO):
-- source_reference DEVE conter o NOME EXATO do arquivo conforme aparece no cabecalho [FONTE: ...] dos trechos acima + o numero da pagina
+## REGRA CRITICA PARA source_reference (OBRIGATORIO — NUNCA DEIXE VAZIO):
+- source_reference DEVE SEMPRE conter o NOME EXATO do arquivo conforme aparece no cabecalho [FONTE: ...] dos trechos acima + o numero da pagina
 - Formato OBRIGATORIO: "NomeDoArquivo.pdf, p.XX" (copie o nome exato do cabecalho [FONTE:])
 - Se o trecho nao tem pagina, use apenas o nome do arquivo: "NomeDoArquivo.pdf"
 - Se a evidencia vem de MULTIPLOS documentos, liste todos: "Relatorio ESG 2024.pdf, p.12; Politica Ambiental.pdf, p.3"
-- NUNCA use termos genericos como "Documentos analisados", "Trechos fornecidos" ou "N/A" no source_reference
-- Se NAO encontrou evidencia, use: "Nenhuma evidencia encontrada nos documentos"
+- NUNCA use termos genericos como "Documentos analisados", "Trechos fornecidos", "N/A" ou "Nenhuma evidencia" no source_reference
+- MESMO quando a resposta for "Nao" ou "N/A", o source_reference DEVE referenciar o documento analisado mais relevante
+  Exemplo para resposta "Nao": source_reference: "Relatorio ESG 2024.pdf, p.45" (o documento foi consultado mas nao continha a evidencia)
+  Exemplo para resposta "N/A": source_reference: "Relatorio ESG 2024.pdf" (o documento principal consultado)
+- COPIE o nome do arquivo EXATAMENTE como aparece nos cabecalhos [FONTE: ...] acima
 
 - Se encontrou evidencia INDIRETA (a empresa menciona resultados ou acoes que implicam a pratica), responda "Sim" com confidence_score medio (0.4-0.6)
 - Se NAO encontrou NENHUMA evidencia direta ou indireta, responda "Nao" com justification "Informacao nao encontrada nos documentos analisados" e confidence_score baixo
@@ -489,6 +559,10 @@ def _call_llm_batch(dimension: str, questions: list[dict], context_chunks: list[
                 if model.startswith("gpt-5")
                 else {"max_tokens": 16384}
             )
+
+            import time as _time
+            t0 = _time.monotonic()
+
             response = client.chat.completions.create(
                 model=model,
                 messages=[
@@ -497,10 +571,12 @@ def _call_llm_batch(dimension: str, questions: list[dict], context_chunks: list[
                 ],
                 response_format={"type": "json_object"},
                 temperature=0.1,
+                timeout=120,  # 2min hard timeout — prevents infinite hangs
                 **token_param,
             )
 
             raw = json.loads(response.choices[0].message.content)
+            elapsed = _time.monotonic() - t0
             answers = raw if isinstance(raw, list) else raw.get("answers", raw.get("results", raw.get("respostas", [raw])))
 
             if not isinstance(answers, list):
@@ -509,16 +585,17 @@ def _call_llm_batch(dimension: str, questions: list[dict], context_chunks: list[
             got = len(answers)
             expected = len(questions)
             if got < expected:
-                print(f"    ⚠️ Got {got}/{expected} answers from {model} — {expected - got} MISSING")
+                print(f"    ⚠️ Got {got}/{expected} answers from {model} in {elapsed:.1f}s — {expected - got} MISSING")
                 # Log which question_ids are missing
                 answered_ids = {_normalize_qid(a.get('question_id', '')) for a in answers}
                 for q in questions:
                     if _normalize_qid(q['question_id']) not in answered_ids:
                         print(f"       Missing: {q['question_id']}")
             else:
-                print(f"    -> Got {got}/{expected} answers from {model}")
+                print(f"    -> Got {got}/{expected} answers from {model} in {elapsed:.1f}s")
 
-            # Don't fill here — let _reorder_and_fill handle missing answers with retry
+            # Post-process: ensure every answer has a real source_reference
+            answers = _postprocess_sources(answers, context_chunks)
             return answers
 
         except Exception as e:
@@ -526,6 +603,14 @@ def _call_llm_batch(dimension: str, questions: list[dict], context_chunks: list[
             if "429" in error_str or "rate_limit" in error_str:
                 wait_time = 15 * (attempt + 1)
                 print(f"    Rate limit hit on {model}, waiting {wait_time}s (attempt {attempt+1}/{max_retries})...")
+                import time
+                time.sleep(wait_time)
+                continue
+
+            # Timeout — retry with backoff
+            if "timeout" in error_str.lower() or "timed out" in error_str.lower():
+                wait_time = 5 * (attempt + 1)
+                print(f"    ⏱️ Timeout on {model} (attempt {attempt+1}/{max_retries}), retrying in {wait_time}s...")
                 import time
                 time.sleep(wait_time)
                 continue

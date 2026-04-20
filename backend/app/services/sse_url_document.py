@@ -270,7 +270,18 @@ async def process_url_with_sse(
 
     except Exception as e:
         sb.table("documents").update({"status": "error"}).eq("id", document_id).execute()
+
+        error_msg = str(e)
+        # Provide user-friendly messages for common connection errors
+        error_lower = error_msg.lower()
+        if "connect" in error_lower or "timeout" in error_lower or "name resolution" in error_lower:
+            error_msg = f"Não foi possível acessar a URL (falha de conexão após 3 tentativas). Verifique se a URL está acessível e tente novamente. Detalhe: {error_msg}"
+        elif "403" in error_msg or "forbidden" in error_lower:
+            error_msg = "Acesso negado pelo servidor (403 Forbidden). O site pode estar bloqueando acessos automatizados."
+        elif "404" in error_msg:
+            error_msg = "Página não encontrada (404). Verifique se a URL está correta."
+
         yield _sse("processing:error", {
-            "error": str(e),
+            "error": error_msg,
             "document_id": document_id,
         })

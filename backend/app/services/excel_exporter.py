@@ -13,6 +13,8 @@ from datetime import datetime
 
 from openpyxl import load_workbook
 from openpyxl.utils import get_column_letter
+from openpyxl.styles import Font
+from copy import copy
 from app.database import get_supabase
 
 # Regex to strip XML-illegal control characters that openpyxl rejects.
@@ -293,15 +295,35 @@ async def export_analysis_to_excel(analysis_id: str) -> str:
             if justification:
                 ws.cell(row=row_num, column=6).value = justification
 
-            # Column L = Source reference
+            # Column L = Source reference (fix font color — template uses
+            # theme=10 which is invisible on the light background)
             source = _sanitize_for_excel(answer_data.get("source_reference"))
             if source:
-                ws.cell(row=row_num, column=12).value = source
+                cell_L = ws.cell(row=row_num, column=12)
+                cell_L.value = source
+                # Override font to dark color so text is visible
+                old_font = cell_L.font
+                cell_L.font = Font(
+                    name=old_font.name or "Trebuchet MS",
+                    size=old_font.size or 10,
+                    bold=old_font.bold,
+                    italic=old_font.italic,
+                    color="333333",  # Dark gray — visible on any background
+                )
 
-            # Column P = Improvement points
+            # Column P = Improvement points (same font fix)
             improvements = _sanitize_for_excel(answer_data.get("improvement_points"))
             if improvements:
-                ws.cell(row=row_num, column=16).value = improvements
+                cell_P = ws.cell(row=row_num, column=16)
+                cell_P.value = improvements
+                old_font = cell_P.font
+                cell_P.font = Font(
+                    name=old_font.name or "Trebuchet MS",
+                    size=old_font.size or 10,
+                    bold=old_font.bold,
+                    italic=old_font.italic,
+                    color="333333",
+                )
 
             filled_count += 1
 

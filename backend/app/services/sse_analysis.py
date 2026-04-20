@@ -105,12 +105,12 @@ async def subscribe_analysis_sse(
 
     # Main poll loop — keep checking DB for new answers
     stale_count = 0
-    max_stale = 180  # 180 polls * 2s = 6 minutes without progress = give up
+    max_stale = 450  # 450 polls * 2s = 15 minutes without progress = give up
 
     while True:
-        # Check analysis status
+        # Check analysis status + heartbeat
         status_row = (await asyncio.to_thread(
-            lambda: sb.table("analyses").select("status").eq("id", analysis_id).single().execute()
+            lambda: sb.table("analyses").select("status, heartbeat_at").eq("id", analysis_id).single().execute()
         )).data
 
         if not status_row:
@@ -118,6 +118,18 @@ async def subscribe_analysis_sse(
             return
 
         current_status = status_row["status"]
+
+        # If the runner sent a recent heartbeat, it's alive — reset stale counter
+        heartbeat_at = status_row.get("heartbeat_at")
+        if heartbeat_at and stale_count > 0:
+            from datetime import datetime, timezone
+            try:
+                hb_time = datetime.fromisoformat(heartbeat_at.replace("Z", "+00:00"))
+                age_seconds = (datetime.now(timezone.utc) - hb_time).total_seconds()
+                if age_seconds < 600:  # Heartbeat within last 10 minutes
+                    stale_count = 0  # Runner is alive, just processing LLM batch
+            except Exception:
+                pass
 
         # Fetch new answers since last check
         new_answers = (await asyncio.to_thread(

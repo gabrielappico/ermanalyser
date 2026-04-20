@@ -50,6 +50,15 @@ async def list_all_questions():
     return result.data
 
 
+@router.get("/questions/count")
+async def get_question_count():
+    """Return the total number of ESG questions and themes."""
+    sb = get_supabase()
+    questions = sb.table("esg_questions").select("id", count="exact").execute()
+    themes = sb.table("esg_themes").select("id", count="exact").execute()
+    return {"count": questions.count, "themes_count": themes.count}
+
+
 @router.post("/run")
 async def create_and_run_analysis(request: AnalysisCreate, background_tasks: BackgroundTasks):
     """Create and start an ESG analysis for a company + year."""
@@ -213,8 +222,9 @@ async def run_analysis_stream(request_body: AnalysisCreate):
 
     if existing.data:
         analysis_id = existing.data[0]["id"]
+        prev_status = existing.data[0]["status"]
         # If already running in background, just subscribe
-        if existing.data[0]["status"] == "running" and is_analysis_running(analysis_id):
+        if prev_status == "running" and is_analysis_running(analysis_id):
             # Count already answered questions for catch-up
             answered = sb.table("answers").select("id", count="exact").eq("analysis_id", analysis_id).execute()
             return StreamingResponse(
@@ -226,9 +236,16 @@ async def run_analysis_stream(request_body: AnalysisCreate):
                     "X-Accel-Buffering": "no",
                 },
             )
-        # Reset for fresh run
-        sb.table("answers").delete().eq("analysis_id", analysis_id).execute()
-        sb.table("theme_scores").delete().eq("analysis_id", analysis_id).execute()
+
+        # Only wipe answers on a FULL re-run (previously completed analysis)
+        # For stalled/error/pending analyses, keep existing answers so resume works
+        if prev_status == "completed":
+            sb.table("answers").delete().eq("analysis_id", analysis_id).execute()
+            sb.table("theme_scores").delete().eq("analysis_id", analysis_id).execute()
+        elif prev_status in ("error", "pending", "cancelled", "running"):
+            # Resume: keep existing answers, only clear theme_scores for recalculation
+            # "running" ends up here when the server restarted and the task was lost
+            sb.table("theme_scores").delete().eq("analysis_id", analysis_id).execute()
     else:
         result = sb.table("analyses").insert({
             "company_id": request_body.company_id,
@@ -610,3 +627,24 @@ async def force_complete_analysis(analysis_id: str):
         "overall_rating": get_rating(overall),
         "message": f"Analysis force-completed with {len(answers.data)} answers. Score: {overall:.1f}",
     }
+
+
+@router.delete("/delete/{analysis_id}")
+async def delete_analysis(analysis_id: str):
+    """Delete an analysis and all related data (answers, theme_scores)."""
+    sb = get_supabase()
+
+    analysis = sb.table("analyses").select("id, status").eq("id", analysis_id).single().execute()
+    if not analysis.data:
+        raise HTTPException(status_code=404, detail="Analysis not found")
+
+    # Cancel if running
+    if analysis.data["status"] == "running":
+        cancel_analysis_task(analysis_id)
+
+    # Delete related data first (foreign key order)
+    sb.table("answers").delete().eq("analysis_id", analysis_id).execute()
+    sb.table("theme_scores").delete().eq("analysis_id", analysis_id).execute()
+    sb.table("analyses").delete().eq("id", analysis_id).execute()
+
+    return {"id": analysis_id, "message": "Análise excluída com sucesso."}

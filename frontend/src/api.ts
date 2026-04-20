@@ -41,6 +41,7 @@ export const getThemes = () => api.get('/analysis/themes');
 export const getThemeQuestions = (themeId: string) =>
   api.get(`/analysis/themes/${themeId}/questions`);
 export const getAllQuestions = () => api.get('/analysis/questions');
+export const getQuestionsCount = () => api.get<{ count: number; themes_count: number }>('/analysis/questions/count');
 
 // --- Analysis ---
 export const runAnalysis = (companyId: string, reportYear: number) =>
@@ -61,6 +62,8 @@ export const unstickAnalyses = () =>
   api.post('/analysis/unstick');
 export const forceCompleteAnalysis = (analysisId: string) =>
   api.post(`/analysis/force-complete/${analysisId}`);
+export const deleteAnalysis = (analysisId: string) =>
+  api.delete(`/analysis/delete/${analysisId}`);
 
 // --- SSE Streaming ---
 export const getAnalysisStreamUrl = (_companyId: string, _reportYear: number) =>

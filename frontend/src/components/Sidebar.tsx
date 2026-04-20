@@ -10,6 +10,7 @@ interface SidebarProps {
   activeView: View;
   onNavigate: (view: View) => void;
   selectedCompany: Company | null;
+  totalQuestions: number;
 }
 
 const NAV_ITEMS: { view: View; label: string; icon: typeof Building2; description: string }[] = [
@@ -18,7 +19,7 @@ const NAV_ITEMS: { view: View; label: string; icon: typeof Building2; descriptio
   { view: 'analysis', label: 'Análise ESG', icon: BarChart3, description: 'Avaliação por agentes' },
 ];
 
-export default function Sidebar({ activeView, onNavigate, selectedCompany }: SidebarProps) {
+export default function Sidebar({ activeView, onNavigate, selectedCompany, totalQuestions }: SidebarProps) {
   return (
     <aside
       style={{
@@ -304,7 +305,7 @@ export default function Sidebar({ activeView, onNavigate, selectedCompany }: Sid
       {/* Version */}
       <div style={{ padding: '0 20px 16px' }}>
         <p style={{ fontSize: '10px', color: '#4a6a58', margin: 0 }}>
-          v0.3.0 · 380 perguntas
+          v0.3.0 · {totalQuestions || '…'} perguntas
         </p>
       </div>
     </aside>

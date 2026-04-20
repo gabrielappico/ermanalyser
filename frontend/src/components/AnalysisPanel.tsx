@@ -17,6 +17,7 @@ import {
   FileSpreadsheet,
   Radio,
   RotateCcw,
+  Trash2,
 } from 'lucide-react';
 import {
   getAnalysisStatus,
@@ -28,6 +29,7 @@ import {
   forceRestartAnalysis,
   unstickAnalyses,
   forceCompleteAnalysis,
+  deleteAnalysis,
 } from '../api';
 import type { Company } from '../App';
 import LiveAnalysisView from './LiveAnalysisView';
@@ -80,6 +82,8 @@ interface AnswerItem {
 
 interface Props {
   company: Company;
+  totalQuestions: number;
+  totalThemes: number;
 }
 
 const DIM_CONFIG = {
@@ -107,7 +111,7 @@ function RatingBadge({ rating, size = 'md' }: { rating: string | null; size?: 's
   );
 }
 
-export default function AnalysisPanel({ company }: Props) {
+export default function AnalysisPanel({ company, totalQuestions, totalThemes }: Props) {
   const [reportYear, setReportYear] = useState(new Date().getFullYear() - 1);
   const [analysis, setAnalysis] = useState<Analysis | null>(null);
   const [themeScores, setThemeScores] = useState<ThemeScore[]>([]);
@@ -124,6 +128,7 @@ export default function AnalysisPanel({ company }: Props) {
   const [unsticking, setUnsticking] = useState(false);
   const [forceCompleting, setForceCompleting] = useState(false);
   const [actionMessage, setActionMessage] = useState<{ type: 'success' | 'error'; text: string } | null>(null);
+  const [deleting, setDeleting] = useState(false);
   const pollingRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   const fetchHistory = useCallback(async () => {
@@ -337,7 +342,7 @@ export default function AnalysisPanel({ company }: Props) {
             Análise ESG
           </h2>
           <p style={{ fontSize: '14px', color: 'var(--color-text-muted)', marginTop: '6px' }}>
-            {company.name} — 380 perguntas · 26 temas · Rating A-E
+            {company.name} — {totalQuestions || '…'} perguntas · {totalThemes || '…'} temas · Rating A-E
           </p>
         </div>
 
@@ -419,7 +424,7 @@ export default function AnalysisPanel({ company }: Props) {
           </h3>
           <p style={{ fontSize: '14px', color: 'var(--color-text-muted)', marginBottom: '24px', maxWidth: '500px', margin: '0 auto 24px' }}>
             {hasDocuments
-              ? 'Documentos prontos. A análise processará 380 perguntas em 26 temas usando agentes especializados de IA.'
+              ? `Documentos prontos. A análise processará ${totalQuestions || '…'} perguntas em ${totalThemes || '…'} temas usando agentes especializados de IA.`
               : `Nenhum documento processado para ${reportYear}. Faça upload na aba Documentos primeiro.`}
           </p>
           <button
@@ -481,7 +486,7 @@ export default function AnalysisPanel({ company }: Props) {
             }} />
           </div>
           <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '12px', color: 'var(--color-text-muted)' }}>
-            <span>{analysis.progress?.completed || 0} de {analysis.progress?.total || 380} perguntas</span>
+            <span>{analysis.progress?.completed || 0} de {analysis.progress?.total || totalQuestions} perguntas</span>
             <span>{analysis.progress?.percentage || 0}%</span>
           </div>
         </div>
@@ -708,7 +713,7 @@ export default function AnalysisPanel({ company }: Props) {
           <div style={{
             padding: '16px 20px', borderRadius: '12px',
             background: 'var(--color-surface-light)', border: '1px solid var(--color-border)',
-            display: 'flex', gap: '24px', fontSize: '12px', color: 'var(--color-text-muted)',
+            display: 'flex', alignItems: 'center', gap: '24px', fontSize: '12px', color: 'var(--color-text-muted)',
           }}>
             <span style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
               <Clock style={{ width: '12px', height: '12px' }} />
@@ -722,6 +727,53 @@ export default function AnalysisPanel({ company }: Props) {
               <BarChart3 style={{ width: '12px', height: '12px' }} />
               {themeScores.length} temas avaliados
             </span>
+            <button
+              onClick={async () => {
+                if (!analysis || deleting) return;
+                if (!window.confirm('Tem certeza que deseja excluir esta análise? Esta ação não pode ser desfeita.')) return;
+                setDeleting(true);
+                try {
+                  await deleteAnalysis(analysis.id);
+                  setAnalysis(null);
+                  setThemeScores([]);
+                  setAnswers([]);
+                  setActionMessage({ type: 'success', text: 'Análise excluída com sucesso.' });
+                } catch (err: any) {
+                  setActionMessage({ type: 'error', text: err.response?.data?.detail || 'Falha ao excluir.' });
+                } finally {
+                  setDeleting(false);
+                }
+              }}
+              disabled={deleting}
+              title="Excluir análise"
+              style={{
+                display: 'flex', alignItems: 'center', gap: '5px',
+                marginLeft: 'auto',
+                padding: '4px 10px', borderRadius: '6px',
+                background: 'transparent', border: '1px solid transparent',
+                color: 'var(--color-text-faint)', fontSize: '11px', fontWeight: 500,
+                cursor: deleting ? 'wait' : 'pointer',
+                opacity: deleting ? 0.5 : 0.6,
+                transition: 'all 0.2s',
+              }}
+              onMouseEnter={e => {
+                e.currentTarget.style.color = '#ef4444';
+                e.currentTarget.style.borderColor = 'rgba(239,68,68,0.2)';
+                e.currentTarget.style.background = 'rgba(239,68,68,0.05)';
+                e.currentTarget.style.opacity = '1';
+              }}
+              onMouseLeave={e => {
+                e.currentTarget.style.color = 'var(--color-text-faint)';
+                e.currentTarget.style.borderColor = 'transparent';
+                e.currentTarget.style.background = 'transparent';
+                e.currentTarget.style.opacity = '0.6';
+              }}
+            >
+              {deleting
+                ? <Loader2 style={{ width: '11px', height: '11px', animation: 'spin 1s linear infinite' }} />
+                : <Trash2 style={{ width: '11px', height: '11px' }} />}
+              Excluir
+            </button>
           </div>
         </>
       )}

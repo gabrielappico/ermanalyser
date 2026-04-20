@@ -13,6 +13,7 @@ Fallback logic:
 """
 
 import re
+import asyncio
 import logging
 import httpx
 import trafilatura
@@ -210,22 +211,41 @@ def derive_filename_from_url(url: str) -> str:
     return parsed.netloc.replace("www.", "")[:60] + ".html"
 
 
-async def download_url(url: str) -> tuple[bytes, str, str]:
-    """Download content from URL (static). Returns (content_bytes, content_type, final_url)."""
-    async with httpx.AsyncClient(
-        follow_redirects=True,
-        timeout=DOWNLOAD_TIMEOUT,
-        headers={"User-Agent": USER_AGENT},
-        verify=False,
-    ) as client:
-        response = await client.get(url)
-        response.raise_for_status()
+async def download_url(url: str, max_retries: int = 3) -> tuple[bytes, str, str]:
+    """Download content from URL (static). Returns (content_bytes, content_type, final_url).
 
-        if len(response.content) > MAX_DOWNLOAD_SIZE:
-            raise ValueError(f"File too large: {len(response.content)} bytes (max {MAX_DOWNLOAD_SIZE})")
+    Retries up to max_retries times with exponential backoff for transient
+    network errors (DNS, connection refused, CDN flaps).
+    """
+    last_error: Exception | None = None
 
-        content_type = response.headers.get("content-type", "")
-        return response.content, content_type, str(response.url)
+    for attempt in range(1, max_retries + 1):
+        try:
+            async with httpx.AsyncClient(
+                follow_redirects=True,
+                timeout=DOWNLOAD_TIMEOUT,
+                headers={"User-Agent": USER_AGENT},
+                verify=False,
+            ) as client:
+                response = await client.get(url)
+                response.raise_for_status()
+
+                if len(response.content) > MAX_DOWNLOAD_SIZE:
+                    raise ValueError(f"File too large: {len(response.content)} bytes (max {MAX_DOWNLOAD_SIZE})")
+
+                content_type = response.headers.get("content-type", "")
+                return response.content, content_type, str(response.url)
+
+        except (httpx.ConnectError, httpx.ConnectTimeout, httpx.ReadTimeout, httpx.RemoteProtocolError) as e:
+            last_error = e
+            if attempt < max_retries:
+                wait = 2 ** attempt  # 2s, 4s
+                logger.warning(f"[URL Download] Attempt {attempt}/{max_retries} failed: {e}. Retrying in {wait}s...")
+                await asyncio.sleep(wait)
+            else:
+                logger.error(f"[URL Download] All {max_retries} attempts failed for {url}: {e}")
+
+    raise last_error  # type: ignore[misc]
 
 
 async def download_url_with_browser(url: str, wait_seconds: int = 15) -> tuple[bytes, str, str, str]:

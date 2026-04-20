@@ -139,9 +139,28 @@ async def _run_analysis(
 
             for i in range(0, len(questions), batch_size):
                 batch = questions[i:i + batch_size]
+                batch_num = i // batch_size + 1
+                total_batches = (len(questions) - 1) // batch_size + 1
+
+                # Heartbeat: update timestamp so SSE subscriber knows we're alive
+                try:
+                    await asyncio.to_thread(
+                        lambda: sb.table("analyses").update({
+                            "heartbeat_at": datetime.now(timezone.utc).isoformat(),
+                        }).eq("id", analysis_id).execute()
+                    )
+                except Exception:
+                    pass  # Non-critical
+
+                print(f"    Batch {batch_num}/{total_batches} ({len(batch)} questions) — calling LLM...")
+                t0 = time.monotonic()
+
                 agent_answers = await asyncio.to_thread(
                     ask_agent_batch, dimension, batch, context_chunks
                 )
+
+                elapsed = time.monotonic() - t0
+                print(f"    Batch {batch_num}/{total_batches} LLM returned in {elapsed:.1f}s")
 
                 saved = 0
                 for ans, batch_q in zip(agent_answers, batch):
@@ -190,7 +209,7 @@ async def _run_analysis(
                     theme_answers.append({"question_id": q["question_id"], "answer": answer_val})
                     saved += 1
 
-                print(f"    Batch {i//batch_size + 1}: {saved}/{len(batch)} answers saved")
+                print(f"    Batch {batch_num}/{total_batches}: {saved}/{len(batch)} saved ✓")
                 # Brief pause between batches to avoid rate limits
                 await asyncio.sleep(0.5)
 

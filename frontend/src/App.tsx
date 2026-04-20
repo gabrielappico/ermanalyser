@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import './index.css';
 import Sidebar from './components/Sidebar';
 import CompaniesPanel from './components/CompaniesPanel';
@@ -11,6 +11,7 @@ import {
   ChevronRight,
   Zap,
 } from 'lucide-react';
+import { getQuestionsCount } from './api';
 
 export type View = 'companies' | 'documents' | 'analysis';
 
@@ -31,6 +32,15 @@ const VIEW_META: Record<View, { label: string; icon: typeof Building2 }> = {
 function App() {
   const [activeView, setActiveView] = useState<View>('companies');
   const [selectedCompany, setSelectedCompany] = useState<Company | null>(null);
+  const [totalQuestions, setTotalQuestions] = useState<number>(0);
+  const [totalThemes, setTotalThemes] = useState<number>(0);
+
+  useEffect(() => {
+    getQuestionsCount().then(res => {
+      setTotalQuestions(res.data.count);
+      setTotalThemes(res.data.themes_count);
+    }).catch(() => {});
+  }, []);
 
   const handleSelectCompany = (company: Company) => {
     setSelectedCompany(company);
@@ -57,6 +67,7 @@ function App() {
         activeView={activeView}
         onNavigate={setActiveView}
         selectedCompany={selectedCompany}
+        totalQuestions={totalQuestions}
       />
 
       <div style={{ flex: 1, display: 'flex', flexDirection: 'column', overflow: 'hidden', minWidth: 0 }}>
@@ -159,7 +170,7 @@ function App() {
               />
             )}
             {activeView === 'analysis' && selectedCompany && (
-              <AnalysisPanel company={selectedCompany} />
+              <AnalysisPanel company={selectedCompany} totalQuestions={totalQuestions} totalThemes={totalThemes} />
             )}
             {(activeView === 'documents' || activeView === 'analysis') && !selectedCompany && (
               <div

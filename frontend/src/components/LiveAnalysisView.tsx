@@ -167,7 +167,7 @@ export default function LiveAnalysisView({ mode, companyId, reportYear, analysis
 
     switch (event) {
       case 'analysis:start':
-        setTotalQuestions(data.total_questions || 380);
+        setTotalQuestions(prev => data.total_questions || prev);
         if (data.analysis_id) analysisIdRef.current = data.analysis_id;
         setStatus('running');
         setReconnectAttempt(0);
@@ -572,6 +572,12 @@ export default function LiveAnalysisView({ mode, companyId, reportYear, analysis
             {status === 'running' && (
               <button
                 onClick={async () => {
+                  if (mode === 'replay') {
+                    // In replay mode, just stop the stream and close
+                    abortControllerRef.current?.abort();
+                    onClose();
+                    return;
+                  }
                   if (!analysisIdRef.current) return;
                   setCancelling(true);
                   try {
@@ -592,7 +598,7 @@ export default function LiveAnalysisView({ mode, companyId, reportYear, analysis
                 {cancelling
                   ? <Loader2 style={{ width: '13px', height: '13px', animation: 'spin 1s linear infinite' }} />
                   : <XCircle style={{ width: '13px', height: '13px' }} />}
-                {cancelling ? 'Cancelando...' : 'Cancelar'}
+                {cancelling ? 'Cancelando...' : mode === 'replay' ? 'Parar' : 'Cancelar'}
               </button>
             )}
             {status === 'completed' && (
@@ -975,7 +981,7 @@ export default function LiveAnalysisView({ mode, companyId, reportYear, analysis
                 const cfg = DIM_CONFIG[dim];
                 const score = dim === 'environmental' ? finalScores.environmental_score
                   : dim === 'social' ? finalScores.social_score
-                  : finalScores.governance_score;
+                    : finalScores.governance_score;
                 const Icon = cfg.icon;
                 return (
                   <div key={dim} style={{
